@@ -2,7 +2,7 @@
 <gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
   <graph defaultedgetype="undirected" mode="static" name="">
     <attributes class="node" mode="static">
-      <attribute id="0" title="cost" type="string" />
+      <attribute id="0" title="fraktion" type="string" />
     </attributes>
     <meta>
       <creator>NetworkX 2.3</creator>
@@ -1006,9 +1006,9 @@
       </node>
     </nodes>
     <edges>
-      <edge id="0" source="Addor Jean-Luc" target="Addor Jean-Luc" weight="1.0000000000000002" />
-      <edge id="1" source="Addor Jean-Luc" target="Aeschi Thomas" weight="0.8282148153233362" />
-      <edge id="2" source="Addor Jean-Luc" target="Amaudruz Céline" weight="0.814113422016687" />
+      <edge id="0" source="Addor Jean-Luc" target="Addor Jean-Luc" weight="1.0" />
+      <edge id="1" source="Addor Jean-Luc" target="Aeschi Thomas" weight="0.8282148153233369" />
+      <edge id="2" source="Addor Jean-Luc" target="Amaudruz Céline" weight="0.8141134220166881" />
       <edge id="3" source="Addor Jean-Luc" target="Buffat Michaël" weight="0.8016229026034256" />
       <edge id="4" source="Addor Jean-Luc" target="Burgherr Thomas" weight="0.8229532150775847" />
       <edge id="5" source="Addor Jean-Luc" target="Estermann Yvette" weight="0.8439621252159395" />
@@ -1028,10 +1028,10 @@
       <edge id="19" source="Addor Jean-Luc" target="Tuena Mauro" weight="0.8476180734342863" />
       <edge id="20" source="Addor Jean-Luc" target="Walliser Bruno" weight="0.838637389881463" />
       <edge id="21" source="Addor Jean-Luc" target="Zanetti Claudio" weight="0.8391668858681217" />
-      <edge id="22" source="Aebi Andreas" target="Aebi Andreas" weight="0.9999999999999999" />
-      <edge id="23" source="Aebi Andreas" target="Aeschi Thomas" weight="0.8051084850302839" />
-      <edge id="24" source="Aebi Andreas" target="Amaudruz Céline" weight="0.8143183938295144" />
-      <edge id="25" source="Aebi Andreas" target="Arnold Beat" weight="0.8010222601221064" />
+      <edge id="22" source="Aebi Andreas" target="Aebi Andreas" weight="1.0000000000000002" />
+      <edge id="23" source="Aebi Andreas" target="Aeschi Thomas" weight="0.8051084850302834" />
+      <edge id="24" source="Aebi Andreas" target="Amaudruz Céline" weight="0.8143183938295145" />
+      <edge id="25" source="Aebi Andreas" target="Arnold Beat" weight="0.8010222601221078" />
       <edge id="26" source="Aebi Andreas" target="Buffat Michaël" weight="0.8460084734083053" />
       <edge id="27" source="Aebi Andreas" target="Burgherr Thomas" weight="0.8350343456171154" />
       <edge id="28" source="Aebi Andreas" target="Chiesa Marco" weight="0.8074926328111935" />
@@ -1069,10 +1069,10 @@
       <edge id="60" source="Aebi Andreas" target="Wobmann Walter" weight="0.8226727483807768" />
       <edge id="61" source="Aebi Andreas" target="Zanetti Claudio" weight="0.8513182560890002" />
       <edge id="62" source="Aebi Andreas" target="Zuberbühler David" weight="0.8283748345779294" />
-      <edge id="63" source="Aebischer Matthias" target="Aebischer Matthias" weight="0.9999999999999993" />
-      <edge id="64" source="Aebischer Matthias" target="Arslan Sibel" weight="0.8042899255755261" />
-      <edge id="65" source="Aebischer Matthias" target="Barrile Angelo" weight="0.8646888926198928" />
-      <edge id="66" source="Aebischer Matthias" target="Bendahan Samuel" weight="0.8653049166349396" />
+      <edge id="63" source="Aebischer Matthias" target="Aebischer Matthias" weight="1.0000000000000002" />
+      <edge id="64" source="Aebischer Matthias" target="Arslan Sibel" weight="0.8042899255755256" />
+      <edge id="65" source="Aebischer Matthias" target="Barrile Angelo" weight="0.8646888926198917" />
+      <edge id="66" source="Aebischer Matthias" target="Bendahan Samuel" weight="0.8653049166349391" />
       <edge id="67" source="Aebischer Matthias" target="Crottaz Brigitte" weight="0.8460378015165395" />
       <edge id="68" source="Aebischer Matthias" target="Fehlmann Rielle Laurence" weight="0.8139418895838352" />
       <edge id="69" source="Aebischer Matthias" target="Fridez Pierre-Alain" weight="0.828091309677735" />
@@ -1107,9 +1107,9 @@
       <edge id="98" source="Aebischer Matthias" target="Sommaruga Carlo" weight="0.871672034115847" />
       <edge id="99" source="Aebischer Matthias" target="Töngi Michael" weight="0.8313586070191515" />
       <edge id="100" source="Aebischer Matthias" target="Wüthrich Adrian" weight="0.8265413700899249" />
-      <edge id="101" source="Aeschi Thomas" target="Aeschi Thomas" weight="0.9999999999999994" />
-      <edge id="102" source="Aeschi Thomas" target="Amaudruz Céline" weight="0.8455751919807017" />
-      <edge id="103" source="Aeschi Thomas" target="Arnold Beat" weight="0.8278209108190703" />
+      <edge id="101" source="Aeschi Thomas" target="Aeschi Thomas" weight="0.9999999999999998" />
+      <edge id="102" source="Aeschi Thomas" target="Amaudruz Céline" weight="0.8455751919807026" />
+      <edge id="103" source="Aeschi Thomas" target="Arnold Beat" weight="0.8278209108190712" />
       <edge id="104" source="Aeschi Thomas" target="Buffat Michaël" weight="0.912909119247244" />
       <edge id="105" source="Aeschi Thomas" target="Bühler Manfred" weight="0.8204487186149494" />
       <edge id="106" source="Aeschi Thomas" target="Burgherr Thomas" weight="0.9142771257991685" />
@@ -1155,7 +1155,7 @@
       <edge id="146" source="Aeschi Thomas" target="Wobmann Walter" weight="0.8497303776522037" />
       <edge id="147" source="Aeschi Thomas" target="Zanetti Claudio" weight="0.9371241397704786" />
       <edge id="148" source="Aeschi Thomas" target="Zuberbühler David" weight="0.8543520930590978" />
-      <edge id="149" source="Amaudruz Céline" target="Amaudruz Céline" weight="1.0000000000000004" />
+      <edge id="149" source="Amaudruz Céline" target="Amaudruz Céline" weight="0.9999999999999999" />
       <edge id="150" source="Amaudruz Céline" target="Buffat Michaël" weight="0.8532978919515026" />
       <edge id="151" source="Amaudruz Céline" target="Bühler Manfred" weight="0.8305907971826088" />
       <edge id="152" source="Amaudruz Céline" target="Burgherr Thomas" weight="0.8755477744589442" />
@@ -1196,10 +1196,10 @@
       <edge id="187" source="Amaudruz Céline" target="Wobmann Walter" weight="0.8186372866470174" />
       <edge id="188" source="Amaudruz Céline" target="Zanetti Claudio" weight="0.8918528940296693" />
       <edge id="189" source="Amaudruz Céline" target="Zuberbühler David" weight="0.8630602940581227" />
-      <edge id="190" source="Ammann Thomas" target="Ammann Thomas" weight="0.9999999999999991" />
-      <edge id="191" source="Ammann Thomas" target="Béglé Claude" weight="0.8433266899499272" />
-      <edge id="192" source="Ammann Thomas" target="Bourgeois Jacques" weight="0.811531487965697" />
-      <edge id="193" source="Ammann Thomas" target="Bregy Philipp Matthias" weight="0.8294329080471841" />
+      <edge id="190" source="Ammann Thomas" target="Ammann Thomas" weight="1.0000000000000002" />
+      <edge id="191" source="Ammann Thomas" target="Béglé Claude" weight="0.843326689949928" />
+      <edge id="192" source="Ammann Thomas" target="Bourgeois Jacques" weight="0.8115314879656952" />
+      <edge id="193" source="Ammann Thomas" target="Bregy Philipp Matthias" weight="0.8294329080471824" />
       <edge id="194" source="Ammann Thomas" target="Bulliard-Marbach Christine" weight="0.9221777271527175" />
       <edge id="195" source="Ammann Thomas" target="Campell Duri" weight="0.8541470020175689" />
       <edge id="196" source="Ammann Thomas" target="Candinas Martin" weight="0.903196786805367" />
@@ -1229,7 +1229,7 @@
       <edge id="220" source="Ammann Thomas" target="Schneider-Schneiter Elisabeth" weight="0.8595379727898353" />
       <edge id="221" source="Ammann Thomas" target="Vitali Albert" weight="0.8063304092671237" />
       <edge id="222" source="Ammann Thomas" target="Vogler Karl" weight="0.8556835424185801" />
-      <edge id="223" source="Amstutz Adrian" target="Amstutz Adrian" weight="0.9999999999999989" />
+      <edge id="223" source="Amstutz Adrian" target="Amstutz Adrian" weight="0.9999999999999999" />
       <edge id="224" source="Amstutz Adrian" target="Burgherr Thomas" weight="0.8055432962873048" />
       <edge id="225" source="Amstutz Adrian" target="Estermann Yvette" weight="0.8163108235414218" />
       <edge id="226" source="Amstutz Adrian" target="Glarner Andreas" weight="0.8055432962873047" />
@@ -1244,7 +1244,7 @@
       <edge id="235" source="Amstutz Adrian" target="Tuena Mauro" weight="0.8156462594521748" />
       <edge id="236" source="Amstutz Adrian" target="Walliser Bruno" weight="0.815960312655564" />
       <edge id="237" source="Amstutz Adrian" target="Zanetti Claudio" weight="0.8211410651008385" />
-      <edge id="238" source="Arnold Beat" target="Arnold Beat" weight="1.0000000000000009" />
+      <edge id="238" source="Arnold Beat" target="Arnold Beat" weight="1.0000000000000002" />
       <edge id="239" source="Arnold Beat" target="Buffat Michaël" weight="0.8263095504140238" />
       <edge id="240" source="Arnold Beat" target="Bühler Manfred" weight="0.8176981162074213" />
       <edge id="241" source="Arnold Beat" target="Burgherr Thomas" weight="0.8480415185138037" />
@@ -1278,11 +1278,11 @@
       <edge id="269" source="Arnold Beat" target="Wobmann Walter" weight="0.8012279643878467" />
       <edge id="270" source="Arnold Beat" target="Zanetti Claudio" weight="0.8642200359268226" />
       <edge id="271" source="Arnold Beat" target="Zuberbühler David" weight="0.8293885500250915" />
-      <edge id="272" source="Arslan Sibel" target="Arslan Sibel" weight="1.0" />
-      <edge id="273" source="Arslan Sibel" target="Badran Jacqueline" weight="0.8081153617734034" />
-      <edge id="274" source="Arslan Sibel" target="Barrile Angelo" weight="0.8663030650303614" />
-      <edge id="275" source="Arslan Sibel" target="Bendahan Samuel" weight="0.886030854810189" />
-      <edge id="276" source="Arslan Sibel" target="Brélaz Daniel" weight="0.8282360833956973" />
+      <edge id="272" source="Arslan Sibel" target="Arslan Sibel" weight="0.9999999999999999" />
+      <edge id="273" source="Arslan Sibel" target="Badran Jacqueline" weight="0.8081153617734036" />
+      <edge id="274" source="Arslan Sibel" target="Barrile Angelo" weight="0.8663030650303626" />
+      <edge id="275" source="Arslan Sibel" target="Bendahan Samuel" weight="0.88603085481019" />
+      <edge id="276" source="Arslan Sibel" target="Brélaz Daniel" weight="0.8282360833956984" />
       <edge id="277" source="Arslan Sibel" target="Crottaz Brigitte" weight="0.8455074567567789" />
       <edge id="278" source="Arslan Sibel" target="de la Reussille Denis" weight="0.8354651032924575" />
       <edge id="279" source="Arslan Sibel" target="Fridez Pierre-Alain" weight="0.8042241216525822" />
@@ -1324,8 +1324,8 @@
       <edge id="315" source="Arslan Sibel" target="Trede Aline" weight="0.8455071000872315" />
       <edge id="316" source="Arslan Sibel" target="Wasserfallen Flavia" weight="0.8418071875485118" />
       <edge id="317" source="Arslan Sibel" target="Wüthrich Adrian" weight="0.8592717535621499" />
-      <edge id="318" source="Badran Jacqueline" target="Badran Jacqueline" weight="1.0000000000000004" />
-      <edge id="319" source="Badran Jacqueline" target="Barrile Angelo" weight="0.8007910624199714" />
+      <edge id="318" source="Badran Jacqueline" target="Badran Jacqueline" weight="1.0" />
+      <edge id="319" source="Badran Jacqueline" target="Barrile Angelo" weight="0.8007910624199721" />
       <edge id="320" source="Badran Jacqueline" target="Friedl Claudia" weight="0.8409206878340776" />
       <edge id="321" source="Badran Jacqueline" target="Graf-Litscher Edith" weight="0.8056229753448318" />
       <edge id="322" source="Badran Jacqueline" target="Gysi Barbara" weight="0.8029828277514793" />
@@ -1342,14 +1342,14 @@
       <edge id="333" source="Badran Jacqueline" target="Semadeni Silva" weight="0.8037706555273099" />
       <edge id="334" source="Badran Jacqueline" target="Töngi Michael" weight="0.8075929177568175" />
       <edge id="335" source="Badran Jacqueline" target="Wüthrich Adrian" weight="0.8048958912934256" />
-      <edge id="336" source="Barazzone Guillaume" target="Barazzone Guillaume" weight="1.0000000000000013" />
+      <edge id="336" source="Barazzone Guillaume" target="Barazzone Guillaume" weight="1.0" />
       <edge id="337" source="Barazzone Guillaume" target="Bulliard-Marbach Christine" weight="0.8050876661779695" />
       <edge id="338" source="Barazzone Guillaume" target="Carobbio Guscetti Marina" weight="0.8289600091205519" />
       <edge id="339" source="Barazzone Guillaume" target="Humbel Ruth" weight="0.817004797833079" />
       <edge id="340" source="Barazzone Guillaume" target="Lohr Christian" weight="0.8091348272462482" />
       <edge id="341" source="Barazzone Guillaume" target="Roduit Benjamin" weight="0.8236930445398587" />
       <edge id="342" source="Barrile Angelo" target="Barrile Angelo" weight="1.0" />
-      <edge id="343" source="Barrile Angelo" target="Bendahan Samuel" weight="0.8968700041677179" />
+      <edge id="343" source="Barrile Angelo" target="Bendahan Samuel" weight="0.8968700041677191" />
       <edge id="344" source="Barrile Angelo" target="Crottaz Brigitte" weight="0.8835014346225325" />
       <edge id="345" source="Barrile Angelo" target="de la Reussille Denis" weight="0.8112279115276031" />
       <edge id="346" source="Barrile Angelo" target="Fehlmann Rielle Laurence" weight="0.8411809047833971" />
@@ -1390,9 +1390,9 @@
       <edge id="381" source="Barrile Angelo" target="Töngi Michael" weight="0.8968659158620862" />
       <edge id="382" source="Barrile Angelo" target="Wasserfallen Flavia" weight="0.8556011488653987" />
       <edge id="383" source="Barrile Angelo" target="Wüthrich Adrian" weight="0.9432077766565965" />
-      <edge id="384" source="Bauer Philippe" target="Bauer Philippe" weight="0.9999999999999983" />
-      <edge id="385" source="Bauer Philippe" target="Borloz Frédéric" weight="0.8195192952904339" />
-      <edge id="386" source="Bauer Philippe" target="Bourgeois Jacques" weight="0.8022295326806635" />
+      <edge id="384" source="Bauer Philippe" target="Bauer Philippe" weight="1.0" />
+      <edge id="385" source="Bauer Philippe" target="Borloz Frédéric" weight="0.8195192952904349" />
+      <edge id="386" source="Bauer Philippe" target="Bourgeois Jacques" weight="0.8022295326806644" />
       <edge id="387" source="Bauer Philippe" target="Brunner Hansjörg" weight="0.883627721203" />
       <edge id="388" source="Bauer Philippe" target="Cattaneo Rocco" weight="0.8630583671647458" />
       <edge id="389" source="Bauer Philippe" target="Dobler Marcel" weight="0.8891895951377816" />
@@ -1413,9 +1413,9 @@
       <edge id="404" source="Bauer Philippe" target="Schneeberger Daniela" weight="0.8403880631505357" />
       <edge id="405" source="Bauer Philippe" target="Vitali Albert" weight="0.8381580761249504" />
       <edge id="406" source="Bauer Philippe" target="Walti Beat" weight="0.8057691809426374" />
-      <edge id="407" source="Bäumle Martin" target="Bäumle Martin" weight="0.9999999999999989" />
-      <edge id="408" source="Béglé Claude" target="Béglé Claude" weight="0.9999999999999984" />
-      <edge id="409" source="Béglé Claude" target="Bourgeois Jacques" weight="0.807079139245112" />
+      <edge id="407" source="Bäumle Martin" target="Bäumle Martin" weight="0.9999999999999999" />
+      <edge id="408" source="Béglé Claude" target="Béglé Claude" weight="1.0000000000000002" />
+      <edge id="409" source="Béglé Claude" target="Bourgeois Jacques" weight="0.8070791392451128" />
       <edge id="410" source="Béglé Claude" target="Bulliard-Marbach Christine" weight="0.8510933275003205" />
       <edge id="411" source="Béglé Claude" target="Candinas Martin" weight="0.8323078267131467" />
       <edge id="412" source="Béglé Claude" target="Carobbio Guscetti Marina" weight="0.8026128084446067" />
@@ -1429,7 +1429,7 @@
       <edge id="420" source="Béglé Claude" target="Müller Leo" weight="0.8544269571172642" />
       <edge id="421" source="Béglé Claude" target="Müller-Altermatt Stefan" weight="0.8425520319798933" />
       <edge id="422" source="Béglé Claude" target="Vogler Karl" weight="0.8021444084010267" />
-      <edge id="423" source="Bendahan Samuel" target="Bendahan Samuel" weight="0.9999999999999991" />
+      <edge id="423" source="Bendahan Samuel" target="Bendahan Samuel" weight="0.9999999999999999" />
       <edge id="424" source="Bendahan Samuel" target="Brélaz Daniel" weight="0.8220661018389434" />
       <edge id="425" source="Bendahan Samuel" target="Crottaz Brigitte" weight="0.8565562061822498" />
       <edge id="426" source="Bendahan Samuel" target="de la Reussille Denis" weight="0.8488269771248536" />
@@ -1474,13 +1474,13 @@
       <edge id="465" source="Bendahan Samuel" target="Trede Aline" weight="0.8074230938822968" />
       <edge id="466" source="Bendahan Samuel" target="Wasserfallen Flavia" weight="0.8636713742235156" />
       <edge id="467" source="Bendahan Samuel" target="Wüthrich Adrian" weight="0.9077530721542542" />
-      <edge id="468" source="Bertschy Kathrin" target="Bertschy Kathrin" weight="1.0" />
+      <edge id="468" source="Bertschy Kathrin" target="Bertschy Kathrin" weight="0.9999999999999998" />
       <edge id="469" source="Bertschy Kathrin" target="Grossen Jürg" weight="0.838354696780506" />
-      <edge id="470" source="Bigler Hans-Ulrich" target="Bigler Hans-Ulrich" weight="0.9999999999999989" />
-      <edge id="471" source="Bigler Hans-Ulrich" target="Bregy Philipp Matthias" weight="0.8377603700265488" />
+      <edge id="470" source="Bigler Hans-Ulrich" target="Bigler Hans-Ulrich" weight="1.0" />
+      <edge id="471" source="Bigler Hans-Ulrich" target="Bregy Philipp Matthias" weight="0.8377603700265501" />
       <edge id="472" source="Bigler Hans-Ulrich" target="Carobbio Guscetti Marina" weight="0.8292628114213033" />
       <edge id="473" source="Bigler Hans-Ulrich" target="Müller-Altermatt Stefan" weight="0.8097929334102505" />
-      <edge id="474" source="Birrer-Heimo Prisca" target="Birrer-Heimo Prisca" weight="1.0000000000000009" />
+      <edge id="474" source="Birrer-Heimo Prisca" target="Birrer-Heimo Prisca" weight="1.0" />
       <edge id="475" source="Birrer-Heimo Prisca" target="Friedl Claudia" weight="0.8296801510045446" />
       <edge id="476" source="Birrer-Heimo Prisca" target="Graf-Litscher Edith" weight="0.8800199775706905" />
       <edge id="477" source="Birrer-Heimo Prisca" target="Gysi Barbara" weight="0.8050049346975507" />
@@ -1495,8 +1495,8 @@
       <edge id="486" source="Birrer-Heimo Prisca" target="Schneider Schüttel Ursula" weight="0.8093984479869746" />
       <edge id="487" source="Birrer-Heimo Prisca" target="Seiler Graf Priska" weight="0.8076884353329308" />
       <edge id="488" source="Birrer-Heimo Prisca" target="Wasserfallen Flavia" weight="0.8351829893215772" />
-      <edge id="489" source="Borloz Frédéric" target="Borloz Frédéric" weight="1.0000000000000016" />
-      <edge id="490" source="Borloz Frédéric" target="Bourgeois Jacques" weight="0.8446218706294516" />
+      <edge id="489" source="Borloz Frédéric" target="Borloz Frédéric" weight="0.9999999999999999" />
+      <edge id="490" source="Borloz Frédéric" target="Bourgeois Jacques" weight="0.8446218706294533" />
       <edge id="491" source="Borloz Frédéric" target="Brunner Hansjörg" weight="0.8471428655956086" />
       <edge id="492" source="Borloz Frédéric" target="Cattaneo Rocco" weight="0.8530705172119815" />
       <edge id="493" source="Borloz Frédéric" target="Dobler Marcel" weight="0.8368670640180988" />
@@ -1513,7 +1513,7 @@
       <edge id="504" source="Borloz Frédéric" target="Schilliger Peter" weight="0.8112277074098353" />
       <edge id="505" source="Borloz Frédéric" target="Vitali Albert" weight="0.8065715224441303" />
       <edge id="506" source="Borloz Frédéric" target="Walti Beat" weight="0.8397763225683905" />
-      <edge id="507" source="Bourgeois Jacques" target="Bourgeois Jacques" weight="0.9999999999999984" />
+      <edge id="507" source="Bourgeois Jacques" target="Bourgeois Jacques" weight="0.9999999999999998" />
       <edge id="508" source="Bourgeois Jacques" target="Brunner Hansjörg" weight="0.8737890384934208" />
       <edge id="509" source="Bourgeois Jacques" target="Bulliard-Marbach Christine" weight="0.8537466045552542" />
       <edge id="510" source="Bourgeois Jacques" target="Burkart Thierry" weight="0.9236539853590813" />
@@ -1554,8 +1554,8 @@
       <edge id="545" source="Bourgeois Jacques" target="Vitali Albert" weight="0.8519673616583806" />
       <edge id="546" source="Bourgeois Jacques" target="Vogler Karl" weight="0.8025759601203961" />
       <edge id="547" source="Bourgeois Jacques" target="Walti Beat" weight="0.8454511165825946" />
-      <edge id="548" source="Brand Heinz" target="Brand Heinz" weight="0.9999999999999991" />
-      <edge id="549" source="Bregy Philipp Matthias" target="Bregy Philipp Matthias" weight="1.0000000000000013" />
+      <edge id="548" source="Brand Heinz" target="Brand Heinz" weight="1.0" />
+      <edge id="549" source="Bregy Philipp Matthias" target="Bregy Philipp Matthias" weight="1.0000000000000002" />
       <edge id="550" source="Bregy Philipp Matthias" target="Bulliard-Marbach Christine" weight="0.8662882196615922" />
       <edge id="551" source="Bregy Philipp Matthias" target="Candinas Martin" weight="0.8256291816354617" />
       <edge id="552" source="Bregy Philipp Matthias" target="Carobbio Guscetti Marina" weight="0.871222290159976" />
@@ -1576,7 +1576,7 @@
       <edge id="567" source="Bregy Philipp Matthias" target="Roduit Benjamin" weight="0.8411229646671332" />
       <edge id="568" source="Bregy Philipp Matthias" target="Schneider-Schneiter Elisabeth" weight="0.8233140886779775" />
       <edge id="569" source="Bregy Philipp Matthias" target="Vogler Karl" weight="0.8157952385530642" />
-      <edge id="570" source="Brélaz Daniel" target="Brélaz Daniel" weight="1.0000000000000009" />
+      <edge id="570" source="Brélaz Daniel" target="Brélaz Daniel" weight="1.0" />
       <edge id="571" source="Brélaz Daniel" target="Crottaz Brigitte" weight="0.8559278405889641" />
       <edge id="572" source="Brélaz Daniel" target="Fridez Pierre-Alain" weight="0.8364963384354531" />
       <edge id="573" source="Brélaz Daniel" target="Friedl Claudia" weight="0.805730864709229" />
@@ -1592,13 +1592,13 @@
       <edge id="583" source="Brélaz Daniel" target="Schenker Silvia" weight="0.835226072593183" />
       <edge id="584" source="Brélaz Daniel" target="Schneider Schüttel Ursula" weight="0.8324023584782658" />
       <edge id="585" source="Brélaz Daniel" target="Töngi Michael" weight="0.8639240396960511" />
-      <edge id="586" source="Brunner Hansjörg" target="Brunner Hansjörg" weight="1.0000000000000016" />
-      <edge id="587" source="Brunner Hansjörg" target="Bulliard-Marbach Christine" weight="0.807306695423669" />
-      <edge id="588" source="Brunner Hansjörg" target="Burkart Thierry" weight="0.8480678761038075" />
+      <edge id="586" source="Brunner Hansjörg" target="Brunner Hansjörg" weight="1.0" />
+      <edge id="587" source="Brunner Hansjörg" target="Bulliard-Marbach Christine" weight="0.8073066954236705" />
+      <edge id="588" source="Brunner Hansjörg" target="Burkart Thierry" weight="0.8480678761038065" />
       <edge id="589" source="Brunner Hansjörg" target="Campell Duri" weight="0.8166729295686244" />
-      <edge id="590" source="Brunner Hansjörg" target="Carobbio Guscetti Marina" weight="0.8095679919632099" />
-      <edge id="591" source="Brunner Hansjörg" target="Cattaneo Rocco" weight="0.9110259880907647" />
-      <edge id="592" source="Brunner Hansjörg" target="Dobler Marcel" weight="0.9069129197881728" />
+      <edge id="590" source="Brunner Hansjörg" target="Carobbio Guscetti Marina" weight="0.8095679919632094" />
+      <edge id="591" source="Brunner Hansjörg" target="Cattaneo Rocco" weight="0.9110259880907648" />
+      <edge id="592" source="Brunner Hansjörg" target="Dobler Marcel" weight="0.9069129197881727" />
       <edge id="593" source="Brunner Hansjörg" target="Eichenberger-Walther Corina" weight="0.8706442386958826" />
       <edge id="594" source="Brunner Hansjörg" target="Eymann Christoph" weight="0.8563488385776743" />
       <edge id="595" source="Brunner Hansjörg" target="Fluri Kurt" weight="0.8551294832808738" />
@@ -1618,10 +1618,10 @@
       <edge id="609" source="Brunner Hansjörg" target="Schneeberger Daniela" weight="0.8464485192765374" />
       <edge id="610" source="Brunner Hansjörg" target="Vitali Albert" weight="0.9074969048840679" />
       <edge id="611" source="Brunner Hansjörg" target="Walti Beat" weight="0.8557169633109868" />
-      <edge id="612" source="Büchel Roland Rino" target="Büchel Roland Rino" weight="0.9999999999999987" />
-      <edge id="613" source="Büchel Roland Rino" target="Buffat Michaël" weight="0.8003862933877657" />
-      <edge id="614" source="Büchel Roland Rino" target="Burgherr Thomas" weight="0.8212564972830493" />
-      <edge id="615" source="Büchel Roland Rino" target="Egger Mike" weight="0.8303821408453627" />
+      <edge id="612" source="Büchel Roland Rino" target="Büchel Roland Rino" weight="1.0" />
+      <edge id="613" source="Büchel Roland Rino" target="Buffat Michaël" weight="0.8003862933877648" />
+      <edge id="614" source="Büchel Roland Rino" target="Burgherr Thomas" weight="0.8212564972830498" />
+      <edge id="615" source="Büchel Roland Rino" target="Egger Mike" weight="0.8303821408453635" />
       <edge id="616" source="Büchel Roland Rino" target="Estermann Yvette" weight="0.8313221221918252" />
       <edge id="617" source="Büchel Roland Rino" target="Flückiger-Bäni Sylvia" weight="0.8212564972830493" />
       <edge id="618" source="Büchel Roland Rino" target="Glarner Andreas" weight="0.8263259818341793" />
@@ -1641,13 +1641,13 @@
       <edge id="632" source="Büchel Roland Rino" target="Walliser Bruno" weight="0.841663496350144" />
       <edge id="633" source="Büchel Roland Rino" target="Zanetti Claudio" weight="0.8365505632118995" />
       <edge id="634" source="Büchel Roland Rino" target="Zuberbühler David" weight="0.809543344999373" />
-      <edge id="635" source="Buffat Michaël" target="Buffat Michaël" weight="1.0000000000000016" />
-      <edge id="636" source="Buffat Michaël" target="Bühler Manfred" weight="0.8335437874595479" />
-      <edge id="637" source="Buffat Michaël" target="Burgherr Thomas" weight="0.9280080551448775" />
-      <edge id="638" source="Buffat Michaël" target="Chiesa Marco" weight="0.8551896437954238" />
-      <edge id="639" source="Buffat Michaël" target="Clottu Raymond" weight="0.8553867516057573" />
-      <edge id="640" source="Buffat Michaël" target="Dettling Marcel" weight="0.882537121661664" />
-      <edge id="641" source="Buffat Michaël" target="Egger Mike" weight="0.8534337577755986" />
+      <edge id="635" source="Buffat Michaël" target="Buffat Michaël" weight="1.0" />
+      <edge id="636" source="Buffat Michaël" target="Bühler Manfred" weight="0.8335437874595468" />
+      <edge id="637" source="Buffat Michaël" target="Burgherr Thomas" weight="0.928008055144878" />
+      <edge id="638" source="Buffat Michaël" target="Chiesa Marco" weight="0.8551896437954243" />
+      <edge id="639" source="Buffat Michaël" target="Clottu Raymond" weight="0.8553867516057564" />
+      <edge id="640" source="Buffat Michaël" target="Dettling Marcel" weight="0.8825371216616635" />
+      <edge id="641" source="Buffat Michaël" target="Egger Mike" weight="0.8534337577755973" />
       <edge id="642" source="Buffat Michaël" target="Estermann Yvette" weight="0.9331786003495217" />
       <edge id="643" source="Buffat Michaël" target="Flückiger-Bäni Sylvia" weight="0.9164079544555666" />
       <edge id="644" source="Buffat Michaël" target="Frehner Sebastian" weight="0.8782058131380507" />
@@ -1689,10 +1689,10 @@
       <edge id="680" source="Buffat Michaël" target="Wobmann Walter" weight="0.8785337518319241" />
       <edge id="681" source="Buffat Michaël" target="Zanetti Claudio" weight="0.945142428559131" />
       <edge id="682" source="Buffat Michaël" target="Zuberbühler David" weight="0.8512538467881581" />
-      <edge id="683" source="Bühler Manfred" target="Bühler Manfred" weight="0.9999999999999996" />
-      <edge id="684" source="Bühler Manfred" target="Burgherr Thomas" weight="0.8307121310225946" />
+      <edge id="683" source="Bühler Manfred" target="Bühler Manfred" weight="1.0000000000000004" />
+      <edge id="684" source="Bühler Manfred" target="Burgherr Thomas" weight="0.8307121310225939" />
       <edge id="685" source="Bühler Manfred" target="Clottu Raymond" weight="0.805620046331021" />
-      <edge id="686" source="Bühler Manfred" target="Dettling Marcel" weight="0.8445834009975117" />
+      <edge id="686" source="Bühler Manfred" target="Dettling Marcel" weight="0.8445834009975104" />
       <edge id="687" source="Bühler Manfred" target="Estermann Yvette" weight="0.8413686751748053" />
       <edge id="688" source="Bühler Manfred" target="Flückiger-Bäni Sylvia" weight="0.8257378068847347" />
       <edge id="689" source="Bühler Manfred" target="Geissbühler Andrea Martina" weight="0.8363333975829068" />
@@ -1721,15 +1721,15 @@
       <edge id="712" source="Bühler Manfred" target="Walliser Bruno" weight="0.851354088485196" />
       <edge id="713" source="Bühler Manfred" target="Zanetti Claudio" weight="0.8464989719746515" />
       <edge id="714" source="Bühler Manfred" target="Zuberbühler David" weight="0.844854855443667" />
-      <edge id="715" source="Bulliard-Marbach Christine" target="Bulliard-Marbach Christine" weight="1.000000000000003" />
-      <edge id="716" source="Bulliard-Marbach Christine" target="Burkart Thierry" weight="0.8112110985719649" />
-      <edge id="717" source="Bulliard-Marbach Christine" target="Campell Duri" weight="0.8458937501418158" />
-      <edge id="718" source="Bulliard-Marbach Christine" target="Candinas Martin" weight="0.9399496538017107" />
-      <edge id="719" source="Bulliard-Marbach Christine" target="Carobbio Guscetti Marina" weight="0.8472441052361575" />
-      <edge id="720" source="Bulliard-Marbach Christine" target="Cattaneo Rocco" weight="0.8091523831176911" />
-      <edge id="721" source="Bulliard-Marbach Christine" target="de Buman Dominique" weight="0.832433405065057" />
-      <edge id="722" source="Bulliard-Marbach Christine" target="Dobler Marcel" weight="0.8446779825902494" />
-      <edge id="723" source="Bulliard-Marbach Christine" target="Egger Thomas" weight="0.9220940346580164" />
+      <edge id="715" source="Bulliard-Marbach Christine" target="Bulliard-Marbach Christine" weight="1.0000000000000002" />
+      <edge id="716" source="Bulliard-Marbach Christine" target="Burkart Thierry" weight="0.811211098571966" />
+      <edge id="717" source="Bulliard-Marbach Christine" target="Campell Duri" weight="0.845893750141816" />
+      <edge id="718" source="Bulliard-Marbach Christine" target="Candinas Martin" weight="0.9399496538017111" />
+      <edge id="719" source="Bulliard-Marbach Christine" target="Carobbio Guscetti Marina" weight="0.847244105236159" />
+      <edge id="720" source="Bulliard-Marbach Christine" target="Cattaneo Rocco" weight="0.8091523831176897" />
+      <edge id="721" source="Bulliard-Marbach Christine" target="de Buman Dominique" weight="0.832433405065055" />
+      <edge id="722" source="Bulliard-Marbach Christine" target="Dobler Marcel" weight="0.8446779825902503" />
+      <edge id="723" source="Bulliard-Marbach Christine" target="Egger Thomas" weight="0.9220940346580158" />
       <edge id="724" source="Bulliard-Marbach Christine" target="Eymann Christoph" weight="0.8016106290759868" />
       <edge id="725" source="Bulliard-Marbach Christine" target="Glanzmann-Hunkeler Ida" weight="0.9219398118801629" />
       <edge id="726" source="Bulliard-Marbach Christine" target="Gmür Alois" weight="0.9234343279133894" />
@@ -1758,11 +1758,11 @@
       <edge id="749" source="Bulliard-Marbach Christine" target="Siegenthaler Heinz" weight="0.822758132567631" />
       <edge id="750" source="Bulliard-Marbach Christine" target="Vitali Albert" weight="0.8149009987032104" />
       <edge id="751" source="Bulliard-Marbach Christine" target="Vogler Karl" weight="0.8737116185467563" />
-      <edge id="752" source="Burgherr Thomas" target="Burgherr Thomas" weight="0.9999999999999998" />
-      <edge id="753" source="Burgherr Thomas" target="Chiesa Marco" weight="0.8465505215343391" />
-      <edge id="754" source="Burgherr Thomas" target="Clottu Raymond" weight="0.8776911014713382" />
-      <edge id="755" source="Burgherr Thomas" target="Dettling Marcel" weight="0.9111392331263686" />
-      <edge id="756" source="Burgherr Thomas" target="Egger Mike" weight="0.8977170492458526" />
+      <edge id="752" source="Burgherr Thomas" target="Burgherr Thomas" weight="0.9999999999999999" />
+      <edge id="753" source="Burgherr Thomas" target="Chiesa Marco" weight="0.8465505215343387" />
+      <edge id="754" source="Burgherr Thomas" target="Clottu Raymond" weight="0.8776911014713391" />
+      <edge id="755" source="Burgherr Thomas" target="Dettling Marcel" weight="0.911139233126369" />
+      <edge id="756" source="Burgherr Thomas" target="Egger Mike" weight="0.8977170492458519" />
       <edge id="757" source="Burgherr Thomas" target="Estermann Yvette" weight="0.9634219495396608" />
       <edge id="758" source="Burgherr Thomas" target="Flückiger-Bäni Sylvia" weight="0.9461077844311373" />
       <edge id="759" source="Burgherr Thomas" target="Frehner Sebastian" weight="0.8801568042754939" />
@@ -1803,11 +1803,11 @@
       <edge id="794" source="Burgherr Thomas" target="Wobmann Walter" weight="0.8798502464350024" />
       <edge id="795" source="Burgherr Thomas" target="Zanetti Claudio" weight="0.9819492947231157" />
       <edge id="796" source="Burgherr Thomas" target="Zuberbühler David" weight="0.8733147910028108" />
-      <edge id="797" source="Burkart Thierry" target="Burkart Thierry" weight="0.9999999999999997" />
-      <edge id="798" source="Burkart Thierry" target="Candinas Martin" weight="0.8222251619036418" />
-      <edge id="799" source="Burkart Thierry" target="Carobbio Guscetti Marina" weight="0.8282622685288039" />
-      <edge id="800" source="Burkart Thierry" target="Cattaneo Rocco" weight="0.8218892918344469" />
-      <edge id="801" source="Burkart Thierry" target="Dobler Marcel" weight="0.8168427235005891" />
+      <edge id="797" source="Burkart Thierry" target="Burkart Thierry" weight="1.0" />
+      <edge id="798" source="Burkart Thierry" target="Candinas Martin" weight="0.8222251619036416" />
+      <edge id="799" source="Burkart Thierry" target="Carobbio Guscetti Marina" weight="0.8282622685288034" />
+      <edge id="800" source="Burkart Thierry" target="Cattaneo Rocco" weight="0.8218892918344466" />
+      <edge id="801" source="Burkart Thierry" target="Dobler Marcel" weight="0.8168427235005892" />
       <edge id="802" source="Burkart Thierry" target="Eichenberger-Walther Corina" weight="0.8103937705613053" />
       <edge id="803" source="Burkart Thierry" target="Gössi Petra" weight="0.8073437539609215" />
       <edge id="804" source="Burkart Thierry" target="Hiltpold Hugues" weight="0.8393330808080752" />
@@ -1820,11 +1820,11 @@
       <edge id="811" source="Burkart Thierry" target="Sauter Regine" weight="0.8004362128672979" />
       <edge id="812" source="Burkart Thierry" target="Schneeberger Daniela" weight="0.8002215452825625" />
       <edge id="813" source="Burkart Thierry" target="Vitali Albert" weight="0.8064016830215945" />
-      <edge id="814" source="Campell Duri" target="Campell Duri" weight="1.0000000000000013" />
-      <edge id="815" source="Campell Duri" target="Candinas Martin" weight="0.8275197504646179" />
-      <edge id="816" source="Campell Duri" target="Carobbio Guscetti Marina" weight="0.8266450347888887" />
-      <edge id="817" source="Campell Duri" target="Cattaneo Rocco" weight="0.8232539592162906" />
-      <edge id="818" source="Campell Duri" target="Egger Thomas" weight="0.8441885634643045" />
+      <edge id="814" source="Campell Duri" target="Campell Duri" weight="1.0" />
+      <edge id="815" source="Campell Duri" target="Candinas Martin" weight="0.8275197504646188" />
+      <edge id="816" source="Campell Duri" target="Carobbio Guscetti Marina" weight="0.8266450347888894" />
+      <edge id="817" source="Campell Duri" target="Cattaneo Rocco" weight="0.8232539592162903" />
+      <edge id="818" source="Campell Duri" target="Egger Thomas" weight="0.8441885634643037" />
       <edge id="819" source="Campell Duri" target="Eichenberger-Walther Corina" weight="0.8283904143510836" />
       <edge id="820" source="Campell Duri" target="Eymann Christoph" weight="0.8028120796353849" />
       <edge id="821" source="Campell Duri" target="Glanzmann-Hunkeler Ida" weight="0.8224225486224379" />
@@ -1849,10 +1849,10 @@
       <edge id="840" source="Campell Duri" target="Siegenthaler Heinz" weight="0.8795729922233011" />
       <edge id="841" source="Campell Duri" target="Vitali Albert" weight="0.8367159461536068" />
       <edge id="842" source="Campell Duri" target="Vogler Karl" weight="0.8240534079263924" />
-      <edge id="843" source="Candinas Martin" target="Candinas Martin" weight="0.999999999999998" />
-      <edge id="844" source="Candinas Martin" target="Carobbio Guscetti Marina" weight="0.8240977134323364" />
-      <edge id="845" source="Candinas Martin" target="de Buman Dominique" weight="0.8081235830553373" />
-      <edge id="846" source="Candinas Martin" target="Egger Thomas" weight="0.8865586337243426" />
+      <edge id="843" source="Candinas Martin" target="Candinas Martin" weight="0.9999999999999997" />
+      <edge id="844" source="Candinas Martin" target="Carobbio Guscetti Marina" weight="0.8240977134323354" />
+      <edge id="845" source="Candinas Martin" target="de Buman Dominique" weight="0.8081235830553368" />
+      <edge id="846" source="Candinas Martin" target="Egger Thomas" weight="0.8865586337243436" />
       <edge id="847" source="Candinas Martin" target="Glanzmann-Hunkeler Ida" weight="0.9121418755437393" />
       <edge id="848" source="Candinas Martin" target="Gmür Alois" weight="0.8760744602762476" />
       <edge id="849" source="Candinas Martin" target="Gmür-Schönenberger Andrea" weight="0.8640183897219873" />
@@ -1873,12 +1873,12 @@
       <edge id="864" source="Candinas Martin" target="Romano Marco" weight="0.8511255581399635" />
       <edge id="865" source="Candinas Martin" target="Schneider-Schneiter Elisabeth" weight="0.8287389070754603" />
       <edge id="866" source="Candinas Martin" target="Vogler Karl" weight="0.8366694229326419" />
-      <edge id="867" source="Carobbio Guscetti Marina" target="Carobbio Guscetti Marina" weight="1.0000000000000002" />
-      <edge id="868" source="Carobbio Guscetti Marina" target="Cattaneo Rocco" weight="0.8204829590483568" />
-      <edge id="869" source="Carobbio Guscetti Marina" target="de Buman Dominique" weight="0.8034225523132317" />
-      <edge id="870" source="Carobbio Guscetti Marina" target="Derder Fathi" weight="0.8473017519079529" />
-      <edge id="871" source="Carobbio Guscetti Marina" target="Dobler Marcel" weight="0.8008753394527444" />
-      <edge id="872" source="Carobbio Guscetti Marina" target="Egger Thomas" weight="0.8238376667093067" />
+      <edge id="867" source="Carobbio Guscetti Marina" target="Carobbio Guscetti Marina" weight="1.0" />
+      <edge id="868" source="Carobbio Guscetti Marina" target="Cattaneo Rocco" weight="0.8204829590483569" />
+      <edge id="869" source="Carobbio Guscetti Marina" target="de Buman Dominique" weight="0.803422552313233" />
+      <edge id="870" source="Carobbio Guscetti Marina" target="Derder Fathi" weight="0.8473017519079531" />
+      <edge id="871" source="Carobbio Guscetti Marina" target="Dobler Marcel" weight="0.8008753394527433" />
+      <edge id="872" source="Carobbio Guscetti Marina" target="Egger Thomas" weight="0.8238376667093084" />
       <edge id="873" source="Carobbio Guscetti Marina" target="Feller Olivier" weight="0.8227303380932689" />
       <edge id="874" source="Carobbio Guscetti Marina" target="Glanzmann-Hunkeler Ida" weight="0.8118462451743664" />
       <edge id="875" source="Carobbio Guscetti Marina" target="Gmür Alois" weight="0.8165161787009275" />
@@ -1907,8 +1907,8 @@
       <edge id="898" source="Carobbio Guscetti Marina" target="Schneider-Schneiter Elisabeth" weight="0.8037991838270702" />
       <edge id="899" source="Carobbio Guscetti Marina" target="Siegenthaler Heinz" weight="0.8027969949652387" />
       <edge id="900" source="Carobbio Guscetti Marina" target="Vogler Karl" weight="0.8149630613802241" />
-      <edge id="901" source="Cattaneo Rocco" target="Cattaneo Rocco" weight="0.9999999999999997" />
-      <edge id="902" source="Cattaneo Rocco" target="Dobler Marcel" weight="0.8724477339896576" />
+      <edge id="901" source="Cattaneo Rocco" target="Cattaneo Rocco" weight="1.0" />
+      <edge id="902" source="Cattaneo Rocco" target="Dobler Marcel" weight="0.8724477339896582" />
       <edge id="903" source="Cattaneo Rocco" target="Eichenberger-Walther Corina" weight="0.8572278869389254" />
       <edge id="904" source="Cattaneo Rocco" target="Eymann Christoph" weight="0.8241648494564869" />
       <edge id="905" source="Cattaneo Rocco" target="Fluri Kurt" weight="0.8314325880208254" />
@@ -1934,12 +1934,12 @@
       <edge id="925" source="Cattaneo Rocco" target="Siegenthaler Heinz" weight="0.831800391856058" />
       <edge id="926" source="Cattaneo Rocco" target="Vitali Albert" weight="0.8813751513597403" />
       <edge id="927" source="Cattaneo Rocco" target="Walti Beat" weight="0.8406001797963698" />
-      <edge id="928" source="Chevalley Isabelle" target="Chevalley Isabelle" weight="0.9999999999999987" />
+      <edge id="928" source="Chevalley Isabelle" target="Chevalley Isabelle" weight="1.0" />
       <edge id="929" source="Chevalley Isabelle" target="Grossen Jürg" weight="0.816374424788705" />
       <edge id="930" source="Chevalley Isabelle" target="Moser Tiana Angelina" weight="0.8237107906511009" />
-      <edge id="931" source="Chiesa Marco" target="Chiesa Marco" weight="1.0000000000000004" />
-      <edge id="932" source="Chiesa Marco" target="Dettling Marcel" weight="0.8288025807401613" />
-      <edge id="933" source="Chiesa Marco" target="Egger Mike" weight="0.8266747143774782" />
+      <edge id="931" source="Chiesa Marco" target="Chiesa Marco" weight="0.9999999999999999" />
+      <edge id="932" source="Chiesa Marco" target="Dettling Marcel" weight="0.8288025807401622" />
+      <edge id="933" source="Chiesa Marco" target="Egger Mike" weight="0.8266747143774771" />
       <edge id="934" source="Chiesa Marco" target="Estermann Yvette" weight="0.8516689437047711" />
       <edge id="935" source="Chiesa Marco" target="Flückiger-Bäni Sylvia" weight="0.8361633985707275" />
       <edge id="936" source="Chiesa Marco" target="Geissbühler Andrea Martina" weight="0.8285418296807623" />
@@ -1973,9 +1973,9 @@
       <edge id="964" source="Chiesa Marco" target="Wobmann Walter" weight="0.8290641989424793" />
       <edge id="965" source="Chiesa Marco" target="Zanetti Claudio" weight="0.8570253521557445" />
       <edge id="966" source="Chiesa Marco" target="Zuberbühler David" weight="0.8149752099027444" />
-      <edge id="967" source="Clottu Raymond" target="Clottu Raymond" weight="0.9999999999999992" />
-      <edge id="968" source="Clottu Raymond" target="Dettling Marcel" weight="0.8394609964159983" />
-      <edge id="969" source="Clottu Raymond" target="Egger Mike" weight="0.8022091167949162" />
+      <edge id="967" source="Clottu Raymond" target="Clottu Raymond" weight="1.0" />
+      <edge id="968" source="Clottu Raymond" target="Dettling Marcel" weight="0.8394609964159976" />
+      <edge id="969" source="Clottu Raymond" target="Egger Mike" weight="0.8022091167949159" />
       <edge id="970" source="Clottu Raymond" target="Estermann Yvette" weight="0.8772729581705199" />
       <edge id="971" source="Clottu Raymond" target="Flückiger-Bäni Sylvia" weight="0.8614375625552024" />
       <edge id="972" source="Clottu Raymond" target="Frehner Sebastian" weight="0.8443213716716593" />
@@ -2013,7 +2013,7 @@
       <edge id="1004" source="Clottu Raymond" target="Wobmann Walter" weight="0.8009852187046937" />
       <edge id="1005" source="Clottu Raymond" target="Zanetti Claudio" weight="0.8940361357151795" />
       <edge id="1006" source="Clottu Raymond" target="Zuberbühler David" weight="0.8201640492164056" />
-      <edge id="1007" source="Crottaz Brigitte" target="Crottaz Brigitte" weight="0.9999999999999994" />
+      <edge id="1007" source="Crottaz Brigitte" target="Crottaz Brigitte" weight="1.0" />
       <edge id="1008" source="Crottaz Brigitte" target="Fridez Pierre-Alain" weight="0.8819975204047801" />
       <edge id="1009" source="Crottaz Brigitte" target="Friedl Claudia" weight="0.9031097940941599" />
       <edge id="1010" source="Crottaz Brigitte" target="Glättli Balthasar" weight="0.8586171824354426" />
@@ -2049,14 +2049,14 @@
       <edge id="1040" source="Crottaz Brigitte" target="Töngi Michael" weight="0.8768165053221932" />
       <edge id="1041" source="Crottaz Brigitte" target="Wasserfallen Flavia" weight="0.8245693345385121" />
       <edge id="1042" source="Crottaz Brigitte" target="Wüthrich Adrian" weight="0.8701052344585565" />
-      <edge id="1043" source="de Buman Dominique" target="de Buman Dominique" weight="0.9999999999999984" />
+      <edge id="1043" source="de Buman Dominique" target="de Buman Dominique" weight="1.0" />
       <edge id="1044" source="de Buman Dominique" target="Kutter Philipp" weight="0.8059234892750682" />
       <edge id="1045" source="de Buman Dominique" target="Lohr Christian" weight="0.8465082846023597" />
       <edge id="1046" source="de Buman Dominique" target="Müller Leo" weight="0.8065850199443729" />
       <edge id="1047" source="de Buman Dominique" target="Romano Marco" weight="0.8033595600518716" />
       <edge id="1048" source="de Buman Dominique" target="Vogler Karl" weight="0.8112007241567054" />
-      <edge id="1049" source="de Courten Thomas" target="de Courten Thomas" weight="1.0000000000000004" />
-      <edge id="1050" source="de la Reussille Denis" target="de la Reussille Denis" weight="1.0000000000000002" />
+      <edge id="1049" source="de Courten Thomas" target="de Courten Thomas" weight="1.0" />
+      <edge id="1050" source="de la Reussille Denis" target="de la Reussille Denis" weight="1.0" />
       <edge id="1051" source="de la Reussille Denis" target="Friedl Claudia" weight="0.8430527755702779" />
       <edge id="1052" source="de la Reussille Denis" target="Glättli Balthasar" weight="0.8498645197405654" />
       <edge id="1053" source="de la Reussille Denis" target="Gysi Barbara" weight="0.8137525628478002" />
@@ -2078,9 +2078,9 @@
       <edge id="1069" source="de la Reussille Denis" target="Thorens Goumaz Adèle" weight="0.8604424526340284" />
       <edge id="1070" source="de la Reussille Denis" target="Töngi Michael" weight="0.8708704612691243" />
       <edge id="1071" source="de la Reussille Denis" target="Wermuth Cédric" weight="0.8441248543716855" />
-      <edge id="1072" source="Derder Fathi" target="Derder Fathi" weight="0.9999999999999997" />
-      <edge id="1073" source="Dettling Marcel" target="Dettling Marcel" weight="0.9999999999999989" />
-      <edge id="1074" source="Dettling Marcel" target="Egger Mike" weight="0.8791802829142525" />
+      <edge id="1072" source="Derder Fathi" target="Derder Fathi" weight="0.9999999999999999" />
+      <edge id="1073" source="Dettling Marcel" target="Dettling Marcel" weight="1.0" />
+      <edge id="1074" source="Dettling Marcel" target="Egger Mike" weight="0.8791802829142534" />
       <edge id="1075" source="Dettling Marcel" target="Estermann Yvette" weight="0.9225187138828389" />
       <edge id="1076" source="Dettling Marcel" target="Flückiger-Bäni Sylvia" weight="0.9055835060951101" />
       <edge id="1077" source="Dettling Marcel" target="Frehner Sebastian" weight="0.8608894427235158" />
@@ -2119,8 +2119,8 @@
       <edge id="1110" source="Dettling Marcel" target="Wobmann Walter" weight="0.871760564690331" />
       <edge id="1111" source="Dettling Marcel" target="Zanetti Claudio" weight="0.9282486437827323" />
       <edge id="1112" source="Dettling Marcel" target="Zuberbühler David" weight="0.8769346080259526" />
-      <edge id="1113" source="Dobler Marcel" target="Dobler Marcel" weight="0.9999999999999998" />
-      <edge id="1114" source="Dobler Marcel" target="Egger Thomas" weight="0.8023155703953709" />
+      <edge id="1113" source="Dobler Marcel" target="Dobler Marcel" weight="1.0" />
+      <edge id="1114" source="Dobler Marcel" target="Egger Thomas" weight="0.8023155703953699" />
       <edge id="1115" source="Dobler Marcel" target="Eichenberger-Walther Corina" weight="0.8339110341537301" />
       <edge id="1116" source="Dobler Marcel" target="Eymann Christoph" weight="0.8202649393467307" />
       <edge id="1117" source="Dobler Marcel" target="Fiala Doris" weight="0.8084171733310599" />
@@ -2148,7 +2148,7 @@
       <edge id="1139" source="Dobler Marcel" target="Schneeberger Daniela" weight="0.8582211489630572" />
       <edge id="1140" source="Dobler Marcel" target="Vitali Albert" weight="0.8778010885828738" />
       <edge id="1141" source="Dobler Marcel" target="Walti Beat" weight="0.8348045772324109" />
-      <edge id="1142" source="Egger Mike" target="Egger Mike" weight="0.9999999999999993" />
+      <edge id="1142" source="Egger Mike" target="Egger Mike" weight="1.0000000000000002" />
       <edge id="1143" source="Egger Mike" target="Estermann Yvette" weight="0.8915741464391644" />
       <edge id="1144" source="Egger Mike" target="Flückiger-Bäni Sylvia" weight="0.8755511961780538" />
       <edge id="1145" source="Egger Mike" target="Frehner Sebastian" weight="0.8341455052733528" />
@@ -2180,7 +2180,7 @@
       <edge id="1171" source="Egger Mike" target="Wobmann Walter" weight="0.8443917026357528" />
       <edge id="1172" source="Egger Mike" target="Zanetti Claudio" weight="0.897289365326595" />
       <edge id="1173" source="Egger Mike" target="Zuberbühler David" weight="0.8286472113884871" />
-      <edge id="1174" source="Egger Thomas" target="Egger Thomas" weight="0.9999999999999984" />
+      <edge id="1174" source="Egger Thomas" target="Egger Thomas" weight="1.0" />
       <edge id="1175" source="Egger Thomas" target="Glanzmann-Hunkeler Ida" weight="0.882500541833134" />
       <edge id="1176" source="Egger Thomas" target="Gmür Alois" weight="0.8849446235684291" />
       <edge id="1177" source="Egger Thomas" target="Gmür-Schönenberger Andrea" weight="0.8700088493309872" />
@@ -2203,11 +2203,11 @@
       <edge id="1194" source="Egger Thomas" target="Schneider-Schneiter Elisabeth" weight="0.8252825899850487" />
       <edge id="1195" source="Egger Thomas" target="Siegenthaler Heinz" weight="0.8087601262814132" />
       <edge id="1196" source="Egger Thomas" target="Vogler Karl" weight="0.8400197790919244" />
-      <edge id="1197" source="Egloff Hans" target="Egloff Hans" weight="1.0000000000000007" />
+      <edge id="1197" source="Egloff Hans" target="Egloff Hans" weight="1.0" />
       <edge id="1198" source="Egloff Hans" target="Heer Alfred" weight="0.9825868379381077" />
-      <edge id="1199" source="Eichenberger-Walther Corina" target="Eichenberger-Walther Corina" weight="0.9999999999999978" />
-      <edge id="1200" source="Eichenberger-Walther Corina" target="Eymann Christoph" weight="0.8244720273434216" />
-      <edge id="1201" source="Eichenberger-Walther Corina" target="Fiala Doris" weight="0.8214449447729553" />
+      <edge id="1199" source="Eichenberger-Walther Corina" target="Eichenberger-Walther Corina" weight="0.9999999999999997" />
+      <edge id="1200" source="Eichenberger-Walther Corina" target="Eymann Christoph" weight="0.8244720273434212" />
+      <edge id="1201" source="Eichenberger-Walther Corina" target="Fiala Doris" weight="0.8214449447729555" />
       <edge id="1202" source="Eichenberger-Walther Corina" target="Fluri Kurt" weight="0.8158431836956835" />
       <edge id="1203" source="Eichenberger-Walther Corina" target="Gössi Petra" weight="0.8307532267511692" />
       <edge id="1204" source="Eichenberger-Walther Corina" target="Guhl Bernhard" weight="0.811188446371554" />
@@ -2220,11 +2220,11 @@
       <edge id="1211" source="Eichenberger-Walther Corina" target="Vitali Albert" weight="0.8253968253968235" />
       <edge id="1212" source="Eichenberger-Walther Corina" target="Walti Beat" weight="0.871166850462917" />
       <edge id="1213" source="Estermann Yvette" target="Estermann Yvette" weight="1.0" />
-      <edge id="1214" source="Estermann Yvette" target="Flückiger-Bäni Sylvia" weight="0.9572461678118425" />
+      <edge id="1214" source="Estermann Yvette" target="Flückiger-Bäni Sylvia" weight="0.9572461678118421" />
       <edge id="1215" source="Estermann Yvette" target="Frehner Sebastian" weight="0.9022862024527629" />
-      <edge id="1216" source="Estermann Yvette" target="Geissbühler Andrea Martina" weight="0.9203419696665978" />
-      <edge id="1217" source="Estermann Yvette" target="Glarner Andreas" weight="0.9695977312674791" />
-      <edge id="1218" source="Estermann Yvette" target="Glauser-Zufferey Alice" weight="0.8280033331156684" />
+      <edge id="1216" source="Estermann Yvette" target="Geissbühler Andrea Martina" weight="0.9203419696665964" />
+      <edge id="1217" source="Estermann Yvette" target="Glarner Andreas" weight="0.9695977312674788" />
+      <edge id="1218" source="Estermann Yvette" target="Glauser-Zufferey Alice" weight="0.8280033331156675" />
       <edge id="1219" source="Estermann Yvette" target="Grin Jean-Pierre" weight="0.8490989594370868" />
       <edge id="1220" source="Estermann Yvette" target="Gutjahr Diana" weight="0.9051980677804109" />
       <edge id="1221" source="Estermann Yvette" target="Haab Martin" weight="0.8571920144445767" />
@@ -2261,8 +2261,8 @@
       <edge id="1252" source="Estermann Yvette" target="Wobmann Walter" weight="0.9018369617379711" />
       <edge id="1253" source="Estermann Yvette" target="Zanetti Claudio" weight="0.9808917197452229" />
       <edge id="1254" source="Estermann Yvette" target="Zuberbühler David" weight="0.9006980553277436" />
-      <edge id="1255" source="Eymann Christoph" target="Eymann Christoph" weight="0.9999999999999993" />
-      <edge id="1256" source="Eymann Christoph" target="Fiala Doris" weight="0.8099325084363285" />
+      <edge id="1255" source="Eymann Christoph" target="Eymann Christoph" weight="1.0000000000000002" />
+      <edge id="1256" source="Eymann Christoph" target="Fiala Doris" weight="0.8099325084363284" />
       <edge id="1257" source="Eymann Christoph" target="Gössi Petra" weight="0.8017980436873215" />
       <edge id="1258" source="Eymann Christoph" target="Guhl Bernhard" weight="0.8021806287494222" />
       <edge id="1259" source="Eymann Christoph" target="Hiltpold Hugues" weight="0.8378630582809535" />
@@ -2272,10 +2272,10 @@
       <edge id="1263" source="Eymann Christoph" target="Portmann Hans-Peter" weight="0.8176205420042808" />
       <edge id="1264" source="Eymann Christoph" target="Vitali Albert" weight="0.8165823428712358" />
       <edge id="1265" source="Eymann Christoph" target="Walti Beat" weight="0.8239529832794545" />
-      <edge id="1266" source="Fehlmann Rielle Laurence" target="Fehlmann Rielle Laurence" weight="1.0000000000000009" />
-      <edge id="1267" source="Fehlmann Rielle Laurence" target="Feri Yvonne" weight="0.8584285429310796" />
-      <edge id="1268" source="Fehlmann Rielle Laurence" target="Fridez Pierre-Alain" weight="0.810588513689886" />
-      <edge id="1269" source="Fehlmann Rielle Laurence" target="Friedl Claudia" weight="0.8492042438573913" />
+      <edge id="1266" source="Fehlmann Rielle Laurence" target="Fehlmann Rielle Laurence" weight="1.0" />
+      <edge id="1267" source="Fehlmann Rielle Laurence" target="Feri Yvonne" weight="0.8584285429310798" />
+      <edge id="1268" source="Fehlmann Rielle Laurence" target="Fridez Pierre-Alain" weight="0.8105885136898858" />
+      <edge id="1269" source="Fehlmann Rielle Laurence" target="Friedl Claudia" weight="0.8492042438573906" />
       <edge id="1270" source="Fehlmann Rielle Laurence" target="Graf-Litscher Edith" weight="0.8100271795543019" />
       <edge id="1271" source="Fehlmann Rielle Laurence" target="Gysi Barbara" weight="0.8694571447616173" />
       <edge id="1272" source="Fehlmann Rielle Laurence" target="Hadorn Philipp" weight="0.8115637668281945" />
@@ -2298,24 +2298,24 @@
       <edge id="1289" source="Fehlmann Rielle Laurence" target="Semadeni Silva" weight="0.8368260799298817" />
       <edge id="1290" source="Fehlmann Rielle Laurence" target="Sommaruga Carlo" weight="0.8508591309699249" />
       <edge id="1291" source="Fehlmann Rielle Laurence" target="Töngi Michael" weight="0.8041990349311057" />
-      <edge id="1292" source="Feller Olivier" target="Feller Olivier" weight="1.0000000000000007" />
+      <edge id="1292" source="Feller Olivier" target="Feller Olivier" weight="1.0" />
       <edge id="1293" source="Feller Olivier" target="Müller-Altermatt Stefan" weight="0.8003728614139345" />
-      <edge id="1294" source="Feri Yvonne" target="Feri Yvonne" weight="1.000000000000001" />
-      <edge id="1295" source="Feri Yvonne" target="Friedl Claudia" weight="0.8161349094826111" />
+      <edge id="1294" source="Feri Yvonne" target="Feri Yvonne" weight="0.9999999999999998" />
+      <edge id="1295" source="Feri Yvonne" target="Friedl Claudia" weight="0.8161349094826112" />
       <edge id="1296" source="Feri Yvonne" target="Hardegger Thomas" weight="0.8228599185741479" />
       <edge id="1297" source="Feri Yvonne" target="Heim Bea" weight="0.8043200190653641" />
       <edge id="1298" source="Feri Yvonne" target="Marra Ada" weight="0.8038492209486334" />
       <edge id="1299" source="Feri Yvonne" target="Seiler Graf Priska" weight="0.818545307457839" />
-      <edge id="1300" source="Fiala Doris" target="Fiala Doris" weight="0.9999999999999991" />
+      <edge id="1300" source="Fiala Doris" target="Fiala Doris" weight="1.0" />
       <edge id="1301" source="Fiala Doris" target="Hiltpold Hugues" weight="0.8092321117307528" />
       <edge id="1302" source="Fiala Doris" target="Jauslin Matthias Samuel" weight="0.8118484111379726" />
       <edge id="1303" source="Fiala Doris" target="Markwalder Christa" weight="0.8091631742071066" />
-      <edge id="1304" source="Flach Beat" target="Flach Beat" weight="1.0000000000000007" />
-      <edge id="1305" source="Flückiger-Bäni Sylvia" target="Flückiger-Bäni Sylvia" weight="0.9999999999999993" />
-      <edge id="1306" source="Flückiger-Bäni Sylvia" target="Frehner Sebastian" weight="0.8854589536988403" />
+      <edge id="1304" source="Flach Beat" target="Flach Beat" weight="0.9999999999999999" />
+      <edge id="1305" source="Flückiger-Bäni Sylvia" target="Flückiger-Bäni Sylvia" weight="0.9999999999999999" />
+      <edge id="1306" source="Flückiger-Bäni Sylvia" target="Frehner Sebastian" weight="0.8854589536988409" />
       <edge id="1307" source="Flückiger-Bäni Sylvia" target="Geissbühler Andrea Martina" weight="0.8980817517134552" />
-      <edge id="1308" source="Flückiger-Bäni Sylvia" target="Glarner Andreas" weight="0.9520958083832329" />
-      <edge id="1309" source="Flückiger-Bäni Sylvia" target="Glauser-Zufferey Alice" weight="0.8130572889813195" />
+      <edge id="1308" source="Flückiger-Bäni Sylvia" target="Glarner Andreas" weight="0.9520958083832335" />
+      <edge id="1309" source="Flückiger-Bäni Sylvia" target="Glauser-Zufferey Alice" weight="0.8130572889813183" />
       <edge id="1310" source="Flückiger-Bäni Sylvia" target="Grin Jean-Pierre" weight="0.8386251282574616" />
       <edge id="1311" source="Flückiger-Bäni Sylvia" target="Gutjahr Diana" weight="0.8886489677784348" />
       <edge id="1312" source="Flückiger-Bäni Sylvia" target="Haab Martin" weight="0.8412057528595875" />
@@ -2352,8 +2352,8 @@
       <edge id="1343" source="Flückiger-Bäni Sylvia" target="Wobmann Walter" weight="0.8744190720742924" />
       <edge id="1344" source="Flückiger-Bäni Sylvia" target="Zanetti Claudio" weight="0.9634219495396608" />
       <edge id="1345" source="Flückiger-Bäni Sylvia" target="Zuberbühler David" weight="0.878842099806626" />
-      <edge id="1346" source="Fluri Kurt" target="Fluri Kurt" weight="0.9999999999999983" />
-      <edge id="1347" source="Fluri Kurt" target="Gmür-Schönenberger Andrea" weight="0.8023867481911867" />
+      <edge id="1346" source="Fluri Kurt" target="Fluri Kurt" weight="1.0" />
+      <edge id="1347" source="Fluri Kurt" target="Gmür-Schönenberger Andrea" weight="0.8023867481911857" />
       <edge id="1348" source="Fluri Kurt" target="Gössi Petra" weight="0.8049609673828386" />
       <edge id="1349" source="Fluri Kurt" target="Hiltpold Hugues" weight="0.8411682508309938" />
       <edge id="1350" source="Fluri Kurt" target="Jauslin Matthias Samuel" weight="0.8869286009392666" />
@@ -2364,9 +2364,9 @@
       <edge id="1355" source="Fluri Kurt" target="Schilliger Peter" weight="0.8017929920744745" />
       <edge id="1356" source="Fluri Kurt" target="Vitali Albert" weight="0.8158431836956835" />
       <edge id="1357" source="Fluri Kurt" target="Walti Beat" weight="0.8096032332379269" />
-      <edge id="1358" source="Frehner Sebastian" target="Frehner Sebastian" weight="1.0000000000000002" />
-      <edge id="1359" source="Frehner Sebastian" target="Geissbühler Andrea Martina" weight="0.8357350137220119" />
-      <edge id="1360" source="Frehner Sebastian" target="Glarner Andreas" weight="0.8854589536988403" />
+      <edge id="1358" source="Frehner Sebastian" target="Frehner Sebastian" weight="1.0" />
+      <edge id="1359" source="Frehner Sebastian" target="Geissbühler Andrea Martina" weight="0.8357350137220129" />
+      <edge id="1360" source="Frehner Sebastian" target="Glarner Andreas" weight="0.8854589536988408" />
       <edge id="1361" source="Frehner Sebastian" target="Gutjahr Diana" weight="0.8257195770771018" />
       <edge id="1362" source="Frehner Sebastian" target="Haab Martin" weight="0.8385173363187404" />
       <edge id="1363" source="Frehner Sebastian" target="Herzog Verena" weight="0.8435634569970494" />
@@ -2394,11 +2394,11 @@
       <edge id="1385" source="Frehner Sebastian" target="Wobmann Walter" weight="0.8127348523875362" />
       <edge id="1386" source="Frehner Sebastian" target="Zanetti Claudio" weight="0.8968178012257766" />
       <edge id="1387" source="Frehner Sebastian" target="Zuberbühler David" weight="0.8271206568632359" />
-      <edge id="1388" source="Frei Daniel" target="Frei Daniel" weight="0.9999999999999993" />
+      <edge id="1388" source="Frei Daniel" target="Frei Daniel" weight="0.9999999999999998" />
       <edge id="1389" source="Frei Daniel" target="Moser Tiana Angelina" weight="0.841083593138884" />
-      <edge id="1390" source="Fridez Pierre-Alain" target="Fridez Pierre-Alain" weight="0.9999999999999992" />
-      <edge id="1391" source="Fridez Pierre-Alain" target="Friedl Claudia" weight="0.8644720662651695" />
-      <edge id="1392" source="Fridez Pierre-Alain" target="Glättli Balthasar" weight="0.8028609488159897" />
+      <edge id="1390" source="Fridez Pierre-Alain" target="Fridez Pierre-Alain" weight="1.0" />
+      <edge id="1391" source="Fridez Pierre-Alain" target="Friedl Claudia" weight="0.8644720662651683" />
+      <edge id="1392" source="Fridez Pierre-Alain" target="Glättli Balthasar" weight="0.8028609488159907" />
       <edge id="1393" source="Fridez Pierre-Alain" target="Graf Maya" weight="0.8131571126147272" />
       <edge id="1394" source="Fridez Pierre-Alain" target="Graf-Litscher Edith" weight="0.8308826504349166" />
       <edge id="1395" source="Fridez Pierre-Alain" target="Gysi Barbara" weight="0.8810434857385725" />
@@ -2426,9 +2426,9 @@
       <edge id="1417" source="Fridez Pierre-Alain" target="Sommaruga Carlo" weight="0.822606928011014" />
       <edge id="1418" source="Fridez Pierre-Alain" target="Töngi Michael" weight="0.8286472113884871" />
       <edge id="1419" source="Fridez Pierre-Alain" target="Wüthrich Adrian" weight="0.8466361124653774" />
-      <edge id="1420" source="Friedl Claudia" target="Friedl Claudia" weight="1.0000000000000009" />
-      <edge id="1421" source="Friedl Claudia" target="Girod Bastien" weight="0.8077815380508875" />
-      <edge id="1422" source="Friedl Claudia" target="Glättli Balthasar" weight="0.9108419726501944" />
+      <edge id="1420" source="Friedl Claudia" target="Friedl Claudia" weight="1.0" />
+      <edge id="1421" source="Friedl Claudia" target="Girod Bastien" weight="0.8077815380508886" />
+      <edge id="1422" source="Friedl Claudia" target="Glättli Balthasar" weight="0.9108419726501935" />
       <edge id="1423" source="Friedl Claudia" target="Graf Maya" weight="0.8659264237962557" />
       <edge id="1424" source="Friedl Claudia" target="Graf-Litscher Edith" weight="0.9266128278851289" />
       <edge id="1425" source="Friedl Claudia" target="Gysi Barbara" weight="0.914815970703724" />
@@ -2464,9 +2464,9 @@
       <edge id="1455" source="Friedl Claudia" target="Trede Aline" weight="0.8143858581010173" />
       <edge id="1456" source="Friedl Claudia" target="Wasserfallen Flavia" weight="0.8991574346725318" />
       <edge id="1457" source="Friedl Claudia" target="Wüthrich Adrian" weight="0.9317383380941242" />
-      <edge id="1458" source="Geissbühler Andrea Martina" target="Geissbühler Andrea Martina" weight="1.0000000000000009" />
+      <edge id="1458" source="Geissbühler Andrea Martina" target="Geissbühler Andrea Martina" weight="1.0" />
       <edge id="1459" source="Geissbühler Andrea Martina" target="Glarner Andreas" weight="0.9095222835824164" />
-      <edge id="1460" source="Geissbühler Andrea Martina" target="Glauser-Zufferey Alice" weight="0.8011255117460878" />
+      <edge id="1460" source="Geissbühler Andrea Martina" target="Glauser-Zufferey Alice" weight="0.8011255117460871" />
       <edge id="1461" source="Geissbühler Andrea Martina" target="Grin Jean-Pierre" weight="0.8206651583740412" />
       <edge id="1462" source="Geissbühler Andrea Martina" target="Gutjahr Diana" weight="0.9065547130071838" />
       <edge id="1463" source="Geissbühler Andrea Martina" target="Haab Martin" weight="0.8180265040352106" />
@@ -2501,9 +2501,9 @@
       <edge id="1492" source="Geissbühler Andrea Martina" target="Zanetti Claudio" weight="0.9203419696665978" />
       <edge id="1493" source="Geissbühler Andrea Martina" target="Zuberbühler David" weight="0.9451471964347768" />
       <edge id="1494" source="Genecand Benoît" target="Genecand Benoît" weight="1.0" />
-      <edge id="1495" source="Giezendanner Ulrich" target="Giezendanner Ulrich" weight="0.9999999999999998" />
-      <edge id="1496" source="Girod Bastien" target="Girod Bastien" weight="1.0000000000000004" />
-      <edge id="1497" source="Girod Bastien" target="Glättli Balthasar" weight="0.8242724951380249" />
+      <edge id="1495" source="Giezendanner Ulrich" target="Giezendanner Ulrich" weight="1.0" />
+      <edge id="1496" source="Girod Bastien" target="Girod Bastien" weight="1.0" />
+      <edge id="1497" source="Girod Bastien" target="Glättli Balthasar" weight="0.8242724951380236" />
       <edge id="1498" source="Girod Bastien" target="Gysi Barbara" weight="0.8032298389658368" />
       <edge id="1499" source="Girod Bastien" target="Hadorn Philipp" weight="0.8100994238426558" />
       <edge id="1500" source="Girod Bastien" target="Jans Beat" weight="0.8122435062856207" />
@@ -2515,9 +2515,9 @@
       <edge id="1506" source="Girod Bastien" target="Schneider Schüttel Ursula" weight="0.8290074036816564" />
       <edge id="1507" source="Girod Bastien" target="Semadeni Silva" weight="0.8204924432432648" />
       <edge id="1508" source="Girod Bastien" target="Töngi Michael" weight="0.855560347617413" />
-      <edge id="1509" source="Glanzmann-Hunkeler Ida" target="Glanzmann-Hunkeler Ida" weight="0.9999999999999991" />
-      <edge id="1510" source="Glanzmann-Hunkeler Ida" target="Gmür Alois" weight="0.9201031456908427" />
-      <edge id="1511" source="Glanzmann-Hunkeler Ida" target="Gmür-Schönenberger Andrea" weight="0.8878188247894095" />
+      <edge id="1509" source="Glanzmann-Hunkeler Ida" target="Glanzmann-Hunkeler Ida" weight="1.0" />
+      <edge id="1510" source="Glanzmann-Hunkeler Ida" target="Gmür Alois" weight="0.9201031456908414" />
+      <edge id="1511" source="Glanzmann-Hunkeler Ida" target="Gmür-Schönenberger Andrea" weight="0.8878188247894084" />
       <edge id="1512" source="Glanzmann-Hunkeler Ida" target="Gschwind Jean-Paul" weight="0.8358519794662078" />
       <edge id="1513" source="Glanzmann-Hunkeler Ida" target="Guhl Bernhard" weight="0.8215954591820167" />
       <edge id="1514" source="Glanzmann-Hunkeler Ida" target="Humbel Ruth" weight="0.9110496648241522" />
@@ -2537,8 +2537,8 @@
       <edge id="1528" source="Glanzmann-Hunkeler Ida" target="Schneider-Schneiter Elisabeth" weight="0.8760144406016948" />
       <edge id="1529" source="Glanzmann-Hunkeler Ida" target="Vitali Albert" weight="0.8003267306650405" />
       <edge id="1530" source="Glanzmann-Hunkeler Ida" target="Vogler Karl" weight="0.8441593700343604" />
-      <edge id="1531" source="Glarner Andreas" target="Glarner Andreas" weight="0.9999999999999997" />
-      <edge id="1532" source="Glarner Andreas" target="Glauser-Zufferey Alice" weight="0.8232844246917763" />
+      <edge id="1531" source="Glarner Andreas" target="Glarner Andreas" weight="0.9999999999999999" />
+      <edge id="1532" source="Glarner Andreas" target="Glauser-Zufferey Alice" weight="0.8232844246917753" />
       <edge id="1533" source="Glarner Andreas" target="Grin Jean-Pierre" weight="0.84373869611269" />
       <edge id="1534" source="Glarner Andreas" target="Gutjahr Diana" weight="0.8996199426892797" />
       <edge id="1535" source="Glarner Andreas" target="Haab Martin" weight="0.8563172334498795" />
@@ -2574,7 +2574,7 @@
       <edge id="1565" source="Glarner Andreas" target="Wobmann Walter" weight="0.8907125951564221" />
       <edge id="1566" source="Glarner Andreas" target="Zanetti Claudio" weight="0.9757735129952974" />
       <edge id="1567" source="Glarner Andreas" target="Zuberbühler David" weight="0.8898967174142566" />
-      <edge id="1568" source="Glättli Balthasar" target="Glättli Balthasar" weight="1.0000000000000007" />
+      <edge id="1568" source="Glättli Balthasar" target="Glättli Balthasar" weight="1.0" />
       <edge id="1569" source="Glättli Balthasar" target="Graf Maya" weight="0.8572417325224794" />
       <edge id="1570" source="Glättli Balthasar" target="Graf-Litscher Edith" weight="0.8398302772146049" />
       <edge id="1571" source="Glättli Balthasar" target="Gysi Barbara" weight="0.8477862621473505" />
@@ -2608,7 +2608,7 @@
       <edge id="1599" source="Glättli Balthasar" target="Töngi Michael" weight="0.9647166195769589" />
       <edge id="1600" source="Glättli Balthasar" target="Trede Aline" weight="0.8432324026333884" />
       <edge id="1601" source="Glättli Balthasar" target="Wüthrich Adrian" weight="0.8637442914387568" />
-      <edge id="1602" source="Glauser-Zufferey Alice" target="Glauser-Zufferey Alice" weight="1.000000000000001" />
+      <edge id="1602" source="Glauser-Zufferey Alice" target="Glauser-Zufferey Alice" weight="1.0" />
       <edge id="1603" source="Glauser-Zufferey Alice" target="Grin Jean-Pierre" weight="0.8471615720524026" />
       <edge id="1604" source="Glauser-Zufferey Alice" target="Imark Christian" weight="0.8385007804516436" />
       <edge id="1605" source="Glauser-Zufferey Alice" target="Keller-Inhelder Barbara" weight="0.8082319805566106" />
@@ -2628,8 +2628,8 @@
       <edge id="1619" source="Glauser-Zufferey Alice" target="Wobmann Walter" weight="0.8116565328760286" />
       <edge id="1620" source="Glauser-Zufferey Alice" target="Zanetti Claudio" weight="0.8438250528567323" />
       <edge id="1621" source="Glauser-Zufferey Alice" target="Zuberbühler David" weight="0.8260232505688632" />
-      <edge id="1622" source="Gmür Alois" target="Gmür Alois" weight="1.0000000000000013" />
-      <edge id="1623" source="Gmür Alois" target="Gmür-Schönenberger Andrea" weight="0.8914728682170554" />
+      <edge id="1622" source="Gmür Alois" target="Gmür Alois" weight="1.0000000000000002" />
+      <edge id="1623" source="Gmür Alois" target="Gmür-Schönenberger Andrea" weight="0.8914728682170545" />
       <edge id="1624" source="Gmür Alois" target="Gschwind Jean-Paul" weight="0.8122830812246397" />
       <edge id="1625" source="Gmür Alois" target="Guhl Bernhard" weight="0.8184900758276354" />
       <edge id="1626" source="Gmür Alois" target="Humbel Ruth" weight="0.8994447516809698" />
@@ -2648,7 +2648,7 @@
       <edge id="1639" source="Gmür Alois" target="Romano Marco" weight="0.8353001083638375" />
       <edge id="1640" source="Gmür Alois" target="Schneider-Schneiter Elisabeth" weight="0.8604977283527349" />
       <edge id="1641" source="Gmür Alois" target="Vogler Karl" weight="0.8299022535668599" />
-      <edge id="1642" source="Gmür-Schönenberger Andrea" target="Gmür-Schönenberger Andrea" weight="1.0000000000000013" />
+      <edge id="1642" source="Gmür-Schönenberger Andrea" target="Gmür-Schönenberger Andrea" weight="1.0000000000000004" />
       <edge id="1643" source="Gmür-Schönenberger Andrea" target="Gössi Petra" weight="0.8090796385287192" />
       <edge id="1644" source="Gmür-Schönenberger Andrea" target="Gschwind Jean-Paul" weight="0.8438894267975828" />
       <edge id="1645" source="Gmür-Schönenberger Andrea" target="Guhl Bernhard" weight="0.8017005358106584" />
@@ -2672,9 +2672,9 @@
       <edge id="1663" source="Gmür-Schönenberger Andrea" target="Schneider-Schneiter Elisabeth" weight="0.8681465970492037" />
       <edge id="1664" source="Gmür-Schönenberger Andrea" target="Vitali Albert" weight="0.8275082493807294" />
       <edge id="1665" source="Gmür-Schönenberger Andrea" target="Vogler Karl" weight="0.8260778192186256" />
-      <edge id="1666" source="Golay Roger" target="Golay Roger" weight="0.9999999999999991" />
-      <edge id="1667" source="Gössi Petra" target="Gössi Petra" weight="1.0000000000000004" />
-      <edge id="1668" source="Gössi Petra" target="Hiltpold Hugues" weight="0.9257565697520631" />
+      <edge id="1666" source="Golay Roger" target="Golay Roger" weight="0.9999999999999999" />
+      <edge id="1667" source="Gössi Petra" target="Gössi Petra" weight="1.0" />
+      <edge id="1668" source="Gössi Petra" target="Hiltpold Hugues" weight="0.925756569752062" />
       <edge id="1669" source="Gössi Petra" target="Jauslin Matthias Samuel" weight="0.8893844072118138" />
       <edge id="1670" source="Gössi Petra" target="Lüscher Christian" weight="0.8219882702603367" />
       <edge id="1671" source="Gössi Petra" target="Markwalder Christa" weight="0.8299110053897525" />
@@ -2687,12 +2687,12 @@
       <edge id="1678" source="Gössi Petra" target="Vitali Albert" weight="0.8307532267511695" />
       <edge id="1679" source="Gössi Petra" target="Walti Beat" weight="0.8423209598568409" />
       <edge id="1680" source="Gössi Petra" target="Wasserfallen Christian" weight="0.8209492011547914" />
-      <edge id="1681" source="Graf Maya" target="Graf Maya" weight="1.0000000000000004" />
-      <edge id="1682" source="Graf Maya" target="Graf-Litscher Edith" weight="0.8509114403565197" />
-      <edge id="1683" source="Graf Maya" target="Gysi Barbara" weight="0.8557319835805913" />
-      <edge id="1684" source="Graf Maya" target="Hadorn Philipp" weight="0.8201660891509138" />
-      <edge id="1685" source="Graf Maya" target="Hardegger Thomas" weight="0.8449177536084166" />
-      <edge id="1686" source="Graf Maya" target="Heim Bea" weight="0.8209056819232416" />
+      <edge id="1681" source="Graf Maya" target="Graf Maya" weight="1.0" />
+      <edge id="1682" source="Graf Maya" target="Graf-Litscher Edith" weight="0.8509114403565209" />
+      <edge id="1683" source="Graf Maya" target="Gysi Barbara" weight="0.8557319835805905" />
+      <edge id="1684" source="Graf Maya" target="Hadorn Philipp" weight="0.8201660891509129" />
+      <edge id="1685" source="Graf Maya" target="Hardegger Thomas" weight="0.8449177536084174" />
+      <edge id="1686" source="Graf Maya" target="Heim Bea" weight="0.820905681923241" />
       <edge id="1687" source="Graf Maya" target="Jans Beat" weight="0.8653348183368608" />
       <edge id="1688" source="Graf Maya" target="Kälin Irène" weight="0.8973680744699166" />
       <edge id="1689" source="Graf Maya" target="Kiener Nellen Margret" weight="0.8318058918201219" />
@@ -2715,11 +2715,11 @@
       <edge id="1706" source="Graf Maya" target="Thorens Goumaz Adèle" weight="0.8058066296105555" />
       <edge id="1707" source="Graf Maya" target="Töngi Michael" weight="0.9001602421449524" />
       <edge id="1708" source="Graf Maya" target="Wüthrich Adrian" weight="0.8060683549758062" />
-      <edge id="1709" source="Graf-Litscher Edith" target="Graf-Litscher Edith" weight="0.9999999999999996" />
-      <edge id="1710" source="Graf-Litscher Edith" target="Gysi Barbara" weight="0.8835010734572752" />
-      <edge id="1711" source="Graf-Litscher Edith" target="Hadorn Philipp" weight="0.8839413671672371" />
-      <edge id="1712" source="Graf-Litscher Edith" target="Hardegger Thomas" weight="0.9253867501712651" />
-      <edge id="1713" source="Graf-Litscher Edith" target="Heim Bea" weight="0.8572063986519993" />
+      <edge id="1709" source="Graf-Litscher Edith" target="Graf-Litscher Edith" weight="0.9999999999999999" />
+      <edge id="1710" source="Graf-Litscher Edith" target="Gysi Barbara" weight="0.8835010734572737" />
+      <edge id="1711" source="Graf-Litscher Edith" target="Hadorn Philipp" weight="0.8839413671672356" />
+      <edge id="1712" source="Graf-Litscher Edith" target="Hardegger Thomas" weight="0.9253867501712664" />
+      <edge id="1713" source="Graf-Litscher Edith" target="Heim Bea" weight="0.8572063986519977" />
       <edge id="1714" source="Graf-Litscher Edith" target="Jans Beat" weight="0.9146873250455483" />
       <edge id="1715" source="Graf-Litscher Edith" target="Kälin Irène" weight="0.8560063065824768" />
       <edge id="1716" source="Graf-Litscher Edith" target="Kiener Nellen Margret" weight="0.8684578521542335" />
@@ -2747,11 +2747,11 @@
       <edge id="1738" source="Graf-Litscher Edith" target="Töngi Michael" weight="0.8796877009625369" />
       <edge id="1739" source="Graf-Litscher Edith" target="Wasserfallen Flavia" weight="0.8791758412235715" />
       <edge id="1740" source="Graf-Litscher Edith" target="Wüthrich Adrian" weight="0.894642762989052" />
-      <edge id="1741" source="Grin Jean-Pierre" target="Grin Jean-Pierre" weight="1.000000000000001" />
-      <edge id="1742" source="Grin Jean-Pierre" target="Gutjahr Diana" weight="0.8057200435459455" />
-      <edge id="1743" source="Grin Jean-Pierre" target="Hausammann Markus" weight="0.8503433852924974" />
-      <edge id="1744" source="Grin Jean-Pierre" target="Herzog Verena" weight="0.8184320517629747" />
-      <edge id="1745" source="Grin Jean-Pierre" target="Hess Erich" weight="0.8101998584412676" />
+      <edge id="1741" source="Grin Jean-Pierre" target="Grin Jean-Pierre" weight="1.0" />
+      <edge id="1742" source="Grin Jean-Pierre" target="Gutjahr Diana" weight="0.8057200435459448" />
+      <edge id="1743" source="Grin Jean-Pierre" target="Hausammann Markus" weight="0.8503433852924982" />
+      <edge id="1744" source="Grin Jean-Pierre" target="Herzog Verena" weight="0.8184320517629746" />
+      <edge id="1745" source="Grin Jean-Pierre" target="Hess Erich" weight="0.8101998584412669" />
       <edge id="1746" source="Grin Jean-Pierre" target="Imark Christian" weight="0.8540285726822296" />
       <edge id="1747" source="Grin Jean-Pierre" target="Keller Peter" weight="0.8516294488896443" />
       <edge id="1748" source="Grin Jean-Pierre" target="Keller-Inhelder Barbara" weight="0.8285648605706134" />
@@ -2774,29 +2774,29 @@
       <edge id="1765" source="Grin Jean-Pierre" target="Wobmann Walter" weight="0.8023804582145881" />
       <edge id="1766" source="Grin Jean-Pierre" target="Zanetti Claudio" weight="0.8596467725977961" />
       <edge id="1767" source="Grin Jean-Pierre" target="Zuberbühler David" weight="0.8213031177084699" />
-      <edge id="1768" source="Grossen Jürg" target="Grossen Jürg" weight="1.000000000000001" />
-      <edge id="1769" source="Grunder Hans" target="Grunder Hans" weight="1.0000000000000007" />
-      <edge id="1770" source="Grunder Hans" target="Guhl Bernhard" weight="0.8690349414666958" />
-      <edge id="1771" source="Grunder Hans" target="Hiltpold Hugues" weight="0.8076094279311656" />
-      <edge id="1772" source="Grunder Hans" target="Humbel Ruth" weight="0.8103522912530887" />
+      <edge id="1768" source="Grossen Jürg" target="Grossen Jürg" weight="0.9999999999999999" />
+      <edge id="1769" source="Grunder Hans" target="Grunder Hans" weight="1.0" />
+      <edge id="1770" source="Grunder Hans" target="Guhl Bernhard" weight="0.8690349414666949" />
+      <edge id="1771" source="Grunder Hans" target="Hiltpold Hugues" weight="0.8076094279311661" />
+      <edge id="1772" source="Grunder Hans" target="Humbel Ruth" weight="0.8103522912530874" />
       <edge id="1773" source="Grunder Hans" target="Jauslin Matthias Samuel" weight="0.8346468697138958" />
       <edge id="1774" source="Grunder Hans" target="Lohr Christian" weight="0.8054046806003499" />
       <edge id="1775" source="Grunder Hans" target="Müller Leo" weight="0.8135256394642699" />
       <edge id="1776" source="Grunder Hans" target="Paganini Nicolo" weight="0.8054046806003499" />
-      <edge id="1777" source="Grüter Franz" target="Grüter Franz" weight="0.9999999999999982" />
-      <edge id="1778" source="Gschwind Jean-Paul" target="Gschwind Jean-Paul" weight="0.9999999999999988" />
-      <edge id="1779" source="Gschwind Jean-Paul" target="Humbel Ruth" weight="0.8164156395068662" />
+      <edge id="1777" source="Grüter Franz" target="Grüter Franz" weight="0.9999999999999998" />
+      <edge id="1778" source="Gschwind Jean-Paul" target="Gschwind Jean-Paul" weight="1.0000000000000002" />
+      <edge id="1779" source="Gschwind Jean-Paul" target="Humbel Ruth" weight="0.8164156395068654" />
       <edge id="1780" source="Gschwind Jean-Paul" target="Lohr Christian" weight="0.8113650390451735" />
       <edge id="1781" source="Gschwind Jean-Paul" target="Müller Leo" weight="0.8362715272173424" />
       <edge id="1782" source="Gschwind Jean-Paul" target="Müller-Altermatt Stefan" weight="0.8369854485714819" />
       <edge id="1783" source="Gschwind Jean-Paul" target="Paganini Nicolo" weight="0.8213001211559308" />
       <edge id="1784" source="Gschwind Jean-Paul" target="Roduit Benjamin" weight="0.803186692433326" />
-      <edge id="1785" source="Gugger Niklaus-Samuel" target="Gugger Niklaus-Samuel" weight="1.0000000000000016" />
+      <edge id="1785" source="Gugger Niklaus-Samuel" target="Gugger Niklaus-Samuel" weight="1.0" />
       <edge id="1786" source="Gugger Niklaus-Samuel" target="Streiff-Feller Marianne" weight="0.8639263208476636" />
-      <edge id="1787" source="Guhl Bernhard" target="Guhl Bernhard" weight="0.9999999999999976" />
-      <edge id="1788" source="Guhl Bernhard" target="Hess Lorenz" weight="0.8280857999565812" />
-      <edge id="1789" source="Guhl Bernhard" target="Hiltpold Hugues" weight="0.824603506116552" />
-      <edge id="1790" source="Guhl Bernhard" target="Humbel Ruth" weight="0.8329952694230142" />
+      <edge id="1787" source="Guhl Bernhard" target="Guhl Bernhard" weight="1.0" />
+      <edge id="1788" source="Guhl Bernhard" target="Hess Lorenz" weight="0.8280857999565796" />
+      <edge id="1789" source="Guhl Bernhard" target="Hiltpold Hugues" weight="0.8246035061165515" />
+      <edge id="1790" source="Guhl Bernhard" target="Humbel Ruth" weight="0.8329952694230134" />
       <edge id="1791" source="Guhl Bernhard" target="Jauslin Matthias Samuel" weight="0.8352518707825138" />
       <edge id="1792" source="Guhl Bernhard" target="Kutter Philipp" weight="0.8386592170224161" />
       <edge id="1793" source="Guhl Bernhard" target="Landolt Martin" weight="0.8283009563116555" />
@@ -2810,10 +2810,10 @@
       <edge id="1801" source="Guhl Bernhard" target="Siegenthaler Heinz" weight="0.8542781483750788" />
       <edge id="1802" source="Guhl Bernhard" target="Vogler Karl" weight="0.8158906360641434" />
       <edge id="1803" source="Guhl Bernhard" target="Walti Beat" weight="0.8002564422269484" />
-      <edge id="1804" source="Gutjahr Diana" target="Gutjahr Diana" weight="1.0000000000000016" />
-      <edge id="1805" source="Gutjahr Diana" target="Hausammann Markus" weight="0.842379994276063" />
-      <edge id="1806" source="Gutjahr Diana" target="Herzog Verena" weight="0.8518284771151372" />
-      <edge id="1807" source="Gutjahr Diana" target="Hess Erich" weight="0.869127248467124" />
+      <edge id="1804" source="Gutjahr Diana" target="Gutjahr Diana" weight="1.0" />
+      <edge id="1805" source="Gutjahr Diana" target="Hausammann Markus" weight="0.8423799942760637" />
+      <edge id="1806" source="Gutjahr Diana" target="Herzog Verena" weight="0.851828477115138" />
+      <edge id="1807" source="Gutjahr Diana" target="Hess Erich" weight="0.8691272484671244" />
       <edge id="1808" source="Gutjahr Diana" target="Hurter Thomas" weight="0.8240377893080859" />
       <edge id="1809" source="Gutjahr Diana" target="Imark Christian" weight="0.9105913230614477" />
       <edge id="1810" source="Gutjahr Diana" target="Keller Peter" weight="0.817404819613389" />
@@ -2841,10 +2841,10 @@
       <edge id="1832" source="Gutjahr Diana" target="Wobmann Walter" weight="0.835862274842951" />
       <edge id="1833" source="Gutjahr Diana" target="Zanetti Claudio" weight="0.8995405798567833" />
       <edge id="1834" source="Gutjahr Diana" target="Zuberbühler David" weight="0.9012918177963112" />
-      <edge id="1835" source="Gysi Barbara" target="Gysi Barbara" weight="1.0000000000000004" />
-      <edge id="1836" source="Gysi Barbara" target="Hadorn Philipp" weight="0.8480995161818577" />
-      <edge id="1837" source="Gysi Barbara" target="Hardegger Thomas" weight="0.891370646997552" />
-      <edge id="1838" source="Gysi Barbara" target="Heim Bea" weight="0.8712871287128717" />
+      <edge id="1835" source="Gysi Barbara" target="Gysi Barbara" weight="0.9999999999999998" />
+      <edge id="1836" source="Gysi Barbara" target="Hadorn Philipp" weight="0.848099516181857" />
+      <edge id="1837" source="Gysi Barbara" target="Hardegger Thomas" weight="0.8913706469975526" />
+      <edge id="1838" source="Gysi Barbara" target="Heim Bea" weight="0.8712871287128711" />
       <edge id="1839" source="Gysi Barbara" target="Jans Beat" weight="0.9129102253991896" />
       <edge id="1840" source="Gysi Barbara" target="Kälin Irène" weight="0.849357797287392" />
       <edge id="1841" source="Gysi Barbara" target="Kiener Nellen Margret" weight="0.8936889100726255" />
@@ -2873,9 +2873,9 @@
       <edge id="1864" source="Gysi Barbara" target="Töngi Michael" weight="0.873159762910768" />
       <edge id="1865" source="Gysi Barbara" target="Wasserfallen Flavia" weight="0.8880551585533096" />
       <edge id="1866" source="Gysi Barbara" target="Wüthrich Adrian" weight="0.8572101654371598" />
-      <edge id="1867" source="Haab Martin" target="Haab Martin" weight="0.999999999999999" />
-      <edge id="1868" source="Haab Martin" target="Herzog Verena" weight="0.830197058227776" />
-      <edge id="1869" source="Haab Martin" target="Hess Erich" weight="0.8217059776151865" />
+      <edge id="1867" source="Haab Martin" target="Haab Martin" weight="1.0" />
+      <edge id="1868" source="Haab Martin" target="Herzog Verena" weight="0.8301970582277751" />
+      <edge id="1869" source="Haab Martin" target="Hess Erich" weight="0.8217059776151858" />
       <edge id="1870" source="Haab Martin" target="Imark Christian" weight="0.8718591037353138" />
       <edge id="1871" source="Haab Martin" target="Keller-Inhelder Barbara" weight="0.8312061239544909" />
       <edge id="1872" source="Haab Martin" target="Knecht Hansjörg" weight="0.8100644810954752" />
@@ -2896,8 +2896,8 @@
       <edge id="1887" source="Haab Martin" target="Zanetti Claudio" weight="0.8727773237981145" />
       <edge id="1888" source="Haab Martin" target="Zuberbühler David" weight="0.8229799015573509" />
       <edge id="1889" source="Hadorn Philipp" target="Hadorn Philipp" weight="1.0" />
-      <edge id="1890" source="Hadorn Philipp" target="Hardegger Thomas" weight="0.9058469145505759" />
-      <edge id="1891" source="Hadorn Philipp" target="Heim Bea" weight="0.8534334754031274" />
+      <edge id="1890" source="Hadorn Philipp" target="Hardegger Thomas" weight="0.9058469145505756" />
+      <edge id="1891" source="Hadorn Philipp" target="Heim Bea" weight="0.8534334754031269" />
       <edge id="1892" source="Hadorn Philipp" target="Jans Beat" weight="0.871848576319298" />
       <edge id="1893" source="Hadorn Philipp" target="Kälin Irène" weight="0.9386142058560512" />
       <edge id="1894" source="Hadorn Philipp" target="Kiener Nellen Margret" weight="0.8316074081115772" />
@@ -2927,8 +2927,8 @@
       <edge id="1918" source="Hadorn Philipp" target="Trede Aline" weight="0.8119184434899813" />
       <edge id="1919" source="Hadorn Philipp" target="Wasserfallen Flavia" weight="0.8265927254731606" />
       <edge id="1920" source="Hadorn Philipp" target="Wüthrich Adrian" weight="0.9020045617502632" />
-      <edge id="1921" source="Hardegger Thomas" target="Hardegger Thomas" weight="1.000000000000001" />
-      <edge id="1922" source="Hardegger Thomas" target="Heim Bea" weight="0.8761768291510027" />
+      <edge id="1921" source="Hardegger Thomas" target="Hardegger Thomas" weight="1.0" />
+      <edge id="1922" source="Hardegger Thomas" target="Heim Bea" weight="0.8761768291510037" />
       <edge id="1923" source="Hardegger Thomas" target="Jans Beat" weight="0.8968073079546202" />
       <edge id="1924" source="Hardegger Thomas" target="Kälin Irène" weight="0.8745059371851448" />
       <edge id="1925" source="Hardegger Thomas" target="Kiener Nellen Margret" weight="0.8571457485147393" />
@@ -2957,9 +2957,9 @@
       <edge id="1948" source="Hardegger Thomas" target="Töngi Michael" weight="0.8990495845282489" />
       <edge id="1949" source="Hardegger Thomas" target="Wasserfallen Flavia" weight="0.8847418048112241" />
       <edge id="1950" source="Hardegger Thomas" target="Wüthrich Adrian" weight="0.9333824277173197" />
-      <edge id="1951" source="Hausammann Markus" target="Hausammann Markus" weight="0.9999999999999987" />
-      <edge id="1952" source="Hausammann Markus" target="Herzog Verena" weight="0.8131232472954855" />
-      <edge id="1953" source="Hausammann Markus" target="Hess Erich" weight="0.8001814676217052" />
+      <edge id="1951" source="Hausammann Markus" target="Hausammann Markus" weight="0.9999999999999998" />
+      <edge id="1952" source="Hausammann Markus" target="Herzog Verena" weight="0.8131232472954847" />
+      <edge id="1953" source="Hausammann Markus" target="Hess Erich" weight="0.8001814676217056" />
       <edge id="1954" source="Hausammann Markus" target="Imark Christian" weight="0.8484888694261646" />
       <edge id="1955" source="Hausammann Markus" target="Keller Peter" weight="0.8177668524006563" />
       <edge id="1956" source="Hausammann Markus" target="Keller-Inhelder Barbara" weight="0.8484415661705145" />
@@ -2979,8 +2979,8 @@
       <edge id="1970" source="Hausammann Markus" target="Walliser Bruno" weight="0.8538887533140487" />
       <edge id="1971" source="Hausammann Markus" target="Zanetti Claudio" weight="0.8488309294837405" />
       <edge id="1972" source="Hausammann Markus" target="Zuberbühler David" weight="0.8253547208325429" />
-      <edge id="1973" source="Heer Alfred" target="Heer Alfred" weight="0.9999999999999993" />
-      <edge id="1974" source="Heim Bea" target="Heim Bea" weight="1.0000000000000004" />
+      <edge id="1973" source="Heer Alfred" target="Heer Alfred" weight="0.9999999999999998" />
+      <edge id="1974" source="Heim Bea" target="Heim Bea" weight="0.9999999999999999" />
       <edge id="1975" source="Heim Bea" target="Jans Beat" weight="0.8506663463946994" />
       <edge id="1976" source="Heim Bea" target="Kälin Irène" weight="0.849357797287392" />
       <edge id="1977" source="Heim Bea" target="Kiener Nellen Margret" weight="0.8683000205819259" />
@@ -3008,8 +3008,8 @@
       <edge id="1999" source="Heim Bea" target="Wasserfallen Flavia" weight="0.8136631033865402" />
       <edge id="2000" source="Heim Bea" target="Wermuth Cédric" weight="0.80437616690903" />
       <edge id="2001" source="Heim Bea" target="Wüthrich Adrian" weight="0.842171390604929" />
-      <edge id="2002" source="Herzog Verena" target="Herzog Verena" weight="1.0000000000000016" />
-      <edge id="2003" source="Herzog Verena" target="Hess Erich" weight="0.8664216634271291" />
+      <edge id="2002" source="Herzog Verena" target="Herzog Verena" weight="1.0" />
+      <edge id="2003" source="Herzog Verena" target="Hess Erich" weight="0.8664216634271302" />
       <edge id="2004" source="Herzog Verena" target="Imark Christian" weight="0.9354321686924139" />
       <edge id="2005" source="Herzog Verena" target="Keller Peter" weight="0.8137036146480606" />
       <edge id="2006" source="Herzog Verena" target="Keller-Inhelder Barbara" weight="0.941360181604344" />
@@ -3038,7 +3038,7 @@
       <edge id="2029" source="Herzog Verena" target="Wobmann Walter" weight="0.838220125757354" />
       <edge id="2030" source="Herzog Verena" target="Zanetti Claudio" weight="0.9237212077056669" />
       <edge id="2031" source="Herzog Verena" target="Zuberbühler David" weight="0.9057148735229398" />
-      <edge id="2032" source="Hess Erich" target="Hess Erich" weight="1.000000000000001" />
+      <edge id="2032" source="Hess Erich" target="Hess Erich" weight="0.9999999999999999" />
       <edge id="2033" source="Hess Erich" target="Imark Christian" weight="0.9262260722102922" />
       <edge id="2034" source="Hess Erich" target="Keller-Inhelder Barbara" weight="0.8928938462892443" />
       <edge id="2035" source="Hess Erich" target="Knecht Hansjörg" weight="0.8198536687143074" />
@@ -3064,8 +3064,8 @@
       <edge id="2055" source="Hess Erich" target="Wobmann Walter" weight="0.8401544359681143" />
       <edge id="2056" source="Hess Erich" target="Zanetti Claudio" weight="0.9263889283288848" />
       <edge id="2057" source="Hess Erich" target="Zuberbühler David" weight="0.8498436072717289" />
-      <edge id="2058" source="Hess Lorenz" target="Hess Lorenz" weight="1.0000000000000002" />
-      <edge id="2059" source="Hiltpold Hugues" target="Hiltpold Hugues" weight="1.0" />
+      <edge id="2058" source="Hess Lorenz" target="Hess Lorenz" weight="1.0" />
+      <edge id="2059" source="Hiltpold Hugues" target="Hiltpold Hugues" weight="0.9999999999999999" />
       <edge id="2060" source="Hiltpold Hugues" target="Humbel Ruth" weight="0.8128077518567101" />
       <edge id="2061" source="Hiltpold Hugues" target="Jauslin Matthias Samuel" weight="0.9194206164709406" />
       <edge id="2062" source="Hiltpold Hugues" target="Lüscher Christian" weight="0.8957557153755822" />
@@ -3086,7 +3086,7 @@
       <edge id="2077" source="Hiltpold Hugues" target="Vitali Albert" weight="0.8768895459432697" />
       <edge id="2078" source="Hiltpold Hugues" target="Walti Beat" weight="0.8853162962408268" />
       <edge id="2079" source="Hiltpold Hugues" target="Wasserfallen Christian" weight="0.8031356060265649" />
-      <edge id="2080" source="Humbel Ruth" target="Humbel Ruth" weight="0.999999999999999" />
+      <edge id="2080" source="Humbel Ruth" target="Humbel Ruth" weight="1.0" />
       <edge id="2081" source="Humbel Ruth" target="Jauslin Matthias Samuel" weight="0.8239245309479423" />
       <edge id="2082" source="Humbel Ruth" target="Kutter Philipp" weight="0.8712687941966524" />
       <edge id="2083" source="Humbel Ruth" target="Lohr Christian" weight="0.9083176297585974" />
@@ -3106,15 +3106,15 @@
       <edge id="2097" source="Humbel Ruth" target="Siegenthaler Heinz" weight="0.8093303358429083" />
       <edge id="2098" source="Humbel Ruth" target="Vitali Albert" weight="0.8030200930495268" />
       <edge id="2099" source="Humbel Ruth" target="Vogler Karl" weight="0.8433122890341347" />
-      <edge id="2100" source="Hurter Thomas" target="Hurter Thomas" weight="1.0000000000000016" />
+      <edge id="2100" source="Hurter Thomas" target="Hurter Thomas" weight="1.0" />
       <edge id="2101" source="Hurter Thomas" target="Reimann Maximilian" weight="0.8224253661110004" />
       <edge id="2102" source="Hurter Thomas" target="Ruppen Franz" weight="0.8078398556571662" />
-      <edge id="2103" source="Imark Christian" target="Imark Christian" weight="1.000000000000001" />
-      <edge id="2104" source="Imark Christian" target="Keller Peter" weight="0.8403836062531814" />
-      <edge id="2105" source="Imark Christian" target="Keller-Inhelder Barbara" weight="0.9459376203700731" />
-      <edge id="2106" source="Imark Christian" target="Knecht Hansjörg" weight="0.8640799123251407" />
-      <edge id="2107" source="Imark Christian" target="Martullo-Blocher Magdalena" weight="0.880697403613869" />
-      <edge id="2108" source="Imark Christian" target="Matter Thomas" weight="0.9383532536425894" />
+      <edge id="2103" source="Imark Christian" target="Imark Christian" weight="1.0000000000000002" />
+      <edge id="2104" source="Imark Christian" target="Keller Peter" weight="0.8403836062531808" />
+      <edge id="2105" source="Imark Christian" target="Keller-Inhelder Barbara" weight="0.9459376203700717" />
+      <edge id="2106" source="Imark Christian" target="Knecht Hansjörg" weight="0.8640799123251415" />
+      <edge id="2107" source="Imark Christian" target="Martullo-Blocher Magdalena" weight="0.8806974036138697" />
+      <edge id="2108" source="Imark Christian" target="Matter Thomas" weight="0.9383532536425905" />
       <edge id="2109" source="Imark Christian" target="Müller Thomas" weight="0.8616619212354855" />
       <edge id="2110" source="Imark Christian" target="Müri Felix" weight="0.8382041558573625" />
       <edge id="2111" source="Imark Christian" target="Nidegger Yves" weight="0.8677142695274477" />
@@ -3138,15 +3138,15 @@
       <edge id="2129" source="Imark Christian" target="Wobmann Walter" weight="0.8960779346823745" />
       <edge id="2130" source="Imark Christian" target="Zanetti Claudio" weight="0.9814225308444269" />
       <edge id="2131" source="Imark Christian" target="Zuberbühler David" weight="0.9063442349860639" />
-      <edge id="2132" source="Jans Beat" target="Jans Beat" weight="1.0000000000000013" />
-      <edge id="2133" source="Jans Beat" target="Kälin Irène" weight="0.8557050834220433" />
-      <edge id="2134" source="Jans Beat" target="Kiener Nellen Margret" weight="0.8725379440277171" />
-      <edge id="2135" source="Jans Beat" target="Maire Jacques-André" weight="0.8608256466618835" />
-      <edge id="2136" source="Jans Beat" target="Marra Ada" weight="0.9130059592668637" />
-      <edge id="2137" source="Jans Beat" target="Marti Min Li" weight="0.8511224640549077" />
-      <edge id="2138" source="Jans Beat" target="Marti Samira" weight="0.8239247245721827" />
-      <edge id="2139" source="Jans Beat" target="Masshardt Nadine" weight="0.9164351386828395" />
-      <edge id="2140" source="Jans Beat" target="Mazzone Lisa" weight="0.8462049408579277" />
+      <edge id="2132" source="Jans Beat" target="Jans Beat" weight="0.9999999999999999" />
+      <edge id="2133" source="Jans Beat" target="Kälin Irène" weight="0.8557050834220424" />
+      <edge id="2134" source="Jans Beat" target="Kiener Nellen Margret" weight="0.8725379440277172" />
+      <edge id="2135" source="Jans Beat" target="Maire Jacques-André" weight="0.860825646661884" />
+      <edge id="2136" source="Jans Beat" target="Marra Ada" weight="0.9130059592668631" />
+      <edge id="2137" source="Jans Beat" target="Marti Min Li" weight="0.8511224640549078" />
+      <edge id="2138" source="Jans Beat" target="Marti Samira" weight="0.8239247245721819" />
+      <edge id="2139" source="Jans Beat" target="Masshardt Nadine" weight="0.9164351386828384" />
+      <edge id="2140" source="Jans Beat" target="Mazzone Lisa" weight="0.8462049408579267" />
       <edge id="2141" source="Jans Beat" target="Molina Fabian" weight="0.9105724494316332" />
       <edge id="2142" source="Jans Beat" target="Munz Martina" weight="0.8485306008636377" />
       <edge id="2143" source="Jans Beat" target="Naef Martin" weight="0.8848802995832222" />
@@ -3166,10 +3166,10 @@
       <edge id="2157" source="Jans Beat" target="Töngi Michael" weight="0.879457906660413" />
       <edge id="2158" source="Jans Beat" target="Wasserfallen Flavia" weight="0.8768914840317587" />
       <edge id="2159" source="Jans Beat" target="Wüthrich Adrian" weight="0.8824035713205846" />
-      <edge id="2160" source="Jauslin Matthias Samuel" target="Jauslin Matthias Samuel" weight="0.9999999999999987" />
+      <edge id="2160" source="Jauslin Matthias Samuel" target="Jauslin Matthias Samuel" weight="1.0" />
       <edge id="2161" source="Jauslin Matthias Samuel" target="Lohr Christian" weight="0.8221696311260115" />
-      <edge id="2162" source="Jauslin Matthias Samuel" target="Lüscher Christian" weight="0.8300879088360231" />
-      <edge id="2163" source="Jauslin Matthias Samuel" target="Markwalder Christa" weight="0.8692679567468156" />
+      <edge id="2162" source="Jauslin Matthias Samuel" target="Lüscher Christian" weight="0.830087908836022" />
+      <edge id="2163" source="Jauslin Matthias Samuel" target="Markwalder Christa" weight="0.8692679567468138" />
       <edge id="2164" source="Jauslin Matthias Samuel" target="Merlini Giovanni" weight="0.8611841376651412" />
       <edge id="2165" source="Jauslin Matthias Samuel" target="Müller Leo" weight="0.8411708732494363" />
       <edge id="2166" source="Jauslin Matthias Samuel" target="Müller Walter" weight="0.8608284620211181" />
@@ -3185,13 +3185,13 @@
       <edge id="2176" source="Jauslin Matthias Samuel" target="Siegenthaler Heinz" weight="0.8199796322876554" />
       <edge id="2177" source="Jauslin Matthias Samuel" target="Vitali Albert" weight="0.897708836918272" />
       <edge id="2178" source="Jauslin Matthias Samuel" target="Walti Beat" weight="0.8660462867109515" />
-      <edge id="2179" source="Kälin Irène" target="Kälin Irène" weight="1.0" />
-      <edge id="2180" source="Kälin Irène" target="Kiener Nellen Margret" weight="0.8265190454762259" />
-      <edge id="2181" source="Kälin Irène" target="Maire Jacques-André" weight="0.828280262633449" />
-      <edge id="2182" source="Kälin Irène" target="Marra Ada" weight="0.8690630149998757" />
-      <edge id="2183" source="Kälin Irène" target="Marti Min Li" weight="0.8302731937813854" />
-      <edge id="2184" source="Kälin Irène" target="Marti Samira" weight="0.8180964944355831" />
-      <edge id="2185" source="Kälin Irène" target="Masshardt Nadine" weight="0.8237691660355202" />
+      <edge id="2179" source="Kälin Irène" target="Kälin Irène" weight="0.9999999999999999" />
+      <edge id="2180" source="Kälin Irène" target="Kiener Nellen Margret" weight="0.826519045476225" />
+      <edge id="2181" source="Kälin Irène" target="Maire Jacques-André" weight="0.8282802626334496" />
+      <edge id="2182" source="Kälin Irène" target="Marra Ada" weight="0.8690630149998768" />
+      <edge id="2183" source="Kälin Irène" target="Marti Min Li" weight="0.8302731937813861" />
+      <edge id="2184" source="Kälin Irène" target="Marti Samira" weight="0.8180964944355822" />
+      <edge id="2185" source="Kälin Irène" target="Masshardt Nadine" weight="0.8237691660355209" />
       <edge id="2186" source="Kälin Irène" target="Mazzone Lisa" weight="0.922838053607977" />
       <edge id="2187" source="Kälin Irène" target="Molina Fabian" weight="0.8761462794314892" />
       <edge id="2188" source="Kälin Irène" target="Munz Martina" weight="0.8370178029141357" />
@@ -3211,10 +3211,10 @@
       <edge id="2202" source="Kälin Irène" target="Töngi Michael" weight="0.9727004519378315" />
       <edge id="2203" source="Kälin Irène" target="Trede Aline" weight="0.8483756481716962" />
       <edge id="2204" source="Kälin Irène" target="Wüthrich Adrian" weight="0.8655821737235994" />
-      <edge id="2205" source="Keller Peter" target="Keller Peter" weight="0.9999999999999982" />
-      <edge id="2206" source="Keller Peter" target="Keller-Inhelder Barbara" weight="0.8016143407716706" />
-      <edge id="2207" source="Keller Peter" target="Knecht Hansjörg" weight="0.8212798718942254" />
-      <edge id="2208" source="Keller Peter" target="Martullo-Blocher Magdalena" weight="0.8142646228067594" />
+      <edge id="2205" source="Keller Peter" target="Keller Peter" weight="0.9999999999999998" />
+      <edge id="2206" source="Keller Peter" target="Keller-Inhelder Barbara" weight="0.8016143407716696" />
+      <edge id="2207" source="Keller Peter" target="Knecht Hansjörg" weight="0.8212798718942265" />
+      <edge id="2208" source="Keller Peter" target="Martullo-Blocher Magdalena" weight="0.8142646228067583" />
       <edge id="2209" source="Keller Peter" target="Page Pierre-André" weight="0.8680942555119453" />
       <edge id="2210" source="Keller Peter" target="Pieren Nadja" weight="0.8267640447502516" />
       <edge id="2211" source="Keller Peter" target="Reimann Maximilian" weight="0.8412438893897101" />
@@ -3229,10 +3229,10 @@
       <edge id="2220" source="Keller Peter" target="Walliser Bruno" weight="0.8313281468782636" />
       <edge id="2221" source="Keller Peter" target="Zanetti Claudio" weight="0.8366064738544212" />
       <edge id="2222" source="Keller Peter" target="Zuberbühler David" weight="0.8544680335698004" />
-      <edge id="2223" source="Keller-Inhelder Barbara" target="Keller-Inhelder Barbara" weight="0.9999999999999984" />
-      <edge id="2224" source="Keller-Inhelder Barbara" target="Knecht Hansjörg" weight="0.8382537894415598" />
-      <edge id="2225" source="Keller-Inhelder Barbara" target="Martullo-Blocher Magdalena" weight="0.8347507290497056" />
-      <edge id="2226" source="Keller-Inhelder Barbara" target="Matter Thomas" weight="0.9051867694721822" />
+      <edge id="2223" source="Keller-Inhelder Barbara" target="Keller-Inhelder Barbara" weight="1.0" />
+      <edge id="2224" source="Keller-Inhelder Barbara" target="Knecht Hansjörg" weight="0.8382537894415585" />
+      <edge id="2225" source="Keller-Inhelder Barbara" target="Martullo-Blocher Magdalena" weight="0.8347507290497063" />
+      <edge id="2226" source="Keller-Inhelder Barbara" target="Matter Thomas" weight="0.9051867694721827" />
       <edge id="2227" source="Keller-Inhelder Barbara" target="Müller Thomas" weight="0.8462279213753552" />
       <edge id="2228" source="Keller-Inhelder Barbara" target="Müri Felix" weight="0.8383410713351509" />
       <edge id="2229" source="Keller-Inhelder Barbara" target="Nidegger Yves" weight="0.8285004200532005" />
@@ -3256,12 +3256,12 @@
       <edge id="2247" source="Keller-Inhelder Barbara" target="Wobmann Walter" weight="0.8746285371358673" />
       <edge id="2248" source="Keller-Inhelder Barbara" target="Zanetti Claudio" weight="0.951565131480627" />
       <edge id="2249" source="Keller-Inhelder Barbara" target="Zuberbühler David" weight="0.923076923076922" />
-      <edge id="2250" source="Kiener Nellen Margret" target="Kiener Nellen Margret" weight="0.9999999999999994" />
-      <edge id="2251" source="Kiener Nellen Margret" target="Maire Jacques-André" weight="0.8627652804480133" />
-      <edge id="2252" source="Kiener Nellen Margret" target="Marra Ada" weight="0.893782628264708" />
-      <edge id="2253" source="Kiener Nellen Margret" target="Marti Min Li" weight="0.8241455449525226" />
-      <edge id="2254" source="Kiener Nellen Margret" target="Masshardt Nadine" weight="0.8475738822362661" />
-      <edge id="2255" source="Kiener Nellen Margret" target="Mazzone Lisa" weight="0.8176298175326759" />
+      <edge id="2250" source="Kiener Nellen Margret" target="Kiener Nellen Margret" weight="1.0000000000000002" />
+      <edge id="2251" source="Kiener Nellen Margret" target="Maire Jacques-André" weight="0.8627652804480127" />
+      <edge id="2252" source="Kiener Nellen Margret" target="Marra Ada" weight="0.8937826282647093" />
+      <edge id="2253" source="Kiener Nellen Margret" target="Marti Min Li" weight="0.8241455449525237" />
+      <edge id="2254" source="Kiener Nellen Margret" target="Masshardt Nadine" weight="0.8475738822362667" />
+      <edge id="2255" source="Kiener Nellen Margret" target="Mazzone Lisa" weight="0.817629817532677" />
       <edge id="2256" source="Kiener Nellen Margret" target="Molina Fabian" weight="0.8436467654562925" />
       <edge id="2257" source="Kiener Nellen Margret" target="Munz Martina" weight="0.8106487786382526" />
       <edge id="2258" source="Kiener Nellen Margret" target="Naef Martin" weight="0.8170304521190896" />
@@ -3281,9 +3281,9 @@
       <edge id="2272" source="Kiener Nellen Margret" target="Töngi Michael" weight="0.849384675469883" />
       <edge id="2273" source="Kiener Nellen Margret" target="Wasserfallen Flavia" weight="0.8250452107059819" />
       <edge id="2274" source="Kiener Nellen Margret" target="Wüthrich Adrian" weight="0.8226900697897284" />
-      <edge id="2275" source="Knecht Hansjörg" target="Knecht Hansjörg" weight="0.9999999999999989" />
-      <edge id="2276" source="Knecht Hansjörg" target="Martullo-Blocher Magdalena" weight="0.8750825241886986" />
-      <edge id="2277" source="Knecht Hansjörg" target="Matter Thomas" weight="0.8201735733492184" />
+      <edge id="2275" source="Knecht Hansjörg" target="Knecht Hansjörg" weight="1.0" />
+      <edge id="2276" source="Knecht Hansjörg" target="Martullo-Blocher Magdalena" weight="0.8750825241886988" />
+      <edge id="2277" source="Knecht Hansjörg" target="Matter Thomas" weight="0.8201735733492197" />
       <edge id="2278" source="Knecht Hansjörg" target="Müller Thomas" weight="0.8056857541706346" />
       <edge id="2279" source="Knecht Hansjörg" target="Page Pierre-André" weight="0.848351511499045" />
       <edge id="2280" source="Knecht Hansjörg" target="Pantani Roberta" weight="0.8019795787066824" />
@@ -3300,14 +3300,14 @@
       <edge id="2291" source="Knecht Hansjörg" target="Walliser Bruno" weight="0.8695466882956162" />
       <edge id="2292" source="Knecht Hansjörg" target="Zanetti Claudio" weight="0.8804361884597013" />
       <edge id="2293" source="Knecht Hansjörg" target="Zuberbühler David" weight="0.840840992495391" />
-      <edge id="2294" source="Köppel Roger" target="Köppel Roger" weight="0.9999999999999987" />
-      <edge id="2295" source="Köppel Roger" target="Martullo-Blocher Magdalena" weight="0.8027806236278601" />
+      <edge id="2294" source="Köppel Roger" target="Köppel Roger" weight="0.9999999999999998" />
+      <edge id="2295" source="Köppel Roger" target="Martullo-Blocher Magdalena" weight="0.8027806236278597" />
       <edge id="2296" source="Köppel Roger" target="Moret Isabelle" weight="0.8246847151640069" />
       <edge id="2297" source="Köppel Roger" target="Pantani Roberta" weight="0.813480241698247" />
-      <edge id="2298" source="Kutter Philipp" target="Kutter Philipp" weight="1.0000000000000013" />
-      <edge id="2299" source="Kutter Philipp" target="Landolt Martin" weight="0.8149500637700318" />
-      <edge id="2300" source="Kutter Philipp" target="Lohr Christian" weight="0.8616849384688265" />
-      <edge id="2301" source="Kutter Philipp" target="Marchand-Balet Géraldine" weight="0.8782904611746825" />
+      <edge id="2298" source="Kutter Philipp" target="Kutter Philipp" weight="1.0" />
+      <edge id="2299" source="Kutter Philipp" target="Landolt Martin" weight="0.8149500637700309" />
+      <edge id="2300" source="Kutter Philipp" target="Lohr Christian" weight="0.8616849384688257" />
+      <edge id="2301" source="Kutter Philipp" target="Marchand-Balet Géraldine" weight="0.8782904611746833" />
       <edge id="2302" source="Kutter Philipp" target="Müller Leo" weight="0.8769442820594524" />
       <edge id="2303" source="Kutter Philipp" target="Müller-Altermatt Stefan" weight="0.820466707702778" />
       <edge id="2304" source="Kutter Philipp" target="Paganini Nicolo" weight="0.857820880448787" />
@@ -3318,9 +3318,9 @@
       <edge id="2309" source="Kutter Philipp" target="Romano Marco" weight="0.8084515142220079" />
       <edge id="2310" source="Kutter Philipp" target="Schneider-Schneiter Elisabeth" weight="0.8260008423677222" />
       <edge id="2311" source="Kutter Philipp" target="Vogler Karl" weight="0.8587497744439755" />
-      <edge id="2312" source="Landolt Martin" target="Landolt Martin" weight="0.9999999999999997" />
-      <edge id="2313" source="Lohr Christian" target="Lohr Christian" weight="1.000000000000001" />
-      <edge id="2314" source="Lohr Christian" target="Marchand-Balet Géraldine" weight="0.8906512810306244" />
+      <edge id="2312" source="Landolt Martin" target="Landolt Martin" weight="1.0" />
+      <edge id="2313" source="Lohr Christian" target="Lohr Christian" weight="1.0000000000000002" />
+      <edge id="2314" source="Lohr Christian" target="Marchand-Balet Géraldine" weight="0.8906512810306255" />
       <edge id="2315" source="Lohr Christian" target="Müller Leo" weight="0.9340026673566063" />
       <edge id="2316" source="Lohr Christian" target="Paganini Nicolo" weight="0.8680851063829798" />
       <edge id="2317" source="Lohr Christian" target="Pfister Gerhard" weight="0.8467384559063653" />
@@ -3333,8 +3333,8 @@
       <edge id="2324" source="Lohr Christian" target="Schneider-Schneiter Elisabeth" weight="0.8775810701724419" />
       <edge id="2325" source="Lohr Christian" target="Siegenthaler Heinz" weight="0.8076065206038823" />
       <edge id="2326" source="Lohr Christian" target="Vogler Karl" weight="0.8535377531814161" />
-      <edge id="2327" source="Lüscher Christian" target="Lüscher Christian" weight="1.000000000000002" />
-      <edge id="2328" source="Lüscher Christian" target="Markwalder Christa" weight="0.840662703418396" />
+      <edge id="2327" source="Lüscher Christian" target="Lüscher Christian" weight="0.9999999999999999" />
+      <edge id="2328" source="Lüscher Christian" target="Markwalder Christa" weight="0.8406627034183971" />
       <edge id="2329" source="Lüscher Christian" target="Merlini Giovanni" weight="0.8207635088397591" />
       <edge id="2330" source="Lüscher Christian" target="Müller Walter" weight="0.8091378520402063" />
       <edge id="2331" source="Lüscher Christian" target="Paganini Nicolo" weight="0.8298252098824588" />
@@ -3343,12 +3343,12 @@
       <edge id="2334" source="Lüscher Christian" target="Schneider-Schneiter Elisabeth" weight="0.8106564074382723" />
       <edge id="2335" source="Lüscher Christian" target="Vitali Albert" weight="0.8050910000197854" />
       <edge id="2336" source="Lüscher Christian" target="Walti Beat" weight="0.8453667406348973" />
-      <edge id="2337" source="Maire Jacques-André" target="Maire Jacques-André" weight="1.0000000000000009" />
-      <edge id="2338" source="Maire Jacques-André" target="Marra Ada" weight="0.8768298437271875" />
-      <edge id="2339" source="Maire Jacques-André" target="Marti Min Li" weight="0.8591405057451111" />
-      <edge id="2340" source="Maire Jacques-André" target="Marti Samira" weight="0.8187930680128903" />
-      <edge id="2341" source="Maire Jacques-André" target="Masshardt Nadine" weight="0.8974386018643885" />
-      <edge id="2342" source="Maire Jacques-André" target="Mazzone Lisa" weight="0.8444349096842831" />
+      <edge id="2337" source="Maire Jacques-André" target="Maire Jacques-André" weight="1.0" />
+      <edge id="2338" source="Maire Jacques-André" target="Marra Ada" weight="0.8768298437271861" />
+      <edge id="2339" source="Maire Jacques-André" target="Marti Min Li" weight="0.8591405057451124" />
+      <edge id="2340" source="Maire Jacques-André" target="Marti Samira" weight="0.8187930680128895" />
+      <edge id="2341" source="Maire Jacques-André" target="Masshardt Nadine" weight="0.8974386018643874" />
+      <edge id="2342" source="Maire Jacques-André" target="Mazzone Lisa" weight="0.8444349096842841" />
       <edge id="2343" source="Maire Jacques-André" target="Molina Fabian" weight="0.8687161280818084" />
       <edge id="2344" source="Maire Jacques-André" target="Munz Martina" weight="0.8096409047527374" />
       <edge id="2345" source="Maire Jacques-André" target="Naef Martin" weight="0.8958955955350426" />
@@ -3368,7 +3368,7 @@
       <edge id="2359" source="Maire Jacques-André" target="Töngi Michael" weight="0.8514202182000778" />
       <edge id="2360" source="Maire Jacques-André" target="Wasserfallen Flavia" weight="0.8267412196314559" />
       <edge id="2361" source="Maire Jacques-André" target="Wüthrich Adrian" weight="0.8418420899530312" />
-      <edge id="2362" source="Marchand-Balet Géraldine" target="Marchand-Balet Géraldine" weight="1.0000000000000002" />
+      <edge id="2362" source="Marchand-Balet Géraldine" target="Marchand-Balet Géraldine" weight="1.0" />
       <edge id="2363" source="Marchand-Balet Géraldine" target="Müller Leo" weight="0.9146265100234667" />
       <edge id="2364" source="Marchand-Balet Géraldine" target="Paganini Nicolo" weight="0.8422901254995496" />
       <edge id="2365" source="Marchand-Balet Géraldine" target="Pfister Gerhard" weight="0.8134199169372991" />
@@ -3380,17 +3380,17 @@
       <edge id="2371" source="Marchand-Balet Géraldine" target="Siegenthaler Heinz" weight="0.8259073571880277" />
       <edge id="2372" source="Marchand-Balet Géraldine" target="Vogler Karl" weight="0.8349281393267047" />
       <edge id="2373" source="Marchand-Balet Géraldine" target="Walti Beat" weight="0.809412431366622" />
-      <edge id="2374" source="Markwalder Christa" target="Markwalder Christa" weight="0.9999999999999982" />
+      <edge id="2374" source="Markwalder Christa" target="Markwalder Christa" weight="1.0" />
       <edge id="2375" source="Markwalder Christa" target="Merlini Giovanni" weight="0.8248556628873861" />
       <edge id="2376" source="Markwalder Christa" target="Portmann Hans-Peter" weight="0.8688712763636653" />
       <edge id="2377" source="Markwalder Christa" target="Sauter Regine" weight="0.8345933456669645" />
       <edge id="2378" source="Markwalder Christa" target="Vitali Albert" weight="0.8314794192830993" />
       <edge id="2379" source="Markwalder Christa" target="Walti Beat" weight="0.8346971598484123" />
-      <edge id="2380" source="Marra Ada" target="Marra Ada" weight="0.9999999999999987" />
-      <edge id="2381" source="Marra Ada" target="Marti Min Li" weight="0.8543052116111838" />
-      <edge id="2382" source="Marra Ada" target="Marti Samira" weight="0.8271825585597803" />
-      <edge id="2383" source="Marra Ada" target="Masshardt Nadine" weight="0.8664281725994242" />
-      <edge id="2384" source="Marra Ada" target="Mazzone Lisa" weight="0.8829601757306851" />
+      <edge id="2380" source="Marra Ada" target="Marra Ada" weight="1.0" />
+      <edge id="2381" source="Marra Ada" target="Marti Min Li" weight="0.8543052116111851" />
+      <edge id="2382" source="Marra Ada" target="Marti Samira" weight="0.827182558559781" />
+      <edge id="2383" source="Marra Ada" target="Masshardt Nadine" weight="0.8664281725994231" />
+      <edge id="2384" source="Marra Ada" target="Mazzone Lisa" weight="0.8829601757306863" />
       <edge id="2385" source="Marra Ada" target="Molina Fabian" weight="0.8822575465125708" />
       <edge id="2386" source="Marra Ada" target="Munz Martina" weight="0.8533849172695822" />
       <edge id="2387" source="Marra Ada" target="Naef Martin" weight="0.8918387516152354" />
@@ -3410,9 +3410,9 @@
       <edge id="2401" source="Marra Ada" target="Töngi Michael" weight="0.8930223962206775" />
       <edge id="2402" source="Marra Ada" target="Wasserfallen Flavia" weight="0.8641474005951182" />
       <edge id="2403" source="Marra Ada" target="Wüthrich Adrian" weight="0.8988089383090131" />
-      <edge id="2404" source="Marti Min Li" target="Marti Min Li" weight="0.9999999999999994" />
-      <edge id="2405" source="Marti Min Li" target="Masshardt Nadine" weight="0.8791143691158922" />
-      <edge id="2406" source="Marti Min Li" target="Mazzone Lisa" weight="0.8371435204555848" />
+      <edge id="2404" source="Marti Min Li" target="Marti Min Li" weight="1.0000000000000002" />
+      <edge id="2405" source="Marti Min Li" target="Masshardt Nadine" weight="0.8791143691158932" />
+      <edge id="2406" source="Marti Min Li" target="Mazzone Lisa" weight="0.8371435204555847" />
       <edge id="2407" source="Marti Min Li" target="Molina Fabian" weight="0.8442058692590473" />
       <edge id="2408" source="Marti Min Li" target="Munz Martina" weight="0.8005146739354309" />
       <edge id="2409" source="Marti Min Li" target="Naef Martin" weight="0.8943555324077159" />
@@ -3428,9 +3428,9 @@
       <edge id="2419" source="Marti Min Li" target="Töngi Michael" weight="0.8540233872039915" />
       <edge id="2420" source="Marti Min Li" target="Wasserfallen Flavia" weight="0.8251225893276513" />
       <edge id="2421" source="Marti Min Li" target="Wüthrich Adrian" weight="0.8180900645840503" />
-      <edge id="2422" source="Marti Samira" target="Marti Samira" weight="1.0000000000000009" />
-      <edge id="2423" source="Marti Samira" target="Masshardt Nadine" weight="0.8049307489068481" />
-      <edge id="2424" source="Marti Samira" target="Mazzone Lisa" weight="0.8195205608867544" />
+      <edge id="2422" source="Marti Samira" target="Marti Samira" weight="1.0000000000000002" />
+      <edge id="2423" source="Marti Samira" target="Masshardt Nadine" weight="0.8049307489068479" />
+      <edge id="2424" source="Marti Samira" target="Mazzone Lisa" weight="0.8195205608867538" />
       <edge id="2425" source="Marti Samira" target="Molina Fabian" weight="0.8749940111961438" />
       <edge id="2426" source="Marti Samira" target="Pardini Corrado" weight="0.8327362520330919" />
       <edge id="2427" source="Marti Samira" target="Piller Carrard Valérie" weight="0.8335777762391854" />
@@ -3443,8 +3443,8 @@
       <edge id="2434" source="Marti Samira" target="Töngi Michael" weight="0.8416115126570833" />
       <edge id="2435" source="Marti Samira" target="Wasserfallen Flavia" weight="0.8303674417343693" />
       <edge id="2436" source="Marti Samira" target="Wüthrich Adrian" weight="0.8177964226636196" />
-      <edge id="2437" source="Martullo-Blocher Magdalena" target="Martullo-Blocher Magdalena" weight="0.9999999999999992" />
-      <edge id="2438" source="Martullo-Blocher Magdalena" target="Matter Thomas" weight="0.8248700503767799" />
+      <edge id="2437" source="Martullo-Blocher Magdalena" target="Martullo-Blocher Magdalena" weight="0.9999999999999999" />
+      <edge id="2438" source="Martullo-Blocher Magdalena" target="Matter Thomas" weight="0.8248700503767789" />
       <edge id="2439" source="Martullo-Blocher Magdalena" target="Page Pierre-André" weight="0.8292427864828997" />
       <edge id="2440" source="Martullo-Blocher Magdalena" target="Pantani Roberta" weight="0.8241762445517248" />
       <edge id="2441" source="Martullo-Blocher Magdalena" target="Pieren Nadja" weight="0.860847434074453" />
@@ -3461,8 +3461,8 @@
       <edge id="2452" source="Martullo-Blocher Magdalena" target="Walliser Bruno" weight="0.8657848465564633" />
       <edge id="2453" source="Martullo-Blocher Magdalena" target="Zanetti Claudio" weight="0.8660646912506618" />
       <edge id="2454" source="Martullo-Blocher Magdalena" target="Zuberbühler David" weight="0.845167153809792" />
-      <edge id="2455" source="Masshardt Nadine" target="Masshardt Nadine" weight="1.0000000000000004" />
-      <edge id="2456" source="Masshardt Nadine" target="Mazzone Lisa" weight="0.8241792817522176" />
+      <edge id="2455" source="Masshardt Nadine" target="Masshardt Nadine" weight="1.0" />
+      <edge id="2456" source="Masshardt Nadine" target="Mazzone Lisa" weight="0.824179281752218" />
       <edge id="2457" source="Masshardt Nadine" target="Molina Fabian" weight="0.929103355049975" />
       <edge id="2458" source="Masshardt Nadine" target="Munz Martina" weight="0.8238468873274165" />
       <edge id="2459" source="Masshardt Nadine" target="Naef Martin" weight="0.9180554453788835" />
@@ -3481,7 +3481,7 @@
       <edge id="2472" source="Masshardt Nadine" target="Töngi Michael" weight="0.8468188001630745" />
       <edge id="2473" source="Masshardt Nadine" target="Wasserfallen Flavia" weight="0.8895500731376863" />
       <edge id="2474" source="Masshardt Nadine" target="Wüthrich Adrian" weight="0.8367487395946844" />
-      <edge id="2475" source="Matter Thomas" target="Matter Thomas" weight="1.000000000000001" />
+      <edge id="2475" source="Matter Thomas" target="Matter Thomas" weight="1.0" />
       <edge id="2476" source="Matter Thomas" target="Müller Thomas" weight="0.8121385544343217" />
       <edge id="2477" source="Matter Thomas" target="Nidegger Yves" weight="0.8158552356234136" />
       <edge id="2478" source="Matter Thomas" target="Page Pierre-André" weight="0.8628296839408625" />
@@ -3503,7 +3503,7 @@
       <edge id="2494" source="Matter Thomas" target="Wobmann Walter" weight="0.8507883868937178" />
       <edge id="2495" source="Matter Thomas" target="Zanetti Claudio" weight="0.933485507398549" />
       <edge id="2496" source="Matter Thomas" target="Zuberbühler David" weight="0.8709111947245255" />
-      <edge id="2497" source="Mazzone Lisa" target="Mazzone Lisa" weight="0.9999999999999987" />
+      <edge id="2497" source="Mazzone Lisa" target="Mazzone Lisa" weight="0.9999999999999999" />
       <edge id="2498" source="Mazzone Lisa" target="Molina Fabian" weight="0.8877545314489308" />
       <edge id="2499" source="Mazzone Lisa" target="Munz Martina" weight="0.8268982305947236" />
       <edge id="2500" source="Mazzone Lisa" target="Naef Martin" weight="0.8692418508958479" />
@@ -3523,27 +3523,27 @@
       <edge id="2514" source="Mazzone Lisa" target="Trede Aline" weight="0.8691243086065423" />
       <edge id="2515" source="Mazzone Lisa" target="Wasserfallen Flavia" weight="0.8077739702395745" />
       <edge id="2516" source="Mazzone Lisa" target="Wüthrich Adrian" weight="0.8974646245936746" />
-      <edge id="2517" source="Merlini Giovanni" target="Merlini Giovanni" weight="0.9999999999999996" />
-      <edge id="2518" source="Merlini Giovanni" target="Müller Leo" weight="0.813737206422079" />
-      <edge id="2519" source="Merlini Giovanni" target="Müller Walter" weight="0.802359599354094" />
+      <edge id="2517" source="Merlini Giovanni" target="Merlini Giovanni" weight="0.9999999999999998" />
+      <edge id="2518" source="Merlini Giovanni" target="Müller Leo" weight="0.8137372064220791" />
+      <edge id="2519" source="Merlini Giovanni" target="Müller Walter" weight="0.8023595993540948" />
       <edge id="2520" source="Merlini Giovanni" target="Portmann Hans-Peter" weight="0.8431551903028637" />
       <edge id="2521" source="Merlini Giovanni" target="Sauter Regine" weight="0.8348808092919766" />
       <edge id="2522" source="Merlini Giovanni" target="Schilliger Peter" weight="0.8309794970990231" />
       <edge id="2523" source="Merlini Giovanni" target="Schneeberger Daniela" weight="0.8310243034717704" />
       <edge id="2524" source="Merlini Giovanni" target="Vitali Albert" weight="0.8417256229267945" />
       <edge id="2525" source="Merlini Giovanni" target="Walti Beat" weight="0.819377469338554" />
-      <edge id="2526" source="Meyer Mattea" target="Meyer Mattea" weight="1.0000000000000004" />
+      <edge id="2526" source="Meyer Mattea" target="Meyer Mattea" weight="0.9999999999999998" />
       <edge id="2527" source="Meyer Mattea" target="Schenker Silvia" weight="0.8173699084572792" />
       <edge id="2528" source="Meyer Mattea" target="Schneider Schüttel Ursula" weight="0.8154355063002" />
       <edge id="2529" source="Meyer Mattea" target="Seiler Graf Priska" weight="0.8078921061456239" />
       <edge id="2530" source="Meyer Mattea" target="Semadeni Silva" weight="0.800908574966297" />
       <edge id="2531" source="Meyer Mattea" target="Töngi Michael" weight="0.8000640999960975" />
       <edge id="2532" source="Meyer Mattea" target="Wüthrich Adrian" weight="0.8336209317597649" />
-      <edge id="2533" source="Molina Fabian" target="Molina Fabian" weight="0.9999999999999993" />
-      <edge id="2534" source="Molina Fabian" target="Munz Martina" weight="0.8207451864754753" />
-      <edge id="2535" source="Molina Fabian" target="Naef Martin" weight="0.8975278569093819" />
-      <edge id="2536" source="Molina Fabian" target="Nordmann Roger" weight="0.8380182287871212" />
-      <edge id="2537" source="Molina Fabian" target="Pardini Corrado" weight="0.8648705834551927" />
+      <edge id="2533" source="Molina Fabian" target="Molina Fabian" weight="1.0" />
+      <edge id="2534" source="Molina Fabian" target="Munz Martina" weight="0.8207451864754745" />
+      <edge id="2535" source="Molina Fabian" target="Naef Martin" weight="0.8975278569093813" />
+      <edge id="2536" source="Molina Fabian" target="Nordmann Roger" weight="0.8380182287871204" />
+      <edge id="2537" source="Molina Fabian" target="Pardini Corrado" weight="0.8648705834551931" />
       <edge id="2538" source="Molina Fabian" target="Piller Carrard Valérie" weight="0.8462341674219184" />
       <edge id="2539" source="Molina Fabian" target="Reynard Mathias" weight="0.8503160136310038" />
       <edge id="2540" source="Molina Fabian" target="Rochat Fernandez Nicolas" weight="0.8898645582912231" />
@@ -3558,13 +3558,13 @@
       <edge id="2549" source="Molina Fabian" target="Trede Aline" weight="0.8200250702354221" />
       <edge id="2550" source="Molina Fabian" target="Wasserfallen Flavia" weight="0.8939520355953118" />
       <edge id="2551" source="Molina Fabian" target="Wüthrich Adrian" weight="0.8852536525534971" />
-      <edge id="2552" source="Moret Isabelle" target="Moret Isabelle" weight="1.0000000000000007" />
-      <edge id="2553" source="Moser Tiana Angelina" target="Moser Tiana Angelina" weight="0.9999999999999996" />
+      <edge id="2552" source="Moret Isabelle" target="Moret Isabelle" weight="1.0000000000000002" />
+      <edge id="2553" source="Moser Tiana Angelina" target="Moser Tiana Angelina" weight="0.9999999999999998" />
       <edge id="2554" source="Moser Tiana Angelina" target="Weibel Thomas" weight="0.802523819029723" />
-      <edge id="2555" source="Müller Leo" target="Müller Leo" weight="1.0000000000000018" />
-      <edge id="2556" source="Müller Leo" target="Müller-Altermatt Stefan" weight="0.8340940835275213" />
-      <edge id="2557" source="Müller Leo" target="Paganini Nicolo" weight="0.9022647126406051" />
-      <edge id="2558" source="Müller Leo" target="Pfister Gerhard" weight="0.8569188838159703" />
+      <edge id="2555" source="Müller Leo" target="Müller Leo" weight="1.0" />
+      <edge id="2556" source="Müller Leo" target="Müller-Altermatt Stefan" weight="0.8340940835275207" />
+      <edge id="2557" source="Müller Leo" target="Paganini Nicolo" weight="0.9022647126406037" />
+      <edge id="2558" source="Müller Leo" target="Pfister Gerhard" weight="0.85691888381597" />
       <edge id="2559" source="Müller Leo" target="Quadranti Rosmarie" weight="0.8344408667498875" />
       <edge id="2560" source="Müller Leo" target="Regazzi Fabio" weight="0.8224783208299764" />
       <edge id="2561" source="Müller Leo" target="Riklin Kathy" weight="0.8510982478966823" />
@@ -3576,10 +3576,10 @@
       <edge id="2567" source="Müller Leo" target="Vitali Albert" weight="0.8275159265510554" />
       <edge id="2568" source="Müller Leo" target="Vogler Karl" weight="0.875277473355816" />
       <edge id="2569" source="Müller Leo" target="Walti Beat" weight="0.8133280900364324" />
-      <edge id="2570" source="Müller Thomas" target="Müller Thomas" weight="0.9999999999999991" />
-      <edge id="2571" source="Müller Thomas" target="Nidegger Yves" weight="0.8853893806786896" />
-      <edge id="2572" source="Müller Thomas" target="Page Pierre-André" weight="0.8304945268352683" />
-      <edge id="2573" source="Müller Thomas" target="Pieren Nadja" weight="0.8623871175624225" />
+      <edge id="2570" source="Müller Thomas" target="Müller Thomas" weight="1.0000000000000002" />
+      <edge id="2571" source="Müller Thomas" target="Nidegger Yves" weight="0.8853893806786892" />
+      <edge id="2572" source="Müller Thomas" target="Page Pierre-André" weight="0.8304945268352679" />
+      <edge id="2573" source="Müller Thomas" target="Pieren Nadja" weight="0.8623871175624223" />
       <edge id="2574" source="Müller Thomas" target="Rösti Albert" weight="0.8294581185424774" />
       <edge id="2575" source="Müller Thomas" target="Ruppen Franz" weight="0.8341354639775379" />
       <edge id="2576" source="Müller Thomas" target="Salzmann Werner" weight="0.8072959461366593" />
@@ -3591,19 +3591,19 @@
       <edge id="2582" source="Müller Thomas" target="Vogt Hans-Ueli" weight="0.8505675517413835" />
       <edge id="2583" source="Müller Thomas" target="Walliser Bruno" weight="0.8621084611737776" />
       <edge id="2584" source="Müller Thomas" target="Zanetti Claudio" weight="0.8727773237981145" />
-      <edge id="2585" source="Müller Walter" target="Müller Walter" weight="0.9999999999999984" />
-      <edge id="2586" source="Müller Walter" target="Pezzatti Bruno" weight="0.8169824462375666" />
+      <edge id="2585" source="Müller Walter" target="Müller Walter" weight="1.0" />
+      <edge id="2586" source="Müller Walter" target="Pezzatti Bruno" weight="0.8169824462375662" />
       <edge id="2587" source="Müller Walter" target="Portmann Hans-Peter" weight="0.8152845016099592" />
       <edge id="2588" source="Müller Walter" target="Roduit Benjamin" weight="0.8098766489825241" />
       <edge id="2589" source="Müller Walter" target="Schneeberger Daniela" weight="0.8316074081115752" />
       <edge id="2590" source="Müller Walter" target="Vitali Albert" weight="0.8463272660560119" />
       <edge id="2591" source="Müller-Altermatt Stefan" target="Müller-Altermatt Stefan" weight="1.0" />
-      <edge id="2592" source="Müller-Altermatt Stefan" target="Paganini Nicolo" weight="0.8011182469549529" />
+      <edge id="2592" source="Müller-Altermatt Stefan" target="Paganini Nicolo" weight="0.8011182469549519" />
       <edge id="2593" source="Müller-Altermatt Stefan" target="Vogler Karl" weight="0.8198614382781724" />
-      <edge id="2594" source="Munz Martina" target="Munz Martina" weight="0.9999999999999988" />
-      <edge id="2595" source="Munz Martina" target="Naef Martin" weight="0.832265266643287" />
-      <edge id="2596" source="Munz Martina" target="Nordmann Roger" weight="0.804964248258808" />
-      <edge id="2597" source="Munz Martina" target="Pardini Corrado" weight="0.8356688026702971" />
+      <edge id="2594" source="Munz Martina" target="Munz Martina" weight="1.0000000000000002" />
+      <edge id="2595" source="Munz Martina" target="Naef Martin" weight="0.8322652666432878" />
+      <edge id="2596" source="Munz Martina" target="Nordmann Roger" weight="0.8049642482588074" />
+      <edge id="2597" source="Munz Martina" target="Pardini Corrado" weight="0.8356688026702986" />
       <edge id="2598" source="Munz Martina" target="Piller Carrard Valérie" weight="0.8076923076923075" />
       <edge id="2599" source="Munz Martina" target="Rochat Fernandez Nicolas" weight="0.8500531105800126" />
       <edge id="2600" source="Munz Martina" target="Schenker Silvia" weight="0.8483796839677025" />
@@ -3614,10 +3614,10 @@
       <edge id="2605" source="Munz Martina" target="Töngi Michael" weight="0.8604739588883834" />
       <edge id="2606" source="Munz Martina" target="Wasserfallen Flavia" weight="0.8018417035600127" />
       <edge id="2607" source="Munz Martina" target="Wüthrich Adrian" weight="0.8447560870122903" />
-      <edge id="2608" source="Müri Felix" target="Müri Felix" weight="0.9999999999999988" />
-      <edge id="2609" source="Müri Felix" target="Nicolet Jacques" weight="0.8012576455306435" />
-      <edge id="2610" source="Müri Felix" target="Page Pierre-André" weight="0.8279955111928038" />
-      <edge id="2611" source="Müri Felix" target="Pieren Nadja" weight="0.8331118381970046" />
+      <edge id="2608" source="Müri Felix" target="Müri Felix" weight="0.9999999999999998" />
+      <edge id="2609" source="Müri Felix" target="Nicolet Jacques" weight="0.8012576455306436" />
+      <edge id="2610" source="Müri Felix" target="Page Pierre-André" weight="0.8279955111928036" />
+      <edge id="2611" source="Müri Felix" target="Pieren Nadja" weight="0.8331118381970052" />
       <edge id="2612" source="Müri Felix" target="Quadri Lorenzo" weight="0.8939204715155131" />
       <edge id="2613" source="Müri Felix" target="Rutz Gregor" weight="0.8083563733887935" />
       <edge id="2614" source="Müri Felix" target="Schläpfer Therese" weight="0.8383515352925832" />
@@ -3627,9 +3627,9 @@
       <edge id="2618" source="Müri Felix" target="Tuena Mauro" weight="0.8330459274502099" />
       <edge id="2619" source="Müri Felix" target="Walliser Bruno" weight="0.8330621983551696" />
       <edge id="2620" source="Müri Felix" target="Zanetti Claudio" weight="0.8435912323881618" />
-      <edge id="2621" source="Naef Martin" target="Naef Martin" weight="0.9999999999999986" />
+      <edge id="2621" source="Naef Martin" target="Naef Martin" weight="0.9999999999999998" />
       <edge id="2622" source="Naef Martin" target="Nordmann Roger" weight="0.8061472318559222" />
-      <edge id="2623" source="Naef Martin" target="Pardini Corrado" weight="0.851483543473509" />
+      <edge id="2623" source="Naef Martin" target="Pardini Corrado" weight="0.8514835434735082" />
       <edge id="2624" source="Naef Martin" target="Piller Carrard Valérie" weight="0.832265266643287" />
       <edge id="2625" source="Naef Martin" target="Rochat Fernandez Nicolas" weight="0.8787043780501697" />
       <edge id="2626" source="Naef Martin" target="Rytz Regula" weight="0.8220405913335149" />
@@ -3642,14 +3642,14 @@
       <edge id="2633" source="Naef Martin" target="Töngi Michael" weight="0.8791122806036611" />
       <edge id="2634" source="Naef Martin" target="Wasserfallen Flavia" weight="0.860788380810897" />
       <edge id="2635" source="Naef Martin" target="Wüthrich Adrian" weight="0.8649035093638924" />
-      <edge id="2636" source="Nantermod Philippe" target="Nantermod Philippe" weight="1.0000000000000009" />
-      <edge id="2637" source="Nantermod Philippe" target="Paganini Nicolo" weight="0.8019027347762102" />
+      <edge id="2636" source="Nantermod Philippe" target="Nantermod Philippe" weight="0.9999999999999999" />
+      <edge id="2637" source="Nantermod Philippe" target="Paganini Nicolo" weight="0.8019027347762095" />
       <edge id="2638" source="Nicolet Jacques" target="Nicolet Jacques" weight="1.0" />
-      <edge id="2639" source="Nicolet Jacques" target="Pantani Roberta" weight="0.8591416638513723" />
+      <edge id="2639" source="Nicolet Jacques" target="Pantani Roberta" weight="0.8591416638513724" />
       <edge id="2640" source="Nicolet Jacques" target="Quadri Lorenzo" weight="0.8182218319643684" />
-      <edge id="2641" source="Nidegger Yves" target="Nidegger Yves" weight="0.9999999999999993" />
-      <edge id="2642" source="Nidegger Yves" target="Page Pierre-André" weight="0.8393720596645188" />
-      <edge id="2643" source="Nidegger Yves" target="Pieren Nadja" weight="0.8595799147264891" />
+      <edge id="2641" source="Nidegger Yves" target="Nidegger Yves" weight="1.0" />
+      <edge id="2642" source="Nidegger Yves" target="Page Pierre-André" weight="0.8393720596645176" />
+      <edge id="2643" source="Nidegger Yves" target="Pieren Nadja" weight="0.859579914726488" />
       <edge id="2644" source="Nidegger Yves" target="Ruppen Franz" weight="0.8257749511655419" />
       <edge id="2645" source="Nidegger Yves" target="Salzmann Werner" weight="0.8012385490013239" />
       <edge id="2646" source="Nidegger Yves" target="Schläpfer Therese" weight="0.8644917999534977" />
@@ -3661,8 +3661,8 @@
       <edge id="2652" source="Nidegger Yves" target="Walliser Bruno" weight="0.8590375385642188" />
       <edge id="2653" source="Nidegger Yves" target="Zanetti Claudio" weight="0.8595799147264891" />
       <edge id="2654" source="Nidegger Yves" target="Zuberbühler David" weight="0.8044908160434955" />
-      <edge id="2655" source="Nordmann Roger" target="Nordmann Roger" weight="1.0000000000000004" />
-      <edge id="2656" source="Nordmann Roger" target="Pardini Corrado" weight="0.8073666858042471" />
+      <edge id="2655" source="Nordmann Roger" target="Nordmann Roger" weight="1.0" />
+      <edge id="2656" source="Nordmann Roger" target="Pardini Corrado" weight="0.8073666858042476" />
       <edge id="2657" source="Nordmann Roger" target="Piller Carrard Valérie" weight="0.8391142466697877" />
       <edge id="2658" source="Nordmann Roger" target="Rochat Fernandez Nicolas" weight="0.8845619770997364" />
       <edge id="2659" source="Nordmann Roger" target="Rytz Regula" weight="0.813764599392274" />
@@ -3674,13 +3674,13 @@
       <edge id="2665" source="Nordmann Roger" target="Töngi Michael" weight="0.8280934525669865" />
       <edge id="2666" source="Nordmann Roger" target="Wasserfallen Flavia" weight="0.8183126068344634" />
       <edge id="2667" source="Nordmann Roger" target="Wüthrich Adrian" weight="0.837158465660852" />
-      <edge id="2668" source="Nussbaumer Eric" target="Nussbaumer Eric" weight="0.9999999999999989" />
+      <edge id="2668" source="Nussbaumer Eric" target="Nussbaumer Eric" weight="1.0" />
       <edge id="2669" source="Nussbaumer Eric" target="Reynard Mathias" weight="0.8131249357707336" />
       <edge id="2670" source="Nussbaumer Eric" target="Rochat Fernandez Nicolas" weight="0.8473800503671688" />
       <edge id="2671" source="Nussbaumer Eric" target="Schenker Silvia" weight="0.8048591619689058" />
       <edge id="2672" source="Nussbaumer Eric" target="Thorens Goumaz Adèle" weight="0.8074497210198626" />
-      <edge id="2673" source="Paganini Nicolo" target="Paganini Nicolo" weight="1.000000000000001" />
-      <edge id="2674" source="Paganini Nicolo" target="Pfister Gerhard" weight="0.8679827899255217" />
+      <edge id="2673" source="Paganini Nicolo" target="Paganini Nicolo" weight="1.0000000000000002" />
+      <edge id="2674" source="Paganini Nicolo" target="Pfister Gerhard" weight="0.8679827899255201" />
       <edge id="2675" source="Paganini Nicolo" target="Quadranti Rosmarie" weight="0.8029299444033254" />
       <edge id="2676" source="Paganini Nicolo" target="Regazzi Fabio" weight="0.8054880593573115" />
       <edge id="2677" source="Paganini Nicolo" target="Riklin Kathy" weight="0.8029043659550705" />
@@ -3693,9 +3693,9 @@
       <edge id="2684" source="Paganini Nicolo" target="Vitali Albert" weight="0.8218561212025615" />
       <edge id="2685" source="Paganini Nicolo" target="Vogler Karl" weight="0.865559411676929" />
       <edge id="2686" source="Paganini Nicolo" target="Walti Beat" weight="0.814470934219214" />
-      <edge id="2687" source="Page Pierre-André" target="Page Pierre-André" weight="0.9999999999999994" />
-      <edge id="2688" source="Page Pierre-André" target="Pantani Roberta" weight="0.8339918645937081" />
-      <edge id="2689" source="Page Pierre-André" target="Pieren Nadja" weight="0.9011859714053871" />
+      <edge id="2687" source="Page Pierre-André" target="Page Pierre-André" weight="1.0000000000000002" />
+      <edge id="2688" source="Page Pierre-André" target="Pantani Roberta" weight="0.833991864593709" />
+      <edge id="2689" source="Page Pierre-André" target="Pieren Nadja" weight="0.9011859714053881" />
       <edge id="2690" source="Page Pierre-André" target="Quadri Lorenzo" weight="0.8143290650981666" />
       <edge id="2691" source="Page Pierre-André" target="Reimann Maximilian" weight="0.8206591366701921" />
       <edge id="2692" source="Page Pierre-André" target="Rime Jean-François" weight="0.8370427621563511" />
@@ -3713,7 +3713,7 @@
       <edge id="2704" source="Page Pierre-André" target="Wobmann Walter" weight="0.8337013859610889" />
       <edge id="2705" source="Page Pierre-André" target="Zanetti Claudio" weight="0.9128896853197428" />
       <edge id="2706" source="Page Pierre-André" target="Zuberbühler David" weight="0.879882690128119" />
-      <edge id="2707" source="Pantani Roberta" target="Pantani Roberta" weight="0.9999999999999998" />
+      <edge id="2707" source="Pantani Roberta" target="Pantani Roberta" weight="1.0" />
       <edge id="2708" source="Pantani Roberta" target="Pieren Nadja" weight="0.8640073938638578" />
       <edge id="2709" source="Pantani Roberta" target="Quadri Lorenzo" weight="0.8211579601691441" />
       <edge id="2710" source="Pantani Roberta" target="Rösti Albert" weight="0.8222783583902182" />
@@ -3728,7 +3728,7 @@
       <edge id="2719" source="Pantani Roberta" target="Walliser Bruno" weight="0.8802917884087276" />
       <edge id="2720" source="Pantani Roberta" target="Zanetti Claudio" weight="0.8694757950908443" />
       <edge id="2721" source="Pantani Roberta" target="Zuberbühler David" weight="0.8124380416526459" />
-      <edge id="2722" source="Pardini Corrado" target="Pardini Corrado" weight="0.9999999999999993" />
+      <edge id="2722" source="Pardini Corrado" target="Pardini Corrado" weight="1.0000000000000004" />
       <edge id="2723" source="Pardini Corrado" target="Piller Carrard Valérie" weight="0.8206567882510707" />
       <edge id="2724" source="Pardini Corrado" target="Reynard Mathias" weight="0.8241725314228996" />
       <edge id="2725" source="Pardini Corrado" target="Rochat Fernandez Nicolas" weight="0.8340444120673735" />
@@ -3743,10 +3743,10 @@
       <edge id="2734" source="Pardini Corrado" target="Trede Aline" weight="0.8095114174239658" />
       <edge id="2735" source="Pardini Corrado" target="Wasserfallen Flavia" weight="0.8202761632452537" />
       <edge id="2736" source="Pardini Corrado" target="Wüthrich Adrian" weight="0.8689663862154007" />
-      <edge id="2737" source="Pezzatti Bruno" target="Pezzatti Bruno" weight="0.9999999999999983" />
+      <edge id="2737" source="Pezzatti Bruno" target="Pezzatti Bruno" weight="0.9999999999999999" />
       <edge id="2738" source="Pezzatti Bruno" target="Schneeberger Daniela" weight="0.8286072883544859" />
       <edge id="2739" source="Pezzatti Bruno" target="Vitali Albert" weight="0.809392496352622" />
-      <edge id="2740" source="Pfister Gerhard" target="Pfister Gerhard" weight="0.9999999999999983" />
+      <edge id="2740" source="Pfister Gerhard" target="Pfister Gerhard" weight="1.0" />
       <edge id="2741" source="Pfister Gerhard" target="Quadranti Rosmarie" weight="0.8039692165412256" />
       <edge id="2742" source="Pfister Gerhard" target="Riklin Kathy" weight="0.8016869211820478" />
       <edge id="2743" source="Pfister Gerhard" target="Roduit Benjamin" weight="0.8184725205602171" />
@@ -3770,75 +3770,75 @@
       <edge id="2761" source="Pieren Nadja" target="Wobmann Walter" weight="0.8962354899259339" />
       <edge id="2762" source="Pieren Nadja" target="Zanetti Claudio" weight="0.9745222929936306" />
       <edge id="2763" source="Pieren Nadja" target="Zuberbühler David" weight="0.8949974347244034" />
-      <edge id="2764" source="Piller Carrard Valérie" target="Piller Carrard Valérie" weight="0.9999999999999994" />
-      <edge id="2765" source="Piller Carrard Valérie" target="Reynard Mathias" weight="0.8372314201918424" />
-      <edge id="2766" source="Piller Carrard Valérie" target="Rochat Fernandez Nicolas" weight="0.9204396738764469" />
-      <edge id="2767" source="Piller Carrard Valérie" target="Schenker Silvia" weight="0.8695891760668952" />
-      <edge id="2768" source="Piller Carrard Valérie" target="Schneider Schüttel Ursula" weight="0.8772181816753115" />
-      <edge id="2769" source="Piller Carrard Valérie" target="Seiler Graf Priska" weight="0.8662441523112379" />
+      <edge id="2764" source="Piller Carrard Valérie" target="Piller Carrard Valérie" weight="1.0" />
+      <edge id="2765" source="Piller Carrard Valérie" target="Reynard Mathias" weight="0.8372314201918434" />
+      <edge id="2766" source="Piller Carrard Valérie" target="Rochat Fernandez Nicolas" weight="0.920439673876446" />
+      <edge id="2767" source="Piller Carrard Valérie" target="Schenker Silvia" weight="0.8695891760668962" />
+      <edge id="2768" source="Piller Carrard Valérie" target="Schneider Schüttel Ursula" weight="0.8772181816753107" />
+      <edge id="2769" source="Piller Carrard Valérie" target="Seiler Graf Priska" weight="0.8662441523112372" />
       <edge id="2770" source="Piller Carrard Valérie" target="Semadeni Silva" weight="0.8623745728198113" />
       <edge id="2771" source="Piller Carrard Valérie" target="Sommaruga Carlo" weight="0.8732642450807675" />
       <edge id="2772" source="Piller Carrard Valérie" target="Thorens Goumaz Adèle" weight="0.8003540017183204" />
       <edge id="2773" source="Piller Carrard Valérie" target="Töngi Michael" weight="0.838268179304167" />
       <edge id="2774" source="Piller Carrard Valérie" target="Wasserfallen Flavia" weight="0.8247514665188702" />
       <edge id="2775" source="Piller Carrard Valérie" target="Wüthrich Adrian" weight="0.8398159929361952" />
-      <edge id="2776" source="Portmann Hans-Peter" target="Portmann Hans-Peter" weight="1.0" />
-      <edge id="2777" source="Portmann Hans-Peter" target="Sauter Regine" weight="0.8483295832133987" />
-      <edge id="2778" source="Portmann Hans-Peter" target="Schilliger Peter" weight="0.8363812792244776" />
-      <edge id="2779" source="Portmann Hans-Peter" target="Schneeberger Daniela" weight="0.8282716444122966" />
+      <edge id="2776" source="Portmann Hans-Peter" target="Portmann Hans-Peter" weight="0.9999999999999998" />
+      <edge id="2777" source="Portmann Hans-Peter" target="Sauter Regine" weight="0.8483295832133997" />
+      <edge id="2778" source="Portmann Hans-Peter" target="Schilliger Peter" weight="0.8363812792244786" />
+      <edge id="2779" source="Portmann Hans-Peter" target="Schneeberger Daniela" weight="0.8282716444122984" />
       <edge id="2780" source="Portmann Hans-Peter" target="Vitali Albert" weight="0.855208173110912" />
       <edge id="2781" source="Portmann Hans-Peter" target="Walti Beat" weight="0.8401222084824969" />
-      <edge id="2782" source="Quadranti Rosmarie" target="Quadranti Rosmarie" weight="0.9999999999999982" />
+      <edge id="2782" source="Quadranti Rosmarie" target="Quadranti Rosmarie" weight="0.9999999999999998" />
       <edge id="2783" source="Quadranti Rosmarie" target="Siegenthaler Heinz" weight="0.8035345210693077" />
       <edge id="2784" source="Quadranti Rosmarie" target="Walti Beat" weight="0.807973586582149" />
-      <edge id="2785" source="Quadri Lorenzo" target="Quadri Lorenzo" weight="0.9999999999999998" />
-      <edge id="2786" source="Quadri Lorenzo" target="Ruppen Franz" weight="0.8087660608356593" />
-      <edge id="2787" source="Quadri Lorenzo" target="Schläpfer Therese" weight="0.811238082835416" />
+      <edge id="2785" source="Quadri Lorenzo" target="Quadri Lorenzo" weight="1.0000000000000004" />
+      <edge id="2786" source="Quadri Lorenzo" target="Ruppen Franz" weight="0.8087660608356583" />
+      <edge id="2787" source="Quadri Lorenzo" target="Schläpfer Therese" weight="0.811238082835415" />
       <edge id="2788" source="Quadri Lorenzo" target="Sollberger Sandra" weight="0.8061198103972526" />
       <edge id="2789" source="Quadri Lorenzo" target="Tuena Mauro" weight="0.8109872971546078" />
       <edge id="2790" source="Quadri Lorenzo" target="Walliser Bruno" weight="0.8110958586095813" />
       <edge id="2791" source="Quadri Lorenzo" target="Zanetti Claudio" weight="0.811238082835416" />
-      <edge id="2792" source="Regazzi Fabio" target="Regazzi Fabio" weight="0.9999999999999982" />
-      <edge id="2793" source="Regazzi Fabio" target="Roduit Benjamin" weight="0.8380754741901121" />
-      <edge id="2794" source="Regazzi Fabio" target="Romano Marco" weight="0.829807611411604" />
-      <edge id="2795" source="Reimann Lukas" target="Reimann Lukas" weight="0.9999999999999998" />
-      <edge id="2796" source="Reimann Lukas" target="Rutz Gregor" weight="0.803745550012444" />
-      <edge id="2797" source="Reimann Lukas" target="Schläpfer Therese" weight="0.8033694382534425" />
-      <edge id="2798" source="Reimann Lukas" target="Schwander Pirmin" weight="0.80799670160702" />
+      <edge id="2792" source="Regazzi Fabio" target="Regazzi Fabio" weight="1.0000000000000002" />
+      <edge id="2793" source="Regazzi Fabio" target="Roduit Benjamin" weight="0.8380754741901122" />
+      <edge id="2794" source="Regazzi Fabio" target="Romano Marco" weight="0.8298076114116036" />
+      <edge id="2795" source="Reimann Lukas" target="Reimann Lukas" weight="1.0000000000000002" />
+      <edge id="2796" source="Reimann Lukas" target="Rutz Gregor" weight="0.8037455500124427" />
+      <edge id="2797" source="Reimann Lukas" target="Schläpfer Therese" weight="0.8033694382534426" />
+      <edge id="2798" source="Reimann Lukas" target="Schwander Pirmin" weight="0.8079967016070192" />
       <edge id="2799" source="Reimann Lukas" target="Sollberger Sandra" weight="0.8032285935386394" />
       <edge id="2800" source="Reimann Lukas" target="Tuena Mauro" weight="0.8031210850809565" />
       <edge id="2801" source="Reimann Lukas" target="Vogt Hans-Ueli" weight="0.8119231609082336" />
       <edge id="2802" source="Reimann Lukas" target="Walliser Bruno" weight="0.8032285935386394" />
       <edge id="2803" source="Reimann Lukas" target="Zanetti Claudio" weight="0.8033694382534425" />
-      <edge id="2804" source="Reimann Maximilian" target="Reimann Maximilian" weight="1.0000000000000013" />
-      <edge id="2805" source="Reimann Maximilian" target="Rime Jean-François" weight="0.8294684545739271" />
-      <edge id="2806" source="Reimann Maximilian" target="Rösti Albert" weight="0.80369957966523" />
-      <edge id="2807" source="Reimann Maximilian" target="Ruppen Franz" weight="0.8586272936181863" />
-      <edge id="2808" source="Reimann Maximilian" target="Salzmann Werner" weight="0.8077236090073725" />
-      <edge id="2809" source="Reimann Maximilian" target="Schläpfer Therese" weight="0.8668153598258083" />
-      <edge id="2810" source="Reimann Maximilian" target="Schwander Pirmin" weight="0.8313088700995539" />
+      <edge id="2804" source="Reimann Maximilian" target="Reimann Maximilian" weight="1.0000000000000002" />
+      <edge id="2805" source="Reimann Maximilian" target="Rime Jean-François" weight="0.829468454573927" />
+      <edge id="2806" source="Reimann Maximilian" target="Rösti Albert" weight="0.8036995796652299" />
+      <edge id="2807" source="Reimann Maximilian" target="Ruppen Franz" weight="0.8586272936181871" />
+      <edge id="2808" source="Reimann Maximilian" target="Salzmann Werner" weight="0.807723609007373" />
+      <edge id="2809" source="Reimann Maximilian" target="Schläpfer Therese" weight="0.8668153598258094" />
+      <edge id="2810" source="Reimann Maximilian" target="Schwander Pirmin" weight="0.8313088700995528" />
       <edge id="2811" source="Reimann Maximilian" target="Sollberger Sandra" weight="0.8613464386064491" />
       <edge id="2812" source="Reimann Maximilian" target="Steinemann Barbara" weight="0.8469409559347176" />
       <edge id="2813" source="Reimann Maximilian" target="Tuena Mauro" weight="0.8611991305527759" />
       <edge id="2814" source="Reimann Maximilian" target="Walliser Bruno" weight="0.8613464386064491" />
       <edge id="2815" source="Reimann Maximilian" target="Zanetti Claudio" weight="0.8668153598258083" />
       <edge id="2816" source="Reimann Maximilian" target="Zuberbühler David" weight="0.823102250461848" />
-      <edge id="2817" source="Reynard Mathias" target="Reynard Mathias" weight="1.0000000000000004" />
-      <edge id="2818" source="Reynard Mathias" target="Rochat Fernandez Nicolas" weight="0.8633576903485971" />
-      <edge id="2819" source="Reynard Mathias" target="Rytz Regula" weight="0.8007419377654637" />
-      <edge id="2820" source="Reynard Mathias" target="Schenker Silvia" weight="0.8733145485390672" />
-      <edge id="2821" source="Reynard Mathias" target="Schneider Schüttel Ursula" weight="0.8792249355666615" />
-      <edge id="2822" source="Reynard Mathias" target="Seiler Graf Priska" weight="0.8168476455907017" />
+      <edge id="2817" source="Reynard Mathias" target="Reynard Mathias" weight="1.0" />
+      <edge id="2818" source="Reynard Mathias" target="Rochat Fernandez Nicolas" weight="0.8633576903485961" />
+      <edge id="2819" source="Reynard Mathias" target="Rytz Regula" weight="0.8007419377654632" />
+      <edge id="2820" source="Reynard Mathias" target="Schenker Silvia" weight="0.8733145485390683" />
+      <edge id="2821" source="Reynard Mathias" target="Schneider Schüttel Ursula" weight="0.8792249355666624" />
+      <edge id="2822" source="Reynard Mathias" target="Seiler Graf Priska" weight="0.816847645590701" />
       <edge id="2823" source="Reynard Mathias" target="Semadeni Silva" weight="0.8772689266130242" />
       <edge id="2824" source="Reynard Mathias" target="Sommaruga Carlo" weight="0.8393387257649348" />
       <edge id="2825" source="Reynard Mathias" target="Thorens Goumaz Adèle" weight="0.8663597120014002" />
       <edge id="2826" source="Reynard Mathias" target="Töngi Michael" weight="0.8328040647290802" />
       <edge id="2827" source="Reynard Mathias" target="Wüthrich Adrian" weight="0.8188287291853971" />
-      <edge id="2828" source="Riklin Kathy" target="Riklin Kathy" weight="0.9999999999999993" />
-      <edge id="2829" source="Rime Jean-François" target="Rime Jean-François" weight="1.0000000000000009" />
-      <edge id="2830" source="Rime Jean-François" target="Rösti Albert" weight="0.8092310747257176" />
-      <edge id="2831" source="Rime Jean-François" target="Ruppen Franz" weight="0.855576767692919" />
-      <edge id="2832" source="Rime Jean-François" target="Schläpfer Therese" weight="0.8433954567478629" />
+      <edge id="2828" source="Riklin Kathy" target="Riklin Kathy" weight="0.9999999999999998" />
+      <edge id="2829" source="Rime Jean-François" target="Rime Jean-François" weight="1.0000000000000002" />
+      <edge id="2830" source="Rime Jean-François" target="Rösti Albert" weight="0.8092310747257183" />
+      <edge id="2831" source="Rime Jean-François" target="Ruppen Franz" weight="0.8555767676929176" />
+      <edge id="2832" source="Rime Jean-François" target="Schläpfer Therese" weight="0.8433954567478625" />
       <edge id="2833" source="Rime Jean-François" target="Schwander Pirmin" weight="0.813930876408496" />
       <edge id="2834" source="Rime Jean-François" target="Sollberger Sandra" weight="0.8484208928993306" />
       <edge id="2835" source="Rime Jean-François" target="Steinemann Barbara" weight="0.8294094340560911" />
@@ -3846,36 +3846,36 @@
       <edge id="2837" source="Rime Jean-François" target="Walliser Bruno" weight="0.8484208928993306" />
       <edge id="2838" source="Rime Jean-François" target="Zanetti Claudio" weight="0.8486016015426028" />
       <edge id="2839" source="Rime Jean-François" target="Zuberbühler David" weight="0.8107506050807076" />
-      <edge id="2840" source="Ritter Markus" target="Ritter Markus" weight="1.0000000000000004" />
-      <edge id="2841" source="Ritter Markus" target="Roduit Benjamin" weight="0.847882935691487" />
-      <edge id="2842" source="Ritter Markus" target="Schneider-Schneiter Elisabeth" weight="0.8132597057474479" />
-      <edge id="2843" source="Rochat Fernandez Nicolas" target="Rochat Fernandez Nicolas" weight="1.0000000000000004" />
-      <edge id="2844" source="Rochat Fernandez Nicolas" target="Rytz Regula" weight="0.8215261898480193" />
-      <edge id="2845" source="Rochat Fernandez Nicolas" target="Schenker Silvia" weight="0.8957179548750216" />
-      <edge id="2846" source="Rochat Fernandez Nicolas" target="Schneider Schüttel Ursula" weight="0.9249857672543194" />
-      <edge id="2847" source="Rochat Fernandez Nicolas" target="Seiler Graf Priska" weight="0.9371868093947304" />
+      <edge id="2840" source="Ritter Markus" target="Ritter Markus" weight="1.0" />
+      <edge id="2841" source="Ritter Markus" target="Roduit Benjamin" weight="0.8478829356914879" />
+      <edge id="2842" source="Ritter Markus" target="Schneider-Schneiter Elisabeth" weight="0.813259705747449" />
+      <edge id="2843" source="Rochat Fernandez Nicolas" target="Rochat Fernandez Nicolas" weight="1.0" />
+      <edge id="2844" source="Rochat Fernandez Nicolas" target="Rytz Regula" weight="0.8215261898480195" />
+      <edge id="2845" source="Rochat Fernandez Nicolas" target="Schenker Silvia" weight="0.8957179548750234" />
+      <edge id="2846" source="Rochat Fernandez Nicolas" target="Schneider Schüttel Ursula" weight="0.9249857672543182" />
+      <edge id="2847" source="Rochat Fernandez Nicolas" target="Seiler Graf Priska" weight="0.9371868093947293" />
       <edge id="2848" source="Rochat Fernandez Nicolas" target="Semadeni Silva" weight="0.9064470979949208" />
       <edge id="2849" source="Rochat Fernandez Nicolas" target="Sommaruga Carlo" weight="0.9230211934953769" />
       <edge id="2850" source="Rochat Fernandez Nicolas" target="Thorens Goumaz Adèle" weight="0.8267128799608782" />
       <edge id="2851" source="Rochat Fernandez Nicolas" target="Töngi Michael" weight="0.8627696576586126" />
       <edge id="2852" source="Rochat Fernandez Nicolas" target="Wasserfallen Flavia" weight="0.8927018564656544" />
       <edge id="2853" source="Rochat Fernandez Nicolas" target="Wüthrich Adrian" weight="0.906843965336309" />
-      <edge id="2854" source="Roduit Benjamin" target="Roduit Benjamin" weight="1.0000000000000007" />
-      <edge id="2855" source="Roduit Benjamin" target="Romano Marco" weight="0.8407637254251121" />
-      <edge id="2856" source="Roduit Benjamin" target="Schneeberger Daniela" weight="0.8091445674857307" />
-      <edge id="2857" source="Roduit Benjamin" target="Schneider-Schneiter Elisabeth" weight="0.8630530705855464" />
+      <edge id="2854" source="Roduit Benjamin" target="Roduit Benjamin" weight="1.0" />
+      <edge id="2855" source="Roduit Benjamin" target="Romano Marco" weight="0.8407637254251135" />
+      <edge id="2856" source="Roduit Benjamin" target="Schneeberger Daniela" weight="0.8091445674857294" />
+      <edge id="2857" source="Roduit Benjamin" target="Schneider-Schneiter Elisabeth" weight="0.8630530705855475" />
       <edge id="2858" source="Roduit Benjamin" target="Siegenthaler Heinz" weight="0.8095088376846997" />
       <edge id="2859" source="Roduit Benjamin" target="Vitali Albert" weight="0.8234668221623046" />
       <edge id="2860" source="Roduit Benjamin" target="Vogler Karl" weight="0.8142718100741895" />
-      <edge id="2861" source="Romano Marco" target="Romano Marco" weight="0.9999999999999996" />
-      <edge id="2862" source="Romano Marco" target="Schilliger Peter" weight="0.8332809431901709" />
-      <edge id="2863" source="Romano Marco" target="Schneider-Schneiter Elisabeth" weight="0.8348516909426971" />
-      <edge id="2864" source="Rösti Albert" target="Rösti Albert" weight="0.9999999999999982" />
-      <edge id="2865" source="Rösti Albert" target="Ruppen Franz" weight="0.8537714095908273" />
-      <edge id="2866" source="Rösti Albert" target="Rutz Gregor" weight="0.8674180613083572" />
-      <edge id="2867" source="Rösti Albert" target="Salzmann Werner" weight="0.8361369824080307" />
-      <edge id="2868" source="Rösti Albert" target="Schläpfer Therese" weight="0.9039577138062029" />
-      <edge id="2869" source="Rösti Albert" target="Schwander Pirmin" weight="0.9020321746869786" />
+      <edge id="2861" source="Romano Marco" target="Romano Marco" weight="0.9999999999999999" />
+      <edge id="2862" source="Romano Marco" target="Schilliger Peter" weight="0.8332809431901727" />
+      <edge id="2863" source="Romano Marco" target="Schneider-Schneiter Elisabeth" weight="0.8348516909426972" />
+      <edge id="2864" source="Rösti Albert" target="Rösti Albert" weight="1.0" />
+      <edge id="2865" source="Rösti Albert" target="Ruppen Franz" weight="0.8537714095908286" />
+      <edge id="2866" source="Rösti Albert" target="Rutz Gregor" weight="0.8674180613083573" />
+      <edge id="2867" source="Rösti Albert" target="Salzmann Werner" weight="0.8361369824080296" />
+      <edge id="2868" source="Rösti Albert" target="Schläpfer Therese" weight="0.9039577138062043" />
+      <edge id="2869" source="Rösti Albert" target="Schwander Pirmin" weight="0.902032174686978" />
       <edge id="2870" source="Rösti Albert" target="Sollberger Sandra" weight="0.8929077009291044" />
       <edge id="2871" source="Rösti Albert" target="Steinemann Barbara" weight="0.9170244977417562" />
       <edge id="2872" source="Rösti Albert" target="Tuena Mauro" weight="0.908598116011749" />
@@ -3884,11 +3884,11 @@
       <edge id="2875" source="Rösti Albert" target="Wobmann Walter" weight="0.8280921911937017" />
       <edge id="2876" source="Rösti Albert" target="Zanetti Claudio" weight="0.9093384144836208" />
       <edge id="2877" source="Rösti Albert" target="Zuberbühler David" weight="0.8331184014724355" />
-      <edge id="2878" source="Ruppen Franz" target="Ruppen Franz" weight="1.0" />
-      <edge id="2879" source="Ruppen Franz" target="Rutz Gregor" weight="0.8655229959662095" />
-      <edge id="2880" source="Ruppen Franz" target="Salzmann Werner" weight="0.8366982852178872" />
-      <edge id="2881" source="Ruppen Franz" target="Schläpfer Therese" weight="0.9204183548183458" />
-      <edge id="2882" source="Ruppen Franz" target="Schwander Pirmin" weight="0.8895219828574468" />
+      <edge id="2878" source="Ruppen Franz" target="Ruppen Franz" weight="0.9999999999999999" />
+      <edge id="2879" source="Ruppen Franz" target="Rutz Gregor" weight="0.8655229959662103" />
+      <edge id="2880" source="Ruppen Franz" target="Salzmann Werner" weight="0.8366982852178888" />
+      <edge id="2881" source="Ruppen Franz" target="Schläpfer Therese" weight="0.9204183548183447" />
+      <edge id="2882" source="Ruppen Franz" target="Schwander Pirmin" weight="0.8895219828574483" />
       <edge id="2883" source="Ruppen Franz" target="Sollberger Sandra" weight="0.9265669434764454" />
       <edge id="2884" source="Ruppen Franz" target="Steinemann Barbara" weight="0.9026785773512879" />
       <edge id="2885" source="Ruppen Franz" target="Tuena Mauro" weight="0.9267344902174288" />
@@ -3897,10 +3897,10 @@
       <edge id="2888" source="Ruppen Franz" target="Wobmann Walter" weight="0.8358969374887073" />
       <edge id="2889" source="Ruppen Franz" target="Zanetti Claudio" weight="0.9264341610589886" />
       <edge id="2890" source="Ruppen Franz" target="Zuberbühler David" weight="0.8668451156610719" />
-      <edge id="2891" source="Rutz Gregor" target="Rutz Gregor" weight="1.0000000000000013" />
-      <edge id="2892" source="Rutz Gregor" target="Salzmann Werner" weight="0.8152024986325551" />
-      <edge id="2893" source="Rutz Gregor" target="Schläpfer Therese" weight="0.8943181510810678" />
-      <edge id="2894" source="Rutz Gregor" target="Schwander Pirmin" weight="0.8734730411854291" />
+      <edge id="2891" source="Rutz Gregor" target="Rutz Gregor" weight="1.0" />
+      <edge id="2892" source="Rutz Gregor" target="Salzmann Werner" weight="0.8152024986325541" />
+      <edge id="2893" source="Rutz Gregor" target="Schläpfer Therese" weight="0.8943181510810687" />
+      <edge id="2894" source="Rutz Gregor" target="Schwander Pirmin" weight="0.8734730411854292" />
       <edge id="2895" source="Rutz Gregor" target="Sollberger Sandra" weight="0.8941613614660602" />
       <edge id="2896" source="Rutz Gregor" target="Steinemann Barbara" weight="0.910167480307799" />
       <edge id="2897" source="Rutz Gregor" target="Tuena Mauro" weight="0.8994931557462731" />
@@ -3909,10 +3909,10 @@
       <edge id="2900" source="Rutz Gregor" target="Wobmann Walter" weight="0.8156204752276801" />
       <edge id="2901" source="Rutz Gregor" target="Zanetti Claudio" weight="0.8998386334951485" />
       <edge id="2902" source="Rutz Gregor" target="Zuberbühler David" weight="0.8152349038421601" />
-      <edge id="2903" source="Rytz Regula" target="Rytz Regula" weight="0.9999999999999998" />
-      <edge id="2904" source="Rytz Regula" target="Schenker Silvia" weight="0.889784437872952" />
-      <edge id="2905" source="Rytz Regula" target="Schneider Schüttel Ursula" weight="0.8814662364559701" />
-      <edge id="2906" source="Rytz Regula" target="Seiler Graf Priska" weight="0.816647885682869" />
+      <edge id="2903" source="Rytz Regula" target="Rytz Regula" weight="1.0" />
+      <edge id="2904" source="Rytz Regula" target="Schenker Silvia" weight="0.8897844378729509" />
+      <edge id="2905" source="Rytz Regula" target="Schneider Schüttel Ursula" weight="0.8814662364559702" />
+      <edge id="2906" source="Rytz Regula" target="Seiler Graf Priska" weight="0.8166478856828694" />
       <edge id="2907" source="Rytz Regula" target="Semadeni Silva" weight="0.8297879864055966" />
       <edge id="2908" source="Rytz Regula" target="Sommaruga Carlo" weight="0.8186667957741551" />
       <edge id="2909" source="Rytz Regula" target="Thorens Goumaz Adèle" weight="0.8400872116764145" />
@@ -3920,9 +3920,9 @@
       <edge id="2911" source="Rytz Regula" target="Trede Aline" weight="0.8433349199384461" />
       <edge id="2912" source="Rytz Regula" target="Wasserfallen Flavia" weight="0.8287454437110774" />
       <edge id="2913" source="Rytz Regula" target="Wüthrich Adrian" weight="0.8240268534978671" />
-      <edge id="2914" source="Salzmann Werner" target="Salzmann Werner" weight="1.0000000000000007" />
-      <edge id="2915" source="Salzmann Werner" target="Schläpfer Therese" weight="0.9077546036797494" />
-      <edge id="2916" source="Salzmann Werner" target="Schwander Pirmin" weight="0.8755329326962198" />
+      <edge id="2914" source="Salzmann Werner" target="Salzmann Werner" weight="1.0" />
+      <edge id="2915" source="Salzmann Werner" target="Schläpfer Therese" weight="0.9077546036797495" />
+      <edge id="2916" source="Salzmann Werner" target="Schwander Pirmin" weight="0.8755329326962199" />
       <edge id="2917" source="Salzmann Werner" target="Sollberger Sandra" weight="0.8911595882656255" />
       <edge id="2918" source="Salzmann Werner" target="Steinemann Barbara" weight="0.8813205599250307" />
       <edge id="2919" source="Salzmann Werner" target="Tuena Mauro" weight="0.9072073121204045" />
@@ -3931,15 +3931,15 @@
       <edge id="2922" source="Salzmann Werner" target="Wobmann Walter" weight="0.8656347540222278" />
       <edge id="2923" source="Salzmann Werner" target="Zanetti Claudio" weight="0.9022862024527629" />
       <edge id="2924" source="Salzmann Werner" target="Zuberbühler David" weight="0.8662742974248091" />
-      <edge id="2925" source="Sauter Regine" target="Sauter Regine" weight="1.0000000000000016" />
-      <edge id="2926" source="Sauter Regine" target="Schilliger Peter" weight="0.8007518796992492" />
-      <edge id="2927" source="Sauter Regine" target="Schneeberger Daniela" weight="0.8083855306667344" />
+      <edge id="2925" source="Sauter Regine" target="Sauter Regine" weight="1.0000000000000002" />
+      <edge id="2926" source="Sauter Regine" target="Schilliger Peter" weight="0.8007518796992483" />
+      <edge id="2927" source="Sauter Regine" target="Schneeberger Daniela" weight="0.808385530666736" />
       <edge id="2928" source="Sauter Regine" target="Siegenthaler Heinz" weight="0.8374930051238503" />
       <edge id="2929" source="Sauter Regine" target="Vitali Albert" weight="0.818831935231469" />
       <edge id="2930" source="Sauter Regine" target="Walti Beat" weight="0.8170352559531229" />
-      <edge id="2931" source="Schenker Silvia" target="Schenker Silvia" weight="0.9999999999999996" />
-      <edge id="2932" source="Schenker Silvia" target="Schneider Schüttel Ursula" weight="0.948991462196386" />
-      <edge id="2933" source="Schenker Silvia" target="Seiler Graf Priska" weight="0.9070696385214388" />
+      <edge id="2931" source="Schenker Silvia" target="Schenker Silvia" weight="1.0" />
+      <edge id="2932" source="Schenker Silvia" target="Schneider Schüttel Ursula" weight="0.9489914621963874" />
+      <edge id="2933" source="Schenker Silvia" target="Seiler Graf Priska" weight="0.9070696385214403" />
       <edge id="2934" source="Schenker Silvia" target="Semadeni Silva" weight="0.90499309022478" />
       <edge id="2935" source="Schenker Silvia" target="Sommaruga Carlo" weight="0.88240936400358" />
       <edge id="2936" source="Schenker Silvia" target="Thorens Goumaz Adèle" weight="0.8883276242880973" />
@@ -3948,12 +3948,12 @@
       <edge id="2939" source="Schenker Silvia" target="Wasserfallen Flavia" weight="0.8691858559580055" />
       <edge id="2940" source="Schenker Silvia" target="Wermuth Cédric" weight="0.8108351099077521" />
       <edge id="2941" source="Schenker Silvia" target="Wüthrich Adrian" weight="0.9153308785089762" />
-      <edge id="2942" source="Schilliger Peter" target="Schilliger Peter" weight="1.0000000000000029" />
-      <edge id="2943" source="Schilliger Peter" target="Schneeberger Daniela" weight="0.8387474285321516" />
+      <edge id="2942" source="Schilliger Peter" target="Schilliger Peter" weight="1.0" />
+      <edge id="2943" source="Schilliger Peter" target="Schneeberger Daniela" weight="0.8387474285321534" />
       <edge id="2944" source="Schilliger Peter" target="Vitali Albert" weight="0.8149695204426417" />
       <edge id="2945" source="Schilliger Peter" target="Wasserfallen Christian" weight="0.8437993747131272" />
       <edge id="2946" source="Schläpfer Therese" target="Schläpfer Therese" weight="1.0" />
-      <edge id="2947" source="Schläpfer Therese" target="Schwander Pirmin" weight="0.9598061387379864" />
+      <edge id="2947" source="Schläpfer Therese" target="Schwander Pirmin" weight="0.9598061387379853" />
       <edge id="2948" source="Schläpfer Therese" target="Sollberger Sandra" weight="0.9810323073652452" />
       <edge id="2949" source="Schläpfer Therese" target="Steinemann Barbara" weight="0.9675389937520642" />
       <edge id="2950" source="Schläpfer Therese" target="Tuena Mauro" weight="0.9874995086090439" />
@@ -3962,12 +3962,12 @@
       <edge id="2953" source="Schläpfer Therese" target="Wobmann Walter" weight="0.8962354899259339" />
       <edge id="2954" source="Schläpfer Therese" target="Zanetti Claudio" weight="0.9872611464968153" />
       <edge id="2955" source="Schläpfer Therese" target="Zuberbühler David" weight="0.9063986759310838" />
-      <edge id="2956" source="Schneeberger Daniela" target="Schneeberger Daniela" weight="0.999999999999998" />
-      <edge id="2957" source="Schneeberger Daniela" target="Schneider-Schneiter Elisabeth" weight="0.8251189154345111" />
+      <edge id="2956" source="Schneeberger Daniela" target="Schneeberger Daniela" weight="1.0000000000000002" />
+      <edge id="2957" source="Schneeberger Daniela" target="Schneider-Schneiter Elisabeth" weight="0.8251189154345098" />
       <edge id="2958" source="Schneeberger Daniela" target="Vitali Albert" weight="0.8305371808399207" />
       <edge id="2959" source="Schneeberger Daniela" target="Walti Beat" weight="0.8178928427626673" />
       <edge id="2960" source="Schneider Schüttel Ursula" target="Schneider Schüttel Ursula" weight="1.0" />
-      <edge id="2961" source="Schneider Schüttel Ursula" target="Seiler Graf Priska" weight="0.9105787198346297" />
+      <edge id="2961" source="Schneider Schüttel Ursula" target="Seiler Graf Priska" weight="0.9105787198346301" />
       <edge id="2962" source="Schneider Schüttel Ursula" target="Semadeni Silva" weight="0.9293402275591118" />
       <edge id="2963" source="Schneider Schüttel Ursula" target="Sommaruga Carlo" weight="0.8674718402325823" />
       <edge id="2964" source="Schneider Schüttel Ursula" target="Thorens Goumaz Adèle" weight="0.8946037672153513" />
@@ -3985,7 +3985,7 @@
       <edge id="2976" source="Schwander Pirmin" target="Wobmann Walter" weight="0.8757364692882348" />
       <edge id="2977" source="Schwander Pirmin" target="Zanetti Claudio" weight="0.9598061387379864" />
       <edge id="2978" source="Schwander Pirmin" target="Zuberbühler David" weight="0.8751307326032952" />
-      <edge id="2979" source="Seiler Graf Priska" target="Seiler Graf Priska" weight="0.9999999999999993" />
+      <edge id="2979" source="Seiler Graf Priska" target="Seiler Graf Priska" weight="1.0" />
       <edge id="2980" source="Seiler Graf Priska" target="Semadeni Silva" weight="0.8940922938961487" />
       <edge id="2981" source="Seiler Graf Priska" target="Sommaruga Carlo" weight="0.9135830318074211" />
       <edge id="2982" source="Seiler Graf Priska" target="Thorens Goumaz Adèle" weight="0.8256312061468128" />
@@ -3994,76 +3994,76 @@
       <edge id="2985" source="Seiler Graf Priska" target="Wüthrich Adrian" weight="0.9201035174689016" />
       <edge id="2986" source="Semadeni Silva" target="Semadeni Silva" weight="1.0" />
       <edge id="2987" source="Semadeni Silva" target="Sommaruga Carlo" weight="0.8856955293197916" />
-      <edge id="2988" source="Semadeni Silva" target="Thorens Goumaz Adèle" weight="0.8368251984592787" />
-      <edge id="2989" source="Semadeni Silva" target="Töngi Michael" weight="0.8750832461232987" />
-      <edge id="2990" source="Semadeni Silva" target="Wasserfallen Flavia" weight="0.8517694027857724" />
-      <edge id="2991" source="Semadeni Silva" target="Wüthrich Adrian" weight="0.8968648927804941" />
-      <edge id="2992" source="Siegenthaler Heinz" target="Siegenthaler Heinz" weight="1.0000000000000004" />
-      <edge id="2993" source="Siegenthaler Heinz" target="Vitali Albert" weight="0.8201662469723281" />
+      <edge id="2988" source="Semadeni Silva" target="Thorens Goumaz Adèle" weight="0.8368251984592797" />
+      <edge id="2989" source="Semadeni Silva" target="Töngi Michael" weight="0.8750832461232975" />
+      <edge id="2990" source="Semadeni Silva" target="Wasserfallen Flavia" weight="0.8517694027857732" />
+      <edge id="2991" source="Semadeni Silva" target="Wüthrich Adrian" weight="0.8968648927804952" />
+      <edge id="2992" source="Siegenthaler Heinz" target="Siegenthaler Heinz" weight="0.9999999999999999" />
+      <edge id="2993" source="Siegenthaler Heinz" target="Vitali Albert" weight="0.8201662469723273" />
       <edge id="2994" source="Sollberger Sandra" target="Sollberger Sandra" weight="1.0" />
-      <edge id="2995" source="Sollberger Sandra" target="Steinemann Barbara" weight="0.9555721798371839" />
-      <edge id="2996" source="Sollberger Sandra" target="Tuena Mauro" weight="0.9875192876744466" />
-      <edge id="2997" source="Sollberger Sandra" target="Vogt Hans-Ueli" weight="0.8670697337185045" />
+      <edge id="2995" source="Sollberger Sandra" target="Steinemann Barbara" weight="0.9555721798371827" />
+      <edge id="2996" source="Sollberger Sandra" target="Tuena Mauro" weight="0.9875192876744452" />
+      <edge id="2997" source="Sollberger Sandra" target="Vogt Hans-Ueli" weight="0.8670697337185043" />
       <edge id="2998" source="Sollberger Sandra" target="Walliser Bruno" weight="0.9811320754716981" />
-      <edge id="2999" source="Sollberger Sandra" target="Wobmann Walter" weight="0.896147081833853" />
-      <edge id="3000" source="Sollberger Sandra" target="Zanetti Claudio" weight="0.9873615480579241" />
-      <edge id="3001" source="Sollberger Sandra" target="Zuberbühler David" weight="0.8893507068410622" />
-      <edge id="3002" source="Sommaruga Carlo" target="Sommaruga Carlo" weight="1.0000000000000004" />
-      <edge id="3003" source="Sommaruga Carlo" target="Thorens Goumaz Adèle" weight="0.8069805166098205" />
-      <edge id="3004" source="Sommaruga Carlo" target="Töngi Michael" weight="0.8731597629107677" />
-      <edge id="3005" source="Sommaruga Carlo" target="Wasserfallen Flavia" weight="0.8555086344178481" />
-      <edge id="3006" source="Sommaruga Carlo" target="Wüthrich Adrian" weight="0.8672360153253138" />
-      <edge id="3007" source="Stamm Luzi" target="Stamm Luzi" weight="0.9999999999999998" />
-      <edge id="3008" source="Steinemann Barbara" target="Steinemann Barbara" weight="1.0000000000000009" />
-      <edge id="3009" source="Steinemann Barbara" target="Tuena Mauro" weight="0.9670960404133044" />
-      <edge id="3010" source="Steinemann Barbara" target="Vogt Hans-Ueli" weight="0.8476403906945755" />
-      <edge id="3011" source="Steinemann Barbara" target="Walliser Bruno" weight="0.9672969918597261" />
-      <edge id="3012" source="Steinemann Barbara" target="Wobmann Walter" weight="0.8820137540893305" />
-      <edge id="3013" source="Steinemann Barbara" target="Zanetti Claudio" weight="0.9616393657413809" />
-      <edge id="3014" source="Steinemann Barbara" target="Zuberbühler David" weight="0.8923456770808789" />
-      <edge id="3015" source="Streiff-Feller Marianne" target="Streiff-Feller Marianne" weight="1.0000000000000016" />
-      <edge id="3016" source="Thorens Goumaz Adèle" target="Thorens Goumaz Adèle" weight="0.9999999999999997" />
-      <edge id="3017" source="Thorens Goumaz Adèle" target="Töngi Michael" weight="0.8829642006478977" />
+      <edge id="2999" source="Sollberger Sandra" target="Wobmann Walter" weight="0.896147081833854" />
+      <edge id="3000" source="Sollberger Sandra" target="Zanetti Claudio" weight="0.9873615480579255" />
+      <edge id="3001" source="Sollberger Sandra" target="Zuberbühler David" weight="0.8893507068410618" />
+      <edge id="3002" source="Sommaruga Carlo" target="Sommaruga Carlo" weight="0.9999999999999998" />
+      <edge id="3003" source="Sommaruga Carlo" target="Thorens Goumaz Adèle" weight="0.8069805166098195" />
+      <edge id="3004" source="Sommaruga Carlo" target="Töngi Michael" weight="0.8731597629107672" />
+      <edge id="3005" source="Sommaruga Carlo" target="Wasserfallen Flavia" weight="0.8555086344178482" />
+      <edge id="3006" source="Sommaruga Carlo" target="Wüthrich Adrian" weight="0.8672360153253141" />
+      <edge id="3007" source="Stamm Luzi" target="Stamm Luzi" weight="1.0" />
+      <edge id="3008" source="Steinemann Barbara" target="Steinemann Barbara" weight="1.0000000000000002" />
+      <edge id="3009" source="Steinemann Barbara" target="Tuena Mauro" weight="0.9670960404133037" />
+      <edge id="3010" source="Steinemann Barbara" target="Vogt Hans-Ueli" weight="0.8476403906945769" />
+      <edge id="3011" source="Steinemann Barbara" target="Walliser Bruno" weight="0.9672969918597247" />
+      <edge id="3012" source="Steinemann Barbara" target="Wobmann Walter" weight="0.8820137540893321" />
+      <edge id="3013" source="Steinemann Barbara" target="Zanetti Claudio" weight="0.9616393657413795" />
+      <edge id="3014" source="Steinemann Barbara" target="Zuberbühler David" weight="0.8923456770808771" />
+      <edge id="3015" source="Streiff-Feller Marianne" target="Streiff-Feller Marianne" weight="1.0000000000000002" />
+      <edge id="3016" source="Thorens Goumaz Adèle" target="Thorens Goumaz Adèle" weight="0.9999999999999999" />
+      <edge id="3017" source="Thorens Goumaz Adèle" target="Töngi Michael" weight="0.882964200647897" />
       <edge id="3018" source="Thorens Goumaz Adèle" target="Wasserfallen Flavia" weight="0.8405092508586356" />
-      <edge id="3019" source="Thorens Goumaz Adèle" target="Wüthrich Adrian" weight="0.8381099669145534" />
-      <edge id="3020" source="Töngi Michael" target="Töngi Michael" weight="0.9999999999999986" />
-      <edge id="3021" source="Töngi Michael" target="Trede Aline" weight="0.8727030106187745" />
-      <edge id="3022" source="Töngi Michael" target="Wasserfallen Flavia" weight="0.8094898180556519" />
-      <edge id="3023" source="Töngi Michael" target="Wüthrich Adrian" weight="0.8898753691325725" />
-      <edge id="3024" source="Tornare Manuel" target="Tornare Manuel" weight="1.0000000000000024" />
-      <edge id="3025" source="Trede Aline" target="Trede Aline" weight="0.9999999999999998" />
-      <edge id="3026" source="Tuena Mauro" target="Tuena Mauro" weight="1.0000000000000013" />
+      <edge id="3019" source="Thorens Goumaz Adèle" target="Wüthrich Adrian" weight="0.838109966914554" />
+      <edge id="3020" source="Töngi Michael" target="Töngi Michael" weight="0.9999999999999998" />
+      <edge id="3021" source="Töngi Michael" target="Trede Aline" weight="0.8727030106187756" />
+      <edge id="3022" source="Töngi Michael" target="Wasserfallen Flavia" weight="0.8094898180556531" />
+      <edge id="3023" source="Töngi Michael" target="Wüthrich Adrian" weight="0.8898753691325727" />
+      <edge id="3024" source="Tornare Manuel" target="Tornare Manuel" weight="0.9999999999999999" />
+      <edge id="3025" source="Trede Aline" target="Trede Aline" weight="1.0000000000000002" />
+      <edge id="3026" source="Tuena Mauro" target="Tuena Mauro" weight="0.9999999999999998" />
       <edge id="3027" source="Tuena Mauro" target="Vogt Hans-Ueli" weight="0.8669214468630109" />
-      <edge id="3028" source="Tuena Mauro" target="Walliser Bruno" weight="0.9875192876744467" />
-      <edge id="3029" source="Tuena Mauro" target="Wobmann Walter" weight="0.8960950072235958" />
-      <edge id="3030" source="Tuena Mauro" target="Zanetti Claudio" weight="0.9874995086090439" />
-      <edge id="3031" source="Tuena Mauro" target="Zuberbühler David" weight="0.9063269671749643" />
-      <edge id="3032" source="Vitali Albert" target="Vitali Albert" weight="0.9999999999999982" />
-      <edge id="3033" source="Vitali Albert" target="Walti Beat" weight="0.8147349897041851" />
+      <edge id="3028" source="Tuena Mauro" target="Walliser Bruno" weight="0.9875192876744451" />
+      <edge id="3029" source="Tuena Mauro" target="Wobmann Walter" weight="0.8960950072235955" />
+      <edge id="3030" source="Tuena Mauro" target="Zanetti Claudio" weight="0.9874995086090452" />
+      <edge id="3031" source="Tuena Mauro" target="Zuberbühler David" weight="0.9063269671749656" />
+      <edge id="3032" source="Vitali Albert" target="Vitali Albert" weight="0.9999999999999997" />
+      <edge id="3033" source="Vitali Albert" target="Walti Beat" weight="0.8147349897041833" />
       <edge id="3034" source="Vogler Karl" target="Vogler Karl" weight="1.0" />
-      <edge id="3035" source="Vogt Hans-Ueli" target="Vogt Hans-Ueli" weight="0.9999999999999984" />
-      <edge id="3036" source="Vogt Hans-Ueli" target="Walliser Bruno" weight="0.8512087020041417" />
-      <edge id="3037" source="Vogt Hans-Ueli" target="Wobmann Walter" weight="0.8001231432316986" />
-      <edge id="3038" source="Vogt Hans-Ueli" target="Zanetti Claudio" weight="0.8512926767654627" />
-      <edge id="3039" source="von Siebenthal Erich" target="von Siebenthal Erich" weight="0.9999999999999991" />
+      <edge id="3035" source="Vogt Hans-Ueli" target="Vogt Hans-Ueli" weight="1.0" />
+      <edge id="3036" source="Vogt Hans-Ueli" target="Walliser Bruno" weight="0.8512087020041414" />
+      <edge id="3037" source="Vogt Hans-Ueli" target="Wobmann Walter" weight="0.8001231432317" />
+      <edge id="3038" source="Vogt Hans-Ueli" target="Zanetti Claudio" weight="0.8512926767654637" />
+      <edge id="3039" source="von Siebenthal Erich" target="von Siebenthal Erich" weight="0.9999999999999999" />
       <edge id="3040" source="Walliser Bruno" target="Walliser Bruno" weight="1.0" />
-      <edge id="3041" source="Walliser Bruno" target="Wobmann Walter" weight="0.8961470818338529" />
-      <edge id="3042" source="Walliser Bruno" target="Zanetti Claudio" weight="0.9873615480579241" />
-      <edge id="3043" source="Walliser Bruno" target="Zuberbühler David" weight="0.9006800152084644" />
-      <edge id="3044" source="Walti Beat" target="Walti Beat" weight="1.0000000000000016" />
-      <edge id="3045" source="Wasserfallen Christian" target="Wasserfallen Christian" weight="1.0000000000000007" />
-      <edge id="3046" source="Wasserfallen Flavia" target="Wasserfallen Flavia" weight="1.0000000000000009" />
-      <edge id="3047" source="Wasserfallen Flavia" target="Wüthrich Adrian" weight="0.8615891782300273" />
-      <edge id="3048" source="Wehrli Laurent" target="Wehrli Laurent" weight="1.0000000000000024" />
-      <edge id="3049" source="Weibel Thomas" target="Weibel Thomas" weight="1.0000000000000007" />
-      <edge id="3050" source="Wermuth Cédric" target="Wermuth Cédric" weight="1.0000000000000004" />
-      <edge id="3051" source="Wobmann Walter" target="Wobmann Walter" weight="0.9999999999999991" />
-      <edge id="3052" source="Wobmann Walter" target="Zanetti Claudio" weight="0.8962354899259339" />
-      <edge id="3053" source="Wobmann Walter" target="Zuberbühler David" weight="0.8372215847098616" />
-      <edge id="3054" source="Wüthrich Adrian" target="Wüthrich Adrian" weight="1.0000000000000016" />
+      <edge id="3041" source="Walliser Bruno" target="Wobmann Walter" weight="0.8961470818338542" />
+      <edge id="3042" source="Walliser Bruno" target="Zanetti Claudio" weight="0.9873615480579256" />
+      <edge id="3043" source="Walliser Bruno" target="Zuberbühler David" weight="0.9006800152084639" />
+      <edge id="3044" source="Walti Beat" target="Walti Beat" weight="1.0000000000000002" />
+      <edge id="3045" source="Wasserfallen Christian" target="Wasserfallen Christian" weight="1.0000000000000002" />
+      <edge id="3046" source="Wasserfallen Flavia" target="Wasserfallen Flavia" weight="0.9999999999999999" />
+      <edge id="3047" source="Wasserfallen Flavia" target="Wüthrich Adrian" weight="0.8615891782300263" />
+      <edge id="3048" source="Wehrli Laurent" target="Wehrli Laurent" weight="0.9999999999999998" />
+      <edge id="3049" source="Weibel Thomas" target="Weibel Thomas" weight="1.0" />
+      <edge id="3050" source="Wermuth Cédric" target="Wermuth Cédric" weight="1.0" />
+      <edge id="3051" source="Wobmann Walter" target="Wobmann Walter" weight="1.0" />
+      <edge id="3052" source="Wobmann Walter" target="Zanetti Claudio" weight="0.8962354899259348" />
+      <edge id="3053" source="Wobmann Walter" target="Zuberbühler David" weight="0.8372215847098614" />
+      <edge id="3054" source="Wüthrich Adrian" target="Wüthrich Adrian" weight="1.0000000000000004" />
       <edge id="3055" source="Zanetti Claudio" target="Zanetti Claudio" weight="1.0" />
-      <edge id="3056" source="Zanetti Claudio" target="Zuberbühler David" weight="0.8892968141210633" />
-      <edge id="3057" source="Zuberbühler David" target="Zuberbühler David" weight="1.0000000000000002" />
+      <edge id="3056" source="Zanetti Claudio" target="Zuberbühler David" weight="0.8892968141210644" />
+      <edge id="3057" source="Zuberbühler David" target="Zuberbühler David" weight="1.0" />
     </edges>
   </graph>
 </gexf>
